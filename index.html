@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>FUERA DE JUEGO | Noticias, rumores verificados y polémicas de fútbol</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&family=Archivo+Black&display=swap">
+<style>
+:root{--bg:#f3f5f0;--surface:#fff;--ink:#10201a;--muted:#55645c;--pitch:#0e3b2e;--pitch-ink:#eaf3ee;--yellow:#ffd60a;--red:#e63946;--line:#d6ddd5;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0b1511;--surface:#13221b;--ink:#eaf1ec;--muted:#9bb0a4;--pitch:#06241b;--line:#24382e}}
+:root[data-theme="dark"]{--bg:#0b1511;--surface:#13221b;--ink:#eaf1ec;--muted:#9bb0a4;--pitch:#06241b;--line:#24382e}
+*{box-sizing:border-box}
+html{scroll-padding-top:70px}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Archivo',system-ui,Arial,sans-serif;line-height:1.55}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding:0 18px}
+header{background:var(--pitch);color:var(--pitch-ink);position:sticky;top:0;z-index:20}
+header .wrap{display:flex;align-items:center;gap:18px;flex-wrap:wrap;padding-top:12px;padding-bottom:12px}
+.logo{font-family:'Archivo Black',Impact,sans-serif;font-size:1.25rem;text-decoration:none;display:flex;align-items:center;gap:8px;letter-spacing:.5px}
+.logo i{display:inline-block;width:14px;height:20px;background:var(--yellow);border-radius:2px;transform:rotate(-8deg)}
+nav{display:flex;gap:4px;flex-wrap:wrap;margin-left:auto}
+nav a{padding:6px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:.95rem}
+nav a:hover,nav a:focus-visible{background:rgba(255,255,255,.14);outline:none}
+.hero{background:var(--pitch);color:var(--pitch-ink);position:relative;overflow:hidden;padding:56px 0 70px}
+.hero::after{content:"";position:absolute;top:0;bottom:0;left:62%;width:3px;background:var(--yellow);transform:skewX(-14deg);opacity:.9}
+.hero h1{font-family:'Archivo Black',Impact,sans-serif;font-size:clamp(2.3rem,7vw,4.6rem);line-height:1;margin:0 0 16px;max-width:15ch}
+.hero p{max-width:52ch;font-size:1.1rem;margin:0 0 22px;color:#cfe3d8}
+.btn{display:inline-block;background:var(--yellow);color:#10201a;font-weight:800;padding:11px 20px;border-radius:8px;text-decoration:none;border:0;cursor:pointer;font:inherit;font-weight:800}
+.btn:focus-visible,input:focus-visible,button:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+section{padding:40px 0}
+h2{font-family:'Archivo Black',Impact,sans-serif;font-size:1.6rem;margin:0 0 6px}
+.sub{color:var(--muted);margin:0 0 20px}
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:22px}
+.tools input{flex:1 1 220px;padding:10px 14px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);font:inherit}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);font:inherit;font-weight:600;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--pitch);color:var(--pitch-ink);border-color:var(--pitch)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
+.thumb{height:120px;display:flex;align-items:flex-end;padding:12px;font-size:2.2rem;background:linear-gradient(135deg,var(--c1),var(--c2))}
+.card .body{padding:16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.card h3{margin:0;font-size:1.08rem;line-height:1.3}
+.card p{margin:0;color:var(--muted);font-size:.95rem}
+.meta{margin-top:auto;font-size:.82rem;color:var(--muted)}
+.tag{display:inline-block;align-self:flex-start;font-size:.78rem;font-weight:800;padding:3px 9px;border-radius:4px}
+.t-conf{background:#1f8a4c;color:#fff}.t-rum{background:var(--yellow);color:#10201a}.t-pol{background:var(--red);color:#fff}.t-ana{background:var(--pitch);color:var(--pitch-ink)}
+.empty{padding:30px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:10px;display:none}
+.poll{background:var(--surface);border:1px solid var(--line);border-left:6px solid var(--yellow);border-radius:10px;padding:22px;max-width:640px}
+.poll h3{margin:0 0 14px;font-size:1.2rem}
+.opt{position:relative;display:block;width:100%;text-align:left;margin:0 0 10px;padding:12px 14px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font:inherit;font-weight:600;cursor:pointer;overflow:hidden}
+.opt .bar{position:absolute;inset:0 auto 0 0;width:0;background:var(--yellow);opacity:.45;transition:width .5s}
+.opt span{position:relative;display:flex;justify-content:space-between;gap:10px}
+.note{font-size:.85rem;color:var(--muted);margin:10px 0 0}
+.about{background:var(--pitch);color:var(--pitch-ink)}
+.about p{max-width:62ch;color:#cfe3d8}
+footer{background:#06150f;color:#b9cbc0;padding:28px 0;font-size:.9rem}
+footer .wrap{display:flex;gap:16px;flex-wrap:wrap;justify-content:space-between}
+footer a{margin-right:14px}
+@media (max-width:640px){.hero::after{left:82%}nav{margin-left:0}}
+@media (prefers-reduced-motion:reduce){.opt .bar{transition:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a class="logo" href="#inicio"><i></i>FUERA DE JUEGO</a>
+    <nav aria-label="Principal">
+      <a href="#noticias">Noticias</a>
+      <a href="#fichajes">Fichajes</a>
+      <a href="#ecuador">Ecuador</a>
+      <a href="#votaciones">Votaciones</a>
+      <a href="#acerca">Acerca de</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero" id="inicio">
+  <div class="wrap">
+    <h1>El fútbol también se debate</h1>
+    <p>Noticias, rumores verificados y polémicas del fútbol mundial y ecuatoriano. Cada rumor lleva su etiqueta y cada dato, su fuente.</p>
+    <a class="btn" href="#noticias">Leer las últimas</a>
+  </div>
+</div>
+
+<section id="noticias">
+  <div class="wrap">
+    <h2>Noticias y polémicas</h2>
+    <p class="sub">Filtra por tema o busca tu equipo.</p>
+    <div class="tools">
+      <input id="q" type="search" placeholder="Buscar: Barcelona SC, Messi, VAR…" aria-label="Buscar noticias">
+      <div class="chips" id="chips" role="group" aria-label="Categorías">
+        <button class="chip" data-c="todas" aria-pressed="true">Todas</button>
+        <button class="chip" data-c="mundial" aria-pressed="false">Mundial</button>
+        <button class="chip" data-c="ecuador" aria-pressed="false">Ecuador</button>
+        <button class="chip" data-c="polemicas" aria-pressed="false">Polémicas</button>
+      </div>
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty">No hay resultados. Prueba con otra palabra o cambia de categoría.</div>
+    <p class="note">Los titulares de esta versión son ejemplos de diseño, no noticias reales. Reemplázalos por tus artículos originales.</p>
+  </div>
+</section>
+
+<section id="fichajes" style="background:var(--surface)">
+  <div class="wrap">
+    <h2>Mercado de fichajes</h2>
+    <p class="sub">Separamos lo confirmado de lo que solo es rumor.</p>
+    <div class="grid" id="fich"></div>
+  </div>
+</section>
+
+<section id="ecuador">
+  <div class="wrap">
+    <h2>Fútbol ecuatoriano</h2>
+    <p class="sub">LigaPro, Barcelona SC, Emelec, Liga de Quito, Independiente del Valle y la Tri.</p>
+    <div class="grid" id="ecu"></div>
+  </div>
+</section>
+
+<section id="votaciones" style="background:var(--surface)">
+  <div class="wrap">
+    <h2>La encuesta de la semana</h2>
+    <p class="sub">Vota y mira cómo opina la hinchada.</p>
+    <div class="poll">
+      <h3>¿Debería el VAR intervenir en más jugadas?</h3>
+      <div id="opts"></div>
+      <p class="note" id="pnote">Resultados de demostración: se guardan solo en tu navegador. Más adelante los conectaremos a una base de datos para contar votos reales.</p>
+    </div>
+  </div>
+</section>
+
+<section class="about" id="acerca">
+  <div class="wrap">
+    <h2>Acerca de FUERA DE JUEGO</h2>
+    <p>Somos un medio independiente de fútbol. Publicamos análisis originales, marcamos los rumores como rumores y corregimos nuestros errores a la vista. Escríbenos con noticias, correcciones o ideas.</p>
+    <a class="btn" href="#contacto">Contacto</a>
+  </div>
+</section>
+
+<footer id="contacto">
+  <div class="wrap">
+    <div>© 2026 FUERA DE JUEGO</div>
+    <div><a href="#acerca">Acerca de</a><a href="#contacto">Contacto</a><a href="#contacto">Privacidad</a><a href="#contacto">Términos</a></div>
+  </div>
+</footer>
+
+<script>
+var NEWS=[
+ {c:'mundial',t:'ana',tag:'Análisis',e:'🏆',c1:'#0e3b2e',c2:'#1f8a4c',h:'Champions: las claves tácticas de la jornada',p:'Quién ganó la batalla del mediocampo y por qué cambió el partido.',m:'Ejemplo · hace 2 h'},
+ {c:'polemicas',t:'pol',tag:'Polémica',e:'🟥',c1:'#7a1620',c2:'#e63946',h:'Penal revisado cuatro minutos: ¿el VAR ayudó o estorbó?',p:'Recogemos el reglamento, las imágenes y las opiniones divididas.',m:'Ejemplo · hace 4 h'},
+ {c:'mundial',t:'rum',tag:'Rumor',e:'🔥',c1:'#8a6d00',c2:'#ffd60a',h:'Real Madrid y Barcelona, en la misma carrera por un delantero',p:'Medios europeos lo mencionan, pero ningún club lo ha confirmado.',m:'Ejemplo · hace 6 h'},
+ {c:'ecuador',t:'ana',tag:'Análisis',e:'🇪🇨',c1:'#0e3b2e',c2:'#2b6cb0',h:'La Tri y el reto de sostener el proceso rumbo a las eliminatorias',p:'Lo que funciona, lo que falta y los nombres a seguir.',m:'Ejemplo · hace 1 día'},
+ {c:'ecuador',t:'conf',tag:'Confirmado',e:'⚽',c1:'#14532d',c2:'#1f8a4c',h:'LigaPro: la tabla tras la fecha y los partidos que vienen',p:'Resumen con resultados y calendario de Liga, Barcelona SC y Emelec.',m:'Ejemplo · hace 1 día'},
+ {c:'polemicas',t:'pol',tag:'Polémica',e:'🧤',c1:'#4a1d6b',c2:'#e63946',h:'Messi vs. Cristiano: el debate que nunca termina, con números',p:'Comparamos estadísticas de temporadas completas, sin pasión ciega.',m:'Ejemplo · hace 2 días'}
+];
+var FICH=[
+ {t:'conf',tag:'Confirmado',e:'✍️',c1:'#14532d',c2:'#1f8a4c',h:'Oficial: nuevo refuerzo para la defensa',p:'Anunciado por el club en sus canales oficiales. Fuente: comunicado.',m:'Ejemplo · fuente oficial'},
+ {t:'rum',tag:'Rumor',e:'👀',c1:'#8a6d00',c2:'#ffd60a',h:'Un volante sudamericano, en la mira de un grande europeo',p:'Aún sin oferta formal conocida. Lo marcamos como rumor hasta que haya confirmación.',m:'Ejemplo · fuente: prensa'},
+ {t:'rum',tag:'Rumor',e:'💬',c1:'#8a6d00',c2:'#ffd60a',h:'¿Salida de una figura al final de temporada?',p:'Su entorno no lo descarta. Sin confirmación del jugador ni del club.',m:'Ejemplo · fuente: entorno'}
+];
+var ECU=[
+ {t:'ana',tag:'Análisis',e:'🔵',c1:'#0e3b2e',c2:'#2b6cb0',h:'Independiente del Valle: la fábrica que no se detiene',p:'Por qué su cantera sigue marcando diferencia en el país.',m:'Ejemplo'},
+ {t:'pol',tag:'Polémica',e:'🟡',c1:'#7a1620',c2:'#ffd60a',h:'Clásico del Astillero: el arbitraje, bajo la lupa',p:'Jugadas dudosas y lo que dice el reglamento.',m:'Ejemplo'},
+ {t:'conf',tag:'Confirmado',e:'⚪',c1:'#14532d',c2:'#1f8a4c',h:'Liga de Quito: el plantel para la próxima fase',p:'Altas, bajas y lo que se espera del cuerpo técnico.',m:'Ejemplo'}
+];
+function esc(s){return s.replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function card(n){return '<article class="card"><div class="thumb" style="--c1:'+n.c1+';--c2:'+n.c2+'" aria-hidden="true">'+n.e+'</div><div class="body"><span class="tag t-'+n.t+'">'+n.tag+'</span><h3>'+esc(n.h)+'</h3><p>'+esc(n.p)+'</p><div class="meta">'+esc(n.m)+'</div></div></article>'}
+var cat='todas';
+function render(){
+ var q=document.getElementById('q').value.toLowerCase().trim();
+ var list=NEWS.filter(function(n){return (cat==='todas'||n.c===cat)&&(!q||(n.h+' '+n.p).toLowerCase().indexOf(q)>-1)});
+ document.getElementById('grid').innerHTML=list.map(card).join('');
+ document.getElementById('empty').style.display=list.length?'none':'block';
+}
+document.getElementById('chips').addEventListener('click',function(e){
+ var b=e.target.closest('.chip');if(!b)return;cat=b.dataset.c;
+ document.querySelectorAll('.chip').forEach(function(x){x.setAttribute('aria-pressed',x===b)});render();
+});
+document.getElementById('q').addEventListener('input',render);
+document.getElementById('fich').innerHTML=FICH.map(card).join('');
+document.getElementById('ecu').innerHTML=ECU.map(card).join('');
+render();
+
+var OPTS=['Sí, debería intervenir más','No, interrumpe demasiado'];
+var votes=[128,97],voted=null;
+try{var s=localStorage.getItem('fdj_vote');if(s!==null)voted=parseInt(s,10)}catch(e){}
+function drawPoll(){
+ var tot=votes[0]+votes[1]+(voted!==null?1:0);
+ var v=votes.slice();if(voted!==null)v[voted]++;
+ document.getElementById('opts').innerHTML=OPTS.map(function(o,i){
+  var pct=voted!==null?Math.round(v[i]/tot*100):0;
+  return '<button class="opt" data-i="'+i+'"'+(voted!==null?' disabled':'')+'><i class="bar" style="width:'+pct+'%"></i><span><b>'+o+'</b>'+(voted!==null?'<b>'+pct+'%</b>':'')+'</span></button>';
+ }).join('');
+}
+document.getElementById('opts').addEventListener('click',function(e){
+ var b=e.target.closest('.opt');if(!b||voted!==null)return;
+ voted=parseInt(b.dataset.i,10);
+ try{localStorage.setItem('fdj_vote',String(voted))}catch(e){}
+ drawPoll();
+});
+drawPoll();
+</script>
+</body>
+</html>
