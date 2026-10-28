@@ -16,6 +16,15 @@
 #modalSource a::after {
   content: " ↗";
 }
+
+/* Presentación del artículo completo */
+.modal-inner{width:min(800px,100%);padding:clamp(20px,4vw,36px)}
+.modal-inner h2{font-size:clamp(32px,5vw,50px);overflow-wrap:anywhere}
+.article-figure{margin:22px 0 25px}
+.article-figure img{width:100%;max-height:390px;aspect-ratio:16/9;object-fit:cover;border-radius:8px}
+.article-figure figcaption{font-size:11px;color:#aeb8ab;margin-top:9px;line-height:1.6}
+.article-body p{font-size:15px;line-height:1.85;color:#d0d9cd;margin:0 0 20px}
+.article-source{border-top:1px solid #354036;margin-top:24px;padding-top:15px}
 </style></head><body>
 <div class="topbar"><div class="container"><span>⚽ EL FÚTBOL NO TERMINA CON EL PITAZO FINAL</span><span>INDEPENDIENTE · ECUADOR + MUNDO</span></div></div>
 <header><div class="container"><a href="#inicio" class="brand"><span class="brand-mark"></span>FUERA DE <b>JUEGO</b></a><nav class="nav"><a href="#noticias">Noticias</a><a href="#noticias" data-go="fichajes">Fichajes</a><a href="#noticias" data-go="ecuador">Ecuador</a><a href="#debate">Debates</a><a href="contacto.html">Contacto</a></nav><a class="nav-cta" href="#debate">⚡ VOTA AHORA</a></div></header>
@@ -24,7 +33,7 @@
 <section id="noticias" class="section"><div class="container"><div class="section-head"><div><div class="eyebrow">CONTENIDO PARA LA HINCHADA</div><h2>EN LA CANCHA <span style="color:var(--lime)">Y FUERA DE ELLA.</span></h2><p>Explora nuestras secciones. Noticias aprobadas y artículos editoriales. Los ejemplos están identificados como DEMO.</p></div><a href="#debate">ÚNETE AL DEBATE ↗</a></div><div class="controls"><button class="active" data-filter="todos">Todos</button><button data-filter="mundial">Mundial</button><button data-filter="ecuador">Ecuador</button><button data-filter="fichajes">Fichajes</button><button data-filter="polemicas">Polémicas</button><input id="search" type="search" placeholder="⌕ Buscar temas o equipos…" aria-label="Buscar artículos"></div><div class="news-grid" id="cards"></div><p id="empty" class="empty">No hay artículos que coincidan con tu búsqueda.</p><p class="disclaimer">Nota editorial: las tarjetas marcadas DEMO son ilustrativas. Las noticias publicadas requieren verificación editorial y enlaces a sus fuentes.</p></div></section>
 <section class="section band" id="debate"><div class="container"><div class="poll-layout"><div><div class="eyebrow">▰ LA VOZ DE LA HINCHADA</div><h2>EL PARTIDO<br>TERMINA.<br><span>EL DEBATE NO.</span></h2><p>¿Penal o simulación? ¿Justicia o polémica? Tú también puedes opinar. Esta primera versión muestra resultados locales de prueba.</p></div><div class="poll-card"><span class="tag">ENCUESTA DE LA SEMANA</span><h3>¿Debería el VAR intervenir en más jugadas?</h3><div id="options"></div><p class="poll-note">Votación de demostración: el voto se guarda únicamente en este navegador. Los porcentajes no representan votos reales de todos los visitantes.</p></div></div></div></section></main>
 <footer class="footer"><div class="container"><div class="footer-grid"><div><a href="#inicio" class="brand"><span class="brand-mark"></span>FUERA DE <b>JUEGO</b></a><p>Noticias, fútbol y debates con responsabilidad editorial.</p></div><div class="footer-links"><a href="contacto.html">Contacto</a><a href="privacidad.html">Privacidad</a><a href="terminos.html">Términos</a><a href="#inicio">Volver arriba ↑</a></div></div><p>© 2026 FUERA DE JUEGO · Proyecto editorial independiente en desarrollo.</p></div></footer>
-<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-inner"><button class="close" id="close">✕ Cerrar</button><span class="eyebrow" id="modalCat"></span><h2 id="modalTitle"></h2><p id="modalText"></p><p class="disclaimer"><span id="modalDisclaimer">Contenido editorial de demostración. No corresponde a una noticia de última hora ni a un fichaje confirmado.</span><span id="modalSource"></span></p></div></div>
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-inner"><button class="close" id="close">✕ Cerrar</button><span class="eyebrow" id="modalCat"></span><h2 id="modalTitle"></h2><figure class="article-figure" id="modalFigure"><img id="modalImage" alt="Imagen ilustrativa del artículo"><figcaption id="modalImageCaption"></figcaption></figure><div class="article-body" id="modalText"></div><p class="disclaimer"><span id="modalDisclaimer">Contenido editorial de demostración. No corresponde a una noticia de última hora ni a un fichaje confirmado.</span><span id="modalSource"></span></p></div></div>
 <script>
 const photos={stadium:'https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=900&q=80',ball:'https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=900&q=80',field:'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=900&q=80',grass:'https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=900&q=80'};
 const demoArticles=[{cat:'polemicas',label:'POLÉMICA',title:'El VAR bajo la lupa: las decisiones que siguen dividiendo al fútbol',desc:'Analizamos por qué algunas jugadas generan debates incluso después de la revisión.',image:photos.field,body:'El videoarbitraje busca ayudar a corregir errores claros, pero su aplicación sigue generando discusión entre aficionados. La interpretación de ciertas acciones y el tiempo de revisión son dos de los temas más debatidos. Para un artículo periodístico definitivo, incorporaremos ejemplos documentados, reglamento oficial y fuentes verificables.'},{cat:'mundial',label:'FÚTBOL MUNDIAL',title:'Las claves tácticas que cambian un partido en segundos',desc:'Presión, transiciones y espacios: una mirada al fútbol moderno.',image:photos.stadium,body:'La presión tras pérdida, la ocupación de espacios y la velocidad en las transiciones son elementos importantes en el fútbol actual. Esta nota de demostración muestra cómo podríamos explicar cada concepto con ejemplos y análisis originales.'},{cat:'ecuador',label:'FÚTBOL ECUATORIANO',title:'La cantera ecuatoriana: talento, formación y futuro',desc:'Por qué la formación de jugadores merece un lugar central en la conversación.',image:photos.grass,body:'La formación de futbolistas jóvenes requiere entrenadores, seguimiento, infraestructura y oportunidades de competencia. Prepararemos reportajes originales sobre los proyectos formativos del fútbol ecuatoriano con datos contrastados.'},{cat:'fichajes',label:'MERCADO DE FICHAJES',title:'Cómo distinguir un fichaje oficial de un simple rumor',desc:'No todo lo que circula en redes es una negociación confirmada.',image:photos.ball,body:'Un fichaje confirmado requiere una fuente fiable, como el anuncio oficial del club. Un rumor debe atribuirse a la fuente que lo publica y no presentarse como un hecho. En FUERA DE JUEGO distinguiremos siempre ambos casos.'},{cat:'mundial',label:'ANÁLISIS',title:'¿Qué define a los grandes partidos de fútbol?',desc:'Ritmo, emoción y decisiones que cambian el desarrollo del juego.',image:photos.field,body:'Un buen análisis deportivo va más allá del marcador. Puede explorar la estrategia, los cambios, la disciplina y las ocasiones generadas, respaldándose en estadísticas y observaciones verificables.'},{cat:'ecuador',label:'DEBATE ECUADOR',title:'¿Qué necesita el fútbol ecuatoriano para seguir creciendo?',desc:'Formación, infraestructura y competitividad: abrimos la conversación.',image:photos.stadium,body:'Este espacio está pensado para discutir ideas y retos del fútbol ecuatoriano desde una perspectiva constructiva, utilizando información pública contrastada y entrevistas cuando estén disponibles.'}];
@@ -47,9 +56,25 @@ function openArticle(id){
  const a=articles[id];if(!a)return;
  document.getElementById('modalCat').textContent=a.label;
  document.getElementById('modalTitle').textContent=a.title;
- document.getElementById('modalText').textContent=a.body;
+ const figure=document.getElementById('modalFigure');
+ const articleImage=document.getElementById('modalImage');
+ const imageCaption=document.getElementById('modalImageCaption');
+ figure.style.display=a.image?'':'none';
+ if(a.image){
+  articleImage.src=a.image;
+  articleImage.alt='Imagen ilustrativa de '+a.title;
+  const aiIllustration=/bruno-fernandes-carrick\.png(?:[?#]|$)/i.test(a.image);
+  imageCaption.textContent=aiIllustration?'Ilustración editorial generada con inteligencia artificial. No es una fotografía del acontecimiento.':a.demo?'Fotografía ilustrativa del tema.':(a.image_credit||'Imagen ilustrativa.');
+ }
+ const articleBody=document.getElementById('modalText');
+ articleBody.replaceChildren();
+ String(a.body||'').split(/\n\s*\n/).filter(p=>p.trim()).forEach(paragraph=>{
+  const p=document.createElement('p');
+  p.textContent=paragraph.trim();
+  articleBody.appendChild(p);
+ });
  document.getElementById('modalDisclaimer').style.display=a.demo?'':'none';
- const source=document.getElementById('modalSource');source.replaceChildren();
+ const source=document.getElementById('modalSource');source.replaceChildren();source.classList.add('article-source');
  if(!a.demo && a.source_url){const p=document.createElement('p');const link=document.createElement('a');link.href=a.source_url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Consultar fuente: '+a.source_name;p.appendChild(link);source.appendChild(p)}
  modal.classList.add('open');document.getElementById('close').focus();
 }
@@ -67,7 +92,7 @@ async function cargarNoticiasAprobadas(){
   const categorias=['mundial','ecuador','fichajes','polemicas'];
   const aprobadas=data.noticias.filter(a=>a.estado==='aprobada' && categorias.includes(a.cat) && typeof a.title==='string' && a.title.trim() && typeof a.desc==='string' && typeof a.body==='string' && a.body.trim().length>=100 && typeof a.source_name==='string' && typeof a.source_url==='string' && /^https:\/\//.test(a.source_url)).map(a=>({
    cat:a.cat,label:typeof a.label==='string'?a.label:'NOTICIAS',title:a.title,desc:a.desc,body:a.body,
-   image:typeof a.image==='string' && (/^https:\/\//.test(a.image) || a.image.startsWith('./imagenes/') || a.image.startsWith('imagenes/')) ? a.image : photos.stadium,source_name:a.source_name,source_url:a.source_url,demo:false
+   image:typeof a.image==='string' && (/^https:\/\//.test(a.image) || a.image.startsWith('./imagenes/') || a.image.startsWith('imagenes/')) ? a.image : photos.stadium,image_credit:typeof a.image_credit==='string'?a.image_credit:'',source_name:a.source_name,source_url:a.source_url,demo:false
   }));
   if(aprobadas.length){articles=[...aprobadas,...demoArticles.map(a=>({...a,demo:true}))];render()}
  }catch(err){console.info('Sin noticias aprobadas todavía:',err.message)}
