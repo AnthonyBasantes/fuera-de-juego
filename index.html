@@ -67,7 +67,7 @@ async function cargarNoticiasAprobadas(){
   const categorias=['mundial','ecuador','fichajes','polemicas'];
   const aprobadas=data.noticias.filter(a=>a.estado==='aprobada' && categorias.includes(a.cat) && typeof a.title==='string' && a.title.trim() && typeof a.desc==='string' && typeof a.body==='string' && a.body.trim().length>=100 && typeof a.source_name==='string' && typeof a.source_url==='string' && /^https:\/\//.test(a.source_url)).map(a=>({
    cat:a.cat,label:typeof a.label==='string'?a.label:'NOTICIAS',title:a.title,desc:a.desc,body:a.body,
-   image:photos.stadium,source_name:a.source_name,source_url:a.source_url,demo:false
+   image:typeof a.image==='string' && (/^https:\/\//.test(a.image) || a.image.startsWith('./imagenes/') || a.image.startsWith('imagenes/')) ? a.image : photos.stadium,source_name:a.source_name,source_url:a.source_url,demo:false
   }));
   if(aprobadas.length){articles=[...aprobadas,...demoArticles.map(a=>({...a,demo:true}))];render()}
  }catch(err){console.info('Sin noticias aprobadas todavía:',err.message)}
