@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Ilustración editorial: ANÁLISIS Y DEBATE">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090e0b"/><stop offset="1" stop-color="#18231a"/></linearGradient><radialGradient id="glow"><stop stop-color="#baff21" stop-opacity=".27"/><stop offset="1" stop-color="#baff21" stop-opacity="0"/></radialGradient><pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#bbff20" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="675" fill="url(#bg)"/><rect width="1200" height="675" fill="url(#grid)"/><ellipse cx="850" cy="280" rx="430" ry="340" fill="url(#glow)"/>
+<g fill="none" stroke="#c7ff46" stroke-opacity=".25" stroke-width="3"><path d="M740 110L1110 110L1110 560L740 560Z"/><path d="M925 110V560"/><circle cx="925" cy="335" r="100"/><path d="M740 225H820V445H740M1110 225H1030V445H1110"/></g>
+<g transform="translate(950 340)" fill="none" stroke="#c6ff35" stroke-width="5" opacity=".65"><circle r="105"/><path d="M0 -105L52 -65L35 0L-35 0L-52 -65Z M-35 0L-70 60M35 0L70 60M-52 -65L-100 -25M52 -65L100 -25"/></g>
+<rect x="68" y="74" width="7" height="45" fill="#bcff20"/><text x="92" y="105" fill="#f2f6ed" font-size="25" font-family="Arial,sans-serif" font-weight="700" letter-spacing="3">FUERA DE JUEGO</text>
+<text x="75" y="310" fill="#bcff20" font-size="22" font-family="Arial,sans-serif" font-weight="700" letter-spacing="4">04 / EDICIÓN DEPORTIVA</text>
+<text x="75" y="386" fill="#ffffff" font-size="51" font-family="Arial,sans-serif" font-weight="900">ANÁLISIS Y DEBATE</text>
+<text x="75" y="442" fill="#c7d1c6" font-size="25" font-family="Arial,sans-serif" letter-spacing="2">MÁS ALLÁ DEL RESULTADO</text>
+<rect x="75" y="476" width="125" height="7" rx="3" fill="#bcff20"/><text x="75" y="610" fill="#a4b0a2" font-size="19" font-family="Arial,sans-serif">IMAGEN ILUSTRATIVA · NO ES FOTOGRAFÍA DEL ACONTECIMIENTO</text>
+</svg>
