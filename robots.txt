@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://anthonybasantes.github.io/fuera-de-juego/sitemap.xml
