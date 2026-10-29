@@ -1,0 +1,591 @@
+{
+  "total": 83,
+  "resumen": {
+    "pendiente": 80,
+    "en_revision": 0,
+    "publicada": 3
+  },
+  "noticias": [
+    {
+      "titulo": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
+      "estado": "publicada"
+    },
+    {
+      "titulo": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
+      "estado": "publicada"
+    },
+    {
+      "titulo": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Fleetwood to face Everton or Newcastle in last eight",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "How unbeaten Chelsea are getting back to their best",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sesko ruled out until January with shin injury",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sancho rejects Getafe - Thursday's gossip",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Carrick and Fernandes hold clear-the-air talks",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Kompany discharged from hospital following collapse",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Rulli’s heroics earn Manchester City shootout success against Brighton",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "European football: Bayern ease to Cup victory after Kompany leaves hospital",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Nketiah takes Crystal Palace past Fulham and earns Sage breathing space",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/fulham-crystal-palace-carabao-cup-fourth-round-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/howe-nagelsmann-pochettino-can-anyone-end-manchester-uniteds-doom-loop",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Scottish Premiership: McInnes booed in Rangers draw at Hearts, Celtic held at home",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/scottish-premiership-makhanya-late-header-rangers-point-at-hearts-celtic-draw",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Carabao Cup roundup: Bournemouth thrash Villa, Sunderland salvo stings Bees",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/carabao-cup-fouth-round-bournemouth-aston-villa-sunderland-brentford",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "‘This isn’t supposed to happen’: giant-slaying Fleetwood revels in fairytale Arsenal win",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains | Rebecca Bailey",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Johnstone Burgh to play two cup ties simultaneously after schedule clash",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cky831qxdzydo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "All Spanish cup matches suspended after Madrid train collision",
+      "categoria": "polemicas",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crgj902p68gno?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal to appeal against Dowman red card",
+      "categoria": "polemicas",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Burnley appoint ex-Basel boss Celestini as head coach",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckzd67v45523o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Russo scores hat-trick as Arsenal beat Benfica",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/crd6dzxwlqjlo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Chelsea continue unbeaten start with win over Roma",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm17k8x994edo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Lawlor delighted after beating 'best team in the country'",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cr93z7p02743o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Ballon d'Or winner Kane explains how his game has evolved",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cwg7xevnyrjpo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Ballon d'Or winner Kane's best Bundesliga goals",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Can clubs stop team news leaking out through FPL picks?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwly0myd08reo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Wrexham fined for fielding ineligible players",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cr89z5pj5n2zo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "McClean leaves Derry City after contract dispute",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqn738v634xxo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Liverpool gambled on Jacquet and it is paying off",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Where does Fleetwood beating Arsenal rank in biggest cup upsets?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq62y7yzjdmzo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Are Celtic any nearer Ferrari form a year after Rodgers exit?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Play the 100th edition of Who am I? Plus today's other quizzes",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm8xzywpqydko?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "MacAnthony promises to sell if Peterborough not in top 10",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c539830n0wj3o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Kuyt named Fenerbahce interim boss before Liverpool tie",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'Biggest night in club's history' for fearless Fleetwood",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "West Ham’s Viviane Asseyi: ‘When I was four I said I wanted to be like Zidane’",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/west-ham-women-viviane-asseyi-zidane-wsl",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sign up for the Football Daily newsletter: our free football email",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sign up for the Recap newsletter: our free sport highlights email",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/sport/2017/may/15/the-recap-sign-up-for-the-best-of-the-guardians-sport-coverage",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sign up for the Moving the Goalposts newsletter: our free women’s football email",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/sport/2025/oct/01/sign-up-to-the-sport-in-focus-newsletter-the-sporting-week-in-photos",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Fernandes tells Carrick he is committed to turning season around in clear-the-air talks",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/bruno-fernandes-michael-carrick-clear-the-air-talks-manchester-united",
+      "estado": "publicada"
+    },
+    {
+      "titulo": "Burnley turn to former CSKA Moscow manager Fabio Celestini as new head coach",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/burnley-former-cska-moscow-manager-fabio-celestini-new-head-coach",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Barcelona fined £503 over their approach for Atlético Madrid star Alvarez",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Lise Klaveness: ‘Certainly there are people that can challenge Infantino’",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/lise-klaveness-certainly-there-are-people-that-can-challenge-infantino",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Max Dowman’s Fleetwood fracas leaves him, Arsenal and Arteta red-faced",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/max-dowman-fleetwood-red-card-arsenal-mikel-arteta-carabao-cup",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Which footballers have scored in the same minute as their surname? | The Knowledge",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/which-footballers-have-scored-in-the-same-minute-as-their-surname-knowledge",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Harry Kane wins the Ballon d’Or and an EFL round-up | Football Weekly – video",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/oct/27/harry-kane-wins-the-ballon-dor-and-an-efl-round-up-football-weekly-video",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "categoria": "fichajes",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "categoria": "fichajes",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Transfer window verdict: how every Premier League club fared",
+      "categoria": "fichajes",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Universidad Católica vs. Liga de Quito: esta es la otra semifinal de la Copa Ecuador 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/universidad-catolica-vs-liga-de-quito-esta-es-la-otra-semifinal-de-la-copa-ecuador-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Independiente del Valle vs. Delfín: ¿cuándo y dónde se juega la revancha de la semifinal de la Copa Ecuador 2026?",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-vs-delfin-cuando-y-donde-se-juega-la-revancha-de-la-semifinal-de-la-copa-ecuador-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Independiente del Valle aplastó 3-0 a Delfín en Manta y acaricia la final de la Copa Ecuador",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-delfin-vs-independiente-del-valle-por-la-semifinal-de-ida-de-la-copa-ecuador-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Ecuador cae ante España y queda fuera de la lucha por el título del Mundial Sub-15",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-cae-ante-espana-y-queda-fuera-de-la-lucha-por-el-titulo-del-mundial-sub-15-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Barcelona SC y Atlético FC podrían jugar un partido de Liga Ecuabet 2027 en Madrid: ‘Se está planteando la posibilidad’",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-y-atletico-fc-podrian-jugar-un-partido-de-liga-ecuabet-2027-en-madrid-se-esta-planteando-la-posibilidad-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Cuenca será la sede de la final de la Copa Ecuador 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuenca-sera-la-sede-de-la-final-de-la-copa-ecuador-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Universidad Católica vs. Liga de Quito: fecha, hora, entradas y todo sobre la semifinal de ida de Copa Ecuador 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/universidad-catolica-vs-liga-de-quito-fecha-hora-entradas-y-todo-sobre-la-semifinal-de-ida-de-copa-ecuador-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Moisés Caicedo y Chelsea se despiden de la Carabao Cup: Liverpool elimina a los ‘Blues’ por penales",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/moises-caicedo-y-chelsea-se-despiden-de-la-carabao-cup-liverpool-elimina-a-los-blues-por-penales-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Casi un hecho: Gustavo Fermani sería el nuevo director deportivo de Barcelona SC",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/casi-un-hecho-gustavo-fermani-seria-el-nuevo-director-deportivo-de-barcelona-sc-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Liga de Quito cumple tres años de su última Copa Sudamericana: los títulos que ha ganado desde entonces",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/liga-de-quito-cumple-tres-anos-de-su-ultima-copa-sudamericana-los-titulos-que-ha-ganado-desde-entonces-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿Quién es Gustavo Fermani, el argentino que sería el nuevo director deportivo de Barcelona SC?",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/quien-es-gustavo-fermani-el-argentino-que-seria-el-nuevo-director-deportivo-de-barcelona-sc-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Jesús Pretell respalda la autocrítica de Gustavo Álvarez en Liga de Quito: ‘Fuimos un equipo sin carácter’",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/jesus-pretell-respalda-la-autocritica-de-gustavo-alvarez-en-liga-de-quito-fuimos-un-equipo-sin-caracter-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Federación Española de Fútbol suspende jornada de Copa del Rey por accidente ferroviario en Madrid",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/federacion-espanola-de-futbol-suspende-jornada-de-copa-del-rey-por-accidente-ferroviario-en-madrid-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Luto en la selección de Argentina: muere Eulalia Marzetti, madre del seleccionador Lionel Scaloni",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/luto-en-la-seleccion-de-argentina-muere-eulalia-marzetti-madre-del-seleccionador-lionel-scaloni-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Gustavo Álvarez exige un cambio de actitud en Liga de Quito tras la derrota ante Macará: “Fuimos un equipo apático, sin alma”",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/gustavo-alvarez-exige-un-cambio-de-actitud-en-liga-de-quito-tras-la-derrota-ante-macara-fuimos-un-equipo-apatico-sin-alma-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "A qué hora juega Delfín vs. Independiente del Valle por la Copa Ecuador: canales y horarios para ver EN VIVO",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-delfin-vs-independiente-del-valle-por-la-copa-ecuador-canales-y-horarios-para-ver-en-vivo-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "La ‘Tigra’ ruge en Kazajistán: Lucía Yépez peleará por el oro en el Mundial de Lucha 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/otros-deportes/la-tigra-ruge-en-kazajistan-lucia-yepez-peleara-por-el-oro-en-el-mundial-de-lucha-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿Quién es Fleetwood Town, el equipo de cuarta división que eliminó al Arsenal de Piero Hincapié de la Carabao Cup?",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/quien-es-fleetwood-town-el-equipo-de-cuarta-division-que-elimino-al-arsenal-de-piero-hincapie-de-la-carabao-cup-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Barcelona SC empieza a mirar el 2027 y define cuándo analizará las renovaciones de José Contreras y Darío Benedetto",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-empieza-a-mirar-el-2027-y-define-cuando-analizara-las-renovaciones-de-jose-contreras-y-dario-benedetto-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "La Tri vuelve a Quito: estos son los precios de las entradas para Ecuador vs. Costa Rica",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-vuelve-a-quito-estos-son-los-precios-de-las-entradas-para-ecuador-vs-costa-rica-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "La Tri vuelve al Olímpico Atahualpa nueve años después: así fue el último partido de Ecuador en el Coloso del Batán",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-vuelve-al-olimpico-atahualpa-nueve-anos-despues-asi-fue-el-ultimo-partido-de-ecuador-en-el-coloso-del-batan-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Se inicia venta de boletos para final de Copa Sudamericana entre Atlético Mineiro y Boca Juniors de Enner Valencia",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/inicia-venta-de-boletos-para-final-de-copa-sudamericana-entre-atletico-mineiro-y-boca-juniors-de-enner-valencia-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Macará quiere blindar a Guillermo Sanguinetti ante el posible interés de otros clubes",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-quiere-blindar-a-guillermo-sanguinetti-ante-el-posible-interes-de-otros-clubes-nota/",
+      "estado": "pendiente"
+    }
+  ]
+}
