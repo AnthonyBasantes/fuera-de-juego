@@ -1,5 +1,7 @@
 
 import json
+import re
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
@@ -16,86 +18,166 @@ FUENTES = {
     "El Universo - Ecuador": "https://www.eluniverso.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
 }
 
-PALABRAS_FUTBOL = (
-    "fútbol",
-    "futbol",
-    "ligapro",
-    "liga pro",
-    "barcelona sc",
-    "emelec",
-    "liga de quito",
-    "independiente del valle",
-    "selección",
-    "copa ecuador",
-    "moisés caicedo",
-    "piero hincapié",
-    "willian pacho",
-    "mundial",
-    "eliminatorias",
-    "champions league",
-    "premier league",
+PALABRAS_ECUADOR = (
+    "ligapro", "liga pro", "copa ecuador",
+    "liga de quito", "liga deportiva universitaria",
+    "independiente del valle", "barcelona sc",
+    "barcelona sporting club", "emelec",
+    "el nacional", "deportivo cuenca",
+    "universidad catolica", "delfin",
+    "aucas", "mushuc runa", "macara",
+    "orense", "libertad fc",
+    "seleccion de ecuador", "la tri",
+    "moises caicedo", "piero hincapie",
+    "willian pacho", "enner valencia",
 )
+
+PALABRAS_FICHAJES = (
+    "fichaje", "traspaso", "transferencia",
+    "contratacion", "refuerzo", "mercado de pases",
+    "transfer", "signing", "joins", "signed",
+    "loan deal", "transfer window",
+)
+
+PALABRAS_POLEMICAS = (
+    "polemica", "sancion", "expulsion",
+    "tarjeta roja", "escandalo", "denuncia",
+    "investigacion", "suspendido",
+    "controversy", "red card", "banned",
+    "suspended", "investigation",
+)
+
+PALABRAS_FUTBOL = (
+    "futbol", "ligapro", "liga pro",
+    "copa ecuador", "barcelona sc",
+    "emelec", "liga de quito",
+    "independiente del valle",
+    "seleccion", "mundial", "eliminatorias",
+    "champions league", "premier league",
+    "moises caicedo", "piero hincapie",
+    "willian pacho",
+)
+
+EXCLUIR = (
+    "sign up", "newsletter", "subscribe",
+    "quiz", "who am i", "podcast",
+    "suscribete", "suscripcion",
+    "boletin informativo",
+)
+
+
+def normalizar(texto):
+    texto = unicodedata.normalize("NFKD", texto.casefold())
+    return "".join(
+        letra for letra in texto
+        if not unicodedata.combining(letra)
+    )
+
+
+def contiene(texto, palabras):
+    return any(palabra in texto for palabra in palabras)
 
 
 def normalizar_enlace(enlace):
     partes = urlsplit(enlace.strip())
-    ruta = partes.path.rstrip("/") or "/"
 
     return urlunsplit((
         partes.scheme.lower(),
         partes.netloc.lower(),
-        ruta,
+        partes.path.rstrip("/") or "/",
         "",
         "",
     ))
+
+
+def clasificar_noticia(titulo, fuente):
+    texto = normalizar(titulo)
+
+    if fuente == "El Universo - Ecuador":
+        if contiene(texto, PALABRAS_FUTBOL):
+            return "ecuador"
+        if contiene(texto, PALABRAS_ECUADOR):
+            return "ecuador"
+        return None
+
+    if contiene(texto, PALABRAS_ECUADOR):
+        return "ecuador"
+
+    if contiene(texto, PALABRAS_FICHAJES):
+        return "fichajes"
+
+    if contiene(texto, PALABRAS_POLEMICAS):
+        return "polemicas"
+
+    return "mundial"
+
+
+def es_valida(titulo, enlace):
+    if not titulo or not enlace:
+        return False
+
+    texto = normalizar(titulo)
+
+    if contiene(texto, EXCLUIR):
+        return False
+
+    partes = urlsplit(enlace)
+
+    if partes.scheme not in ("http", "https"):
+        return False
+
+    if not partes.netloc:
+        return False
+
+    return True
 
 
 def cargar_noticias():
     if not ARCHIVO.exists():
         return []
 
-    try:
-        with ARCHIVO.open(encoding="utf-8") as archivo:
-            datos = json.load(archivo)
+    with ARCHIVO.open(encoding="utf-8") as archivo:
+        datos = json.load(archivo)
 
-        noticias = datos.get("noticias", [])
+    noticias = datos.get("noticias", [])
 
-        if isinstance(noticias, list):
-            return [
-                noticia for noticia in noticias
-                if isinstance(noticia, dict)
-            ]
+    if not isinstance(noticias, list):
+        raise ValueError("El historial debe contener una lista.")
 
-    except (OSError, ValueError) as error:
-        print(f"Error al leer noticias anteriores: {error}")
-        raise
-
-    return []
-
-
-def es_noticia_futbol(titulo, fuente):
-    if fuente != "El Universo - Ecuador":
-        return True
-
-    titulo = titulo.casefold()
-
-    return any(
-        palabra.casefold() in titulo
-        for palabra in PALABRAS_FUTBOL
-    )
+    return [
+        noticia for noticia in noticias
+        if isinstance(noticia, dict)
+    ]
 
 
 def buscar_noticias():
     fecha = datetime.now(timezone.utc).isoformat()
+    anteriores = cargar_noticias()
 
-    noticias = cargar_noticias()
+    noticias = []
+    enlaces = set()
 
-    enlaces = {
-        normalizar_enlace(noticia["enlace_fuente"])
-        for noticia in noticias
-        if isinstance(noticia.get("enlace_fuente"), str)
-        and noticia["enlace_fuente"].strip()
-    }
+    descartadas = 0
+
+    for noticia in anteriores:
+        enlace = noticia.get("enlace_fuente", "")
+
+        if not isinstance(enlace, str) or not enlace:
+            continue
+
+        clave = normalizar_enlace(enlace)
+
+        if clave in enlaces:
+            continue
+
+        if "categoria" not in noticia:
+            noticia["categoria"] = clasificar_noticia(
+                noticia.get("titulo_original", ""),
+                noticia.get("fuente", ""),
+            ) or "mundial"
+
+        noticias.append(noticia)
+        enlaces.add(clave)
 
     nuevas = 0
 
@@ -109,54 +191,56 @@ def buscar_noticias():
                 print(f"No se pudo leer: {nombre}")
                 continue
 
-            encontradas_fuente = 0
+            encontradas = 0
 
             for entrada in feed.entries[:30]:
                 titulo = entrada.get("title", "").strip()
                 enlace = entrada.get("link", "").strip()
 
-                if not titulo or not enlace:
+                if not es_valida(titulo, enlace):
+                    descartadas += 1
                     continue
 
-                if not es_noticia_futbol(titulo, nombre):
+                categoria = clasificar_noticia(titulo, nombre)
+
+                if categoria is None:
+                    descartadas += 1
                     continue
 
-                enlace_normalizado = normalizar_enlace(enlace)
+                clave = normalizar_enlace(enlace)
 
-                if enlace_normalizado in enlaces:
+                if clave in enlaces:
                     continue
 
                 noticias.append({
                     "titulo_original": titulo,
                     "fuente": nombre,
                     "enlace_fuente": enlace,
+                    "categoria": categoria,
                     "estado": "pendiente",
                     "fecha_detectada": fecha,
                 })
 
-                enlaces.add(enlace_normalizado)
-
+                enlaces.add(clave)
+                encontradas += 1
                 nuevas += 1
-                encontradas_fuente += 1
 
-            print(
-                f"Nuevas noticias de {nombre}: "
-                f"{encontradas_fuente}"
-            )
+            print(f"Nuevas de {nombre}: {encontradas}")
 
         except Exception as error:
-            print(f"Error consultando {nombre}: {error}")
+            print(f"Error en {nombre}: {error}")
 
     noticias = noticias[-MAX_NOTICIAS:]
-
-    ARCHIVO.parent.mkdir(parents=True, exist_ok=True)
 
     resultado = {
         "actualizado": fecha,
         "total": len(noticias),
         "nuevas": nuevas,
+        "descartadas": descartadas,
         "noticias": noticias,
     }
+
+    ARCHIVO.parent.mkdir(parents=True, exist_ok=True)
 
     ARCHIVO.write_text(
         json.dumps(
@@ -170,6 +254,7 @@ def buscar_noticias():
     print("------------------------------")
     print(f"Noticias nuevas: {nuevas}")
     print(f"Noticias guardadas: {len(noticias)}")
+    print(f"Entradas descartadas: {descartadas}")
     print("Busqueda finalizada correctamente.")
 
 
