@@ -13,7 +13,28 @@ MAX_NOTICIAS = 200
 FUENTES = {
     "BBC Sport - Futbol": "https://feeds.bbci.co.uk/sport/football/rss.xml",
     "The Guardian - Futbol": "https://www.theguardian.com/football/rss",
+    "El Universo - Ecuador": "https://www.eluniverso.com/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
 }
+
+PALABRAS_FUTBOL = (
+    "fútbol",
+    "futbol",
+    "ligapro",
+    "liga pro",
+    "barcelona sc",
+    "emelec",
+    "liga de quito",
+    "independiente del valle",
+    "selección",
+    "copa ecuador",
+    "moisés caicedo",
+    "piero hincapié",
+    "willian pacho",
+    "mundial",
+    "eliminatorias",
+    "champions league",
+    "premier league",
+)
 
 
 def normalizar_enlace(enlace):
@@ -52,6 +73,18 @@ def cargar_noticias():
     return []
 
 
+def es_noticia_futbol(titulo, fuente):
+    if fuente != "El Universo - Ecuador":
+        return True
+
+    titulo = titulo.casefold()
+
+    return any(
+        palabra.casefold() in titulo
+        for palabra in PALABRAS_FUTBOL
+    )
+
+
 def buscar_noticias():
     fecha = datetime.now(timezone.utc).isoformat()
 
@@ -76,11 +109,16 @@ def buscar_noticias():
                 print(f"No se pudo leer: {nombre}")
                 continue
 
-            for entrada in feed.entries[:10]:
+            encontradas_fuente = 0
+
+            for entrada in feed.entries[:30]:
                 titulo = entrada.get("title", "").strip()
                 enlace = entrada.get("link", "").strip()
 
                 if not titulo or not enlace:
+                    continue
+
+                if not es_noticia_futbol(titulo, nombre):
                     continue
 
                 enlace_normalizado = normalizar_enlace(enlace)
@@ -97,7 +135,14 @@ def buscar_noticias():
                 })
 
                 enlaces.add(enlace_normalizado)
+
                 nuevas += 1
+                encontradas_fuente += 1
+
+            print(
+                f"Nuevas noticias de {nombre}: "
+                f"{encontradas_fuente}"
+            )
 
         except Exception as error:
             print(f"Error consultando {nombre}: {error}")
@@ -114,12 +159,18 @@ def buscar_noticias():
     }
 
     ARCHIVO.write_text(
-        json.dumps(resultado, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(
+            resultado,
+            ensure_ascii=False,
+            indent=2,
+        ) + "\n",
         encoding="utf-8",
     )
 
-    print(f"Noticias nuevas encontradas: {nuevas}")
-    print(f"Noticias conservadas: {len(noticias)}")
+    print("------------------------------")
+    print(f"Noticias nuevas: {nuevas}")
+    print(f"Noticias guardadas: {len(noticias)}")
+    print("Busqueda finalizada correctamente.")
 
 
 if __name__ == "__main__":
