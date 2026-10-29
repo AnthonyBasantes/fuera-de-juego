@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Panel Editorial | FUERA DE JUEGO</title>
+<style>
+:root {
+  --bg:#0b0e0c;
+  --panel:#151b16;
+  --line:#354036;
+  --lime:#bcff20;
+  --white:#f6f8f4;
+  --muted:#aab5a8;
+}
+* {box-sizing:border-box}
+body {
+  margin:0;
+  background:var(--bg);
+  color:var(--white);
+  font-family:Arial,sans-serif;
+}
+header {
+  padding:25px 5%;
+  border-bottom:1px solid var(--line);
+  background:#101610;
+}
+.brand {
+  color:var(--lime);
+  font-weight:900;
+  letter-spacing:2px;
+  font-size:14px;
+}
+h1 {
+  font-size:clamp(28px,5vw,48px);
+  margin:12px 0 0;
+}
+main {
+  max-width:1250px;
+  padding:30px 20px;
+  margin:auto;
+}
+.stats {
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:15px;
+  margin-bottom:30px;
+}
+.stat {
+  padding:22px;
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-radius:9px;
+}
+.stat strong {
+  display:block;
+  font-size:35px;
+  color:var(--lime);
+}
+.stat span {
+  font-size:12px;
+  color:var(--muted);
+}
+.controls {
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-bottom:20px;
+}
+input,select {
+  padding:13px;
+  background:#192219;
+  border:1px solid var(--line);
+  border-radius:5px;
+  color:white;
+  font-size:13px;
+}
+input {flex:1;min-width:200px}
+select {min-width:155px}
+table {
+  width:100%;
+  border-collapse:collapse;
+  background:var(--panel);
+}
+th,td {
+  padding:15px;
+  text-align:left;
+  border-bottom:1px solid var(--line);
+  font-size:13px;
+}
+th {
+  color:var(--lime);
+  font-size:11px;
+  text-transform:uppercase;
+}
+td a {color:var(--lime)}
+td a:hover {text-decoration:underline}
+.status {
+  display:inline-block;
+  padding:6px 9px;
+  border-radius:4px;
+  font-size:10px;
+  font-weight:800;
+  text-transform:uppercase;
+}
+.pendiente {background:#31352a;color:#e5e8d8}
+.en_revision {background:#263d52;color:#b8dfff}
+.publicada {background:#294520;color:#caffaa}
+.table-wrap {
+  overflow-x:auto;
+  border:1px solid var(--line);
+  border-radius:9px;
+}
+.info {
+  color:var(--muted);
+  font-size:12px;
+  margin:20px 0;
+}
+@media(max-width:700px) {
+  .stats {grid-template-columns:repeat(2,1fr)}
+  th,td {padding:11px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">FUERA DE JUEGO</div>
+  <h1>PANEL EDITORIAL</h1>
+</header>
+
+<main>
+  <section class="stats">
+    <div class="stat">
+      <strong id="total">0</strong>
+      <span>Noticias detectadas</span>
+    </div>
+    <div class="stat">
+      <strong id="pendientes">0</strong>
+      <span>Pendientes</span>
+    </div>
+    <div class="stat">
+      <strong id="revision">0</strong>
+      <span>En revisión</span>
+    </div>
+    <div class="stat">
+      <strong id="publicadas">0</strong>
+      <span>Publicadas en el RSS</span>
+    </div>
+  </section>
+
+  <div class="controls">
+    <input
+      id="buscar"
+      type="search"
+      placeholder="Buscar noticia, equipo o jugador..."
+    >
+
+    <select id="estado">
+      <option value="todos">Todos los estados</option>
+      <option value="pendiente">Pendientes</option>
+      <option value="en_revision">En revisión</option>
+      <option value="publicada">Publicadas</option>
+    </select>
+
+    <select id="categoria">
+      <option value="todas">Todas las categorías</option>
+      <option value="ecuador">Ecuador</option>
+      <option value="mundial">Mundial</option>
+      <option value="fichajes">Fichajes</option>
+      <option value="polemicas">Polémicas</option>
+    </select>
+  </div>
+
+  <p class="info" id="mensaje">
+    Cargando noticias...
+  </p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Noticia</th>
+          <th>Categoría</th>
+          <th>Estado</th>
+          <th>Fuente</th>
+        </tr>
+      </thead>
+      <tbody id="tabla"></tbody>
+    </table>
+  </div>
+
+  <p class="info">
+    Panel de consulta editorial. No publica ni modifica noticias.
+  </p>
+</main>
+
+<script>
+"use strict";
+
+let noticias = [];
+
+const tabla = document.getElementById("tabla");
+const buscar = document.getElementById("buscar");
+const estado = document.getElementById("estado");
+const categoria = document.getElementById("categoria");
+const mensaje = document.getElementById("mensaje");
+
+function texto(valor) {
+  return String(valor ?? "");
+}
+
+function renderizar() {
+  const consulta = buscar.value.toLocaleLowerCase("es").trim();
+
+  const filtradas = noticias.filter(n => {
+    const coincideTexto = (
+      texto(n.titulo) + " " + texto(n.fuente)
+    ).toLocaleLowerCase("es").includes(consulta);
+
+    const coincideEstado =
+      estado.value === "todos" ||
+      n.estado === estado.value;
+
+    const coincideCategoria =
+      categoria.value === "todas" ||
+      n.categoria === categoria.value;
+
+    return coincideTexto &&
+      coincideEstado &&
+      coincideCategoria;
+  });
+
+  tabla.replaceChildren();
+
+  filtradas.forEach(n => {
+    const fila = document.createElement("tr");
+
+    const titulo = document.createElement("td");
+    titulo.textContent = texto(n.titulo);
+
+    const cat = document.createElement("td");
+    cat.textContent = texto(n.categoria);
+
+    const est = document.createElement("td");
+    const etiqueta = document.createElement("span");
+    const estados = ["pendiente","en_revision","publicada"];
+    const valor = estados.includes(n.estado)
+      ? n.estado : "pendiente";
+
+    etiqueta.className = "status " + valor;
+    etiqueta.textContent = valor.replace("_"," ");
+    est.appendChild(etiqueta);
+
+    const fuente = document.createElement("td");
+    const enlace = document.createElement("a");
+
+    if (/^https:\/\//.test(texto(n.enlace_fuente))) {
+      enlace.href = n.enlace_fuente;
+      enlace.target = "_blank";
+      enlace.rel = "noopener noreferrer";
+      enlace.textContent = texto(n.fuente);
+      fuente.appendChild(enlace);
+    } else {
+      fuente.textContent = texto(n.fuente);
+    }
+
+    fila.append(titulo,cat,est,fuente);
+    tabla.appendChild(fila);
+  });
+
+  mensaje.textContent =
+    "Mostrando " + filtradas.length +
+    " de " + noticias.length + " noticias.";
+}
+
+async function cargarNoticias() {
+  try {
+    const respuesta = await fetch(
+      "./datos/estado_noticias.json",
+      {cache:"no-store"}
+    );
+
+    if (!respuesta.ok) {
+      throw new Error("HTTP " + respuesta.status);
+    }
+
+    const datos = await respuesta.json();
+
+    if (!Array.isArray(datos.noticias)) {
+      throw new Error("Formato de noticias incorrecto");
+    }
+
+    noticias = datos.noticias;
+
+    document.getElementById("total").textContent =
+      datos.total ?? noticias.length;
+
+    document.getElementById("pendientes").textContent =
+      datos.resumen?.pendiente ?? 0;
+
+    document.getElementById("revision").textContent =
+      datos.resumen?.en_revision ?? 0;
+
+    document.getElementById("publicadas").textContent =
+      datos.resumen?.publicada ?? 0;
+
+    renderizar();
+
+  } catch(error) {
+    mensaje.textContent =
+      "No se pudieron cargar las noticias: " + error.message;
+  }
+}
+
+buscar.addEventListener("input",renderizar);
+estado.addEventListener("change",renderizar);
+categoria.addEventListener("change",renderizar);
+
+cargarNoticias();
+</script>
+</body>
+</html>
