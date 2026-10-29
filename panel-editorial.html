@@ -6,124 +6,183 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
 <title>Panel Editorial | FUERA DE JUEGO</title>
+
 <style>
 :root {
-  --bg:#0b0e0c;
-  --panel:#151b16;
-  --line:#354036;
-  --lime:#bcff20;
-  --white:#f6f8f4;
-  --muted:#aab5a8;
+  --bg: #0b0e0c;
+  --panel: #151b16;
+  --line: #354036;
+  --lime: #bcff20;
+  --white: #f6f8f4;
+  --muted: #aab5a8;
 }
-* {box-sizing:border-box}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-  margin:0;
-  background:var(--bg);
-  color:var(--white);
-  font-family:Arial,sans-serif;
+  margin: 0;
+  background: var(--bg);
+  color: var(--white);
+  font-family: Arial, sans-serif;
 }
+
 header {
-  padding:25px 5%;
-  border-bottom:1px solid var(--line);
-  background:#101610;
+  padding: 25px 5%;
+  border-bottom: 1px solid var(--line);
+  background: #101610;
 }
+
 .brand {
-  color:var(--lime);
-  font-weight:900;
-  letter-spacing:2px;
-  font-size:14px;
+  color: var(--lime);
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 14px;
 }
+
 h1 {
-  font-size:clamp(28px,5vw,48px);
-  margin:12px 0 0;
+  font-size: clamp(28px, 5vw, 48px);
+  margin: 12px 0 0;
 }
+
 main {
-  max-width:1250px;
-  padding:30px 20px;
-  margin:auto;
+  max-width: 1250px;
+  padding: 30px 20px;
+  margin: auto;
 }
+
 .stats {
-  display:grid;
-  grid-template-columns:repeat(4,1fr);
-  gap:15px;
-  margin-bottom:30px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  margin-bottom: 30px;
 }
+
 .stat {
-  padding:22px;
-  background:var(--panel);
-  border:1px solid var(--line);
-  border-radius:9px;
+  padding: 22px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 9px;
 }
+
 .stat strong {
-  display:block;
-  font-size:35px;
-  color:var(--lime);
+  display: block;
+  font-size: 35px;
+  color: var(--lime);
 }
+
 .stat span {
-  font-size:12px;
-  color:var(--muted);
+  font-size: 12px;
+  color: var(--muted);
 }
+
 .controls {
-  display:flex;
-  gap:12px;
-  flex-wrap:wrap;
-  margin-bottom:20px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
 }
-input,select {
-  padding:13px;
-  background:#192219;
-  border:1px solid var(--line);
-  border-radius:5px;
-  color:white;
-  font-size:13px;
+
+input, select {
+  padding: 13px;
+  background: #192219;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  color: white;
+  font-size: 13px;
 }
-input {flex:1;min-width:200px}
-select {min-width:155px}
-table {
-  width:100%;
-  border-collapse:collapse;
-  background:var(--panel);
+
+input {
+  flex: 1;
+  min-width: 200px;
 }
-th,td {
-  padding:15px;
-  text-align:left;
-  border-bottom:1px solid var(--line);
-  font-size:13px;
+
+select {
+  min-width: 155px;
 }
-th {
-  color:var(--lime);
-  font-size:11px;
-  text-transform:uppercase;
-}
-td a {color:var(--lime)}
-td a:hover {text-decoration:underline}
-.status {
-  display:inline-block;
-  padding:6px 9px;
-  border-radius:4px;
-  font-size:10px;
-  font-weight:800;
-  text-transform:uppercase;
-}
-.pendiente {background:#31352a;color:#e5e8d8}
-.en_revision {background:#263d52;color:#b8dfff}
-.publicada {background:#294520;color:#caffaa}
+
 .table-wrap {
-  overflow-x:auto;
-  border:1px solid var(--line);
-  border-radius:9px;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 9px;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--panel);
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  font-size: 13px;
+}
+
+th {
+  color: var(--lime);
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+td a {
+  color: var(--lime);
+}
+
+td a:hover {
+  text-decoration: underline;
+}
+
+.status {
+  display: inline-block;
+  padding: 6px 9px;
+  border-radius: 4px;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.pendiente {
+  background: #31352a;
+  color: #e5e8d8;
+}
+
+.en_revision {
+  background: #263d52;
+  color: #b8dfff;
+}
+
+.publicada {
+  background: #294520;
+  color: #caffaa;
+}
+
 .info {
-  color:var(--muted);
-  font-size:12px;
-  margin:20px 0;
+  color: var(--muted);
+  font-size: 12px;
+  margin: 20px 0;
 }
-@media(max-width:700px) {
-  .stats {grid-template-columns:repeat(2,1fr)}
-  th,td {padding:11px}
+
+.empty {
+  text-align: center;
+  color: var(--muted);
+  padding: 30px;
+}
+
+@media (max-width: 700px) {
+  .stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  th, td {
+    padding: 11px;
+  }
 }
 </style>
 </head>
+
 <body>
 
 <header>
@@ -132,26 +191,33 @@ td a:hover {text-decoration:underline}
 </header>
 
 <main>
+
   <section class="stats">
+
     <div class="stat">
       <strong id="total">0</strong>
-      <span>Noticias detectadas</span>
+      <span>Total de noticias</span>
     </div>
+
     <div class="stat">
       <strong id="pendientes">0</strong>
       <span>Pendientes</span>
     </div>
+
     <div class="stat">
       <strong id="revision">0</strong>
       <span>En revisión</span>
     </div>
+
     <div class="stat">
       <strong id="publicadas">0</strong>
-      <span>Publicadas en el RSS</span>
+      <span>Publicadas</span>
     </div>
+
   </section>
 
   <div class="controls">
+
     <input
       id="buscar"
       type="search"
@@ -172,6 +238,7 @@ td a:hover {text-decoration:underline}
       <option value="fichajes">Fichajes</option>
       <option value="polemicas">Polémicas</option>
     </select>
+
   </div>
 
   <p class="info" id="mensaje">
@@ -180,6 +247,7 @@ td a:hover {text-decoration:underline}
 
   <div class="table-wrap">
     <table>
+
       <thead>
         <tr>
           <th>Noticia</th>
@@ -188,13 +256,17 @@ td a:hover {text-decoration:underline}
           <th>Fuente</th>
         </tr>
       </thead>
+
       <tbody id="tabla"></tbody>
+
     </table>
   </div>
 
   <p class="info">
-    Panel de consulta editorial. No publica ni modifica noticias.
+    Panel de consulta editorial.
+    No publica ni modifica noticias.
   </p>
+
 </main>
 
 <script>
@@ -212,12 +284,62 @@ function texto(valor) {
   return String(valor ?? "");
 }
 
+function normalizarUrl(url) {
+  try {
+    const enlace = new URL(texto(url));
+    return (
+      enlace.origin.toLowerCase() +
+      enlace.pathname.replace(/\/+$/, "")
+    );
+  } catch {
+    return "";
+  }
+}
+
+function obtenerTitulo(n) {
+  return texto(
+    n.titulo ||
+    n.title ||
+    n.titular ||
+    n.titulo_original ||
+    "Sin título"
+  );
+}
+
+function obtenerCategoria(n) {
+  return texto(n.categoria || "mundial")
+    .trim()
+    .toLowerCase();
+}
+
+function obtenerFuente(n) {
+  return texto(
+    n.fuente ||
+    n.source_name ||
+    n.source ||
+    "FUERA DE JUEGO"
+  );
+}
+
+function obtenerEnlace(n) {
+  return texto(
+    n.source_url ||
+    n.enlace_fuente ||
+    ""
+  );
+}
+
 function renderizar() {
-  const consulta = buscar.value.toLocaleLowerCase("es").trim();
+  const consulta = buscar.value
+    .toLocaleLowerCase("es")
+    .trim();
 
   const filtradas = noticias.filter(n => {
+
     const coincideTexto = (
-      texto(n.titulo) + " " + texto(n.fuente)
+      texto(n.titulo) + " " +
+      texto(n.fuente) + " " +
+      texto(n.categoria)
     ).toLocaleLowerCase("es").includes(consulta);
 
     const coincideEstado =
@@ -228,14 +350,30 @@ function renderizar() {
       categoria.value === "todas" ||
       n.categoria === categoria.value;
 
-    return coincideTexto &&
+    return (
+      coincideTexto &&
       coincideEstado &&
-      coincideCategoria;
+      coincideCategoria
+    );
   });
 
   tabla.replaceChildren();
 
+  if (filtradas.length === 0) {
+    const fila = document.createElement("tr");
+    const celda = document.createElement("td");
+
+    celda.colSpan = 4;
+    celda.className = "empty";
+    celda.textContent =
+      "No se encontraron noticias con estos filtros.";
+
+    fila.appendChild(celda);
+    tabla.appendChild(fila);
+  }
+
   filtradas.forEach(n => {
+
     const fila = document.createElement("tr");
 
     const titulo = document.createElement("td");
@@ -246,80 +384,184 @@ function renderizar() {
 
     const est = document.createElement("td");
     const etiqueta = document.createElement("span");
-    const estados = ["pendiente","en_revision","publicada"];
+
+    const estados = [
+      "pendiente",
+      "en_revision",
+      "publicada"
+    ];
+
     const valor = estados.includes(n.estado)
-      ? n.estado : "pendiente";
+      ? n.estado
+      : "pendiente";
 
     etiqueta.className = "status " + valor;
-    etiqueta.textContent = valor.replace("_"," ");
+    etiqueta.textContent = valor.replace("_", " ");
+
     est.appendChild(etiqueta);
 
     const fuente = document.createElement("td");
     const enlace = document.createElement("a");
 
-    if (/^https:\/\//.test(texto(n.enlace_fuente))) {
+    if (/^https:\/\//i.test(texto(n.enlace_fuente))) {
+
       enlace.href = n.enlace_fuente;
       enlace.target = "_blank";
       enlace.rel = "noopener noreferrer";
       enlace.textContent = texto(n.fuente);
+
       fuente.appendChild(enlace);
+
     } else {
       fuente.textContent = texto(n.fuente);
     }
 
-    fila.append(titulo,cat,est,fuente);
+    fila.append(
+      titulo,
+      cat,
+      est,
+      fuente
+    );
+
     tabla.appendChild(fila);
   });
 
   mensaje.textContent =
-    "Mostrando " + filtradas.length +
-    " de " + noticias.length + " noticias.";
+    "Mostrando " +
+    filtradas.length +
+    " de " +
+    noticias.length +
+    " noticias.";
+}
+
+function actualizarContadores() {
+
+  document.getElementById("total").textContent =
+    noticias.length;
+
+  document.getElementById("pendientes").textContent =
+    noticias.filter(
+      n => n.estado === "pendiente"
+    ).length;
+
+  document.getElementById("revision").textContent =
+    noticias.filter(
+      n => n.estado === "en_revision"
+    ).length;
+
+  document.getElementById("publicadas").textContent =
+    noticias.filter(
+      n => n.estado === "publicada"
+    ).length;
+}
+
+async function cargarJSON(ruta) {
+
+  const respuesta = await fetch(
+    ruta,
+    { cache: "no-store" }
+  );
+
+  if (!respuesta.ok) {
+    throw new Error(
+      "Error HTTP " + respuesta.status +
+      " al cargar " + ruta
+    );
+  }
+
+  return respuesta.json();
 }
 
 async function cargarNoticias() {
+
   try {
-    const respuesta = await fetch(
-      "./datos/estado_noticias.json",
-      {cache:"no-store"}
-    );
 
-    if (!respuesta.ok) {
-      throw new Error("HTTP " + respuesta.status);
+    const [
+      datosEstados,
+      datosPublicadas
+    ] = await Promise.all([
+      cargarJSON("./datos/estado_noticias.json"),
+      cargarJSON("./datos/publicadas.json")
+    ]);
+
+    const detectadas = Array.isArray(datosEstados.noticias)
+      ? datosEstados.noticias
+      : [];
+
+    const publicadas = Array.isArray(datosPublicadas.noticias)
+      ? datosPublicadas.noticias
+      : [];
+
+    noticias = detectadas.map(n => ({
+      titulo: obtenerTitulo(n),
+      categoria: obtenerCategoria(n),
+      fuente: obtenerFuente(n),
+      enlace_fuente: obtenerEnlace(n),
+      estado: n.estado || "pendiente"
+    }));
+
+    const urlsExistentes = new Map();
+
+    noticias.forEach((n, indice) => {
+      const url = normalizarUrl(n.enlace_fuente);
+
+      if (url) {
+        urlsExistentes.set(url, indice);
+      }
+    });
+
+    for (const publicacion of publicadas) {
+
+      const url = normalizarUrl(
+        obtenerEnlace(publicacion)
+      );
+
+      const noticiaPublicada = {
+        titulo: obtenerTitulo(publicacion),
+        categoria: obtenerCategoria(publicacion),
+        fuente: obtenerFuente(publicacion),
+        enlace_fuente: obtenerEnlace(publicacion),
+        estado: "publicada"
+      };
+
+      if (url && urlsExistentes.has(url)) {
+
+        const indice = urlsExistentes.get(url);
+
+        noticias[indice] = noticiaPublicada;
+
+      } else {
+
+        noticias.push(noticiaPublicada);
+
+        if (url) {
+          urlsExistentes.set(
+            url,
+            noticias.length - 1
+          );
+        }
+      }
     }
 
-    const datos = await respuesta.json();
-
-    if (!Array.isArray(datos.noticias)) {
-      throw new Error("Formato de noticias incorrecto");
-    }
-
-    noticias = datos.noticias;
-
-    document.getElementById("total").textContent =
-      datos.total ?? noticias.length;
-
-    document.getElementById("pendientes").textContent =
-      datos.resumen?.pendiente ?? 0;
-
-    document.getElementById("revision").textContent =
-      datos.resumen?.en_revision ?? 0;
-
-    document.getElementById("publicadas").textContent =
-      datos.resumen?.publicada ?? 0;
-
+    actualizarContadores();
     renderizar();
 
-  } catch(error) {
+  } catch (error) {
+
     mensaje.textContent =
-      "No se pudieron cargar las noticias: " + error.message;
+      "No se pudieron cargar las noticias: " +
+      error.message;
+
+    console.error(error);
   }
 }
 
-buscar.addEventListener("input",renderizar);
-estado.addEventListener("change",renderizar);
-categoria.addEventListener("change",renderizar);
+buscar.addEventListener("input", renderizar);
+estado.addEventListener("change", renderizar);
+categoria.addEventListener("change", renderizar);
 
 cargarNoticias();
 </script>
+
 </body>
 </html>
