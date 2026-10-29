@@ -1,0 +1,50 @@
+
+name: Listar noticias pendientes
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  listar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Mostrar noticias e identificadores
+        run: |
+          python - <<'PY'
+          import importlib.util
+          import json
+          from pathlib import Path
+
+          ruta = Path("scripts/crear_borrador.py")
+          spec = importlib.util.spec_from_file_location("generador", ruta)
+          modulo = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(modulo)
+
+          with open("datos/noticias_pendientes.json", encoding="utf-8") as archivo:
+              datos = json.load(archivo)
+
+          noticias = datos.get("noticias", [])
+
+          print(f"TOTAL DE NOTICIAS: {len(noticias)}")
+          print("=" * 70)
+
+          for numero, noticia in enumerate(noticias, 1):
+              print(f"\nNOTICIA {numero}")
+              print(f"Categoría: {noticia.get('categoria', 'mundial')}")
+              print(f"Título: {noticia['titulo_original']}")
+              print(f"ID: {modulo.crear_id(noticia)}")
+              print(f"Fuente: {noticia['fuente']}")
+              print("-" * 70)
+          PY
