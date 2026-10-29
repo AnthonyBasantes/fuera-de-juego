@@ -34,7 +34,7 @@ header{position:sticky;top:0;z-index:30;background:rgba(12,16,13,.97);border-bot
 <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-inner"><button class="close" id="close" aria-label="Cerrar artículo">Cerrar</button><span class="eyebrow" id="modalCat"></span><h2 id="modalTitle"></h2><figure class="article-figure" id="modalFigure"><img id="modalImage" alt="Imagen ilustrativa del artículo"><figcaption id="modalImageCaption"></figcaption></figure><div class="article-body" id="modalText"></div><div class="article-source" id="modalSource"></div></div></div>
 <script>
 'use strict';
-const fallbackImage='https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=900&q=80';
+const categoryImages={mundial:'./imagenes/categoria-mundial.svg',ecuador:'./imagenes/categoria-ecuador.svg',fichajes:'./imagenes/categoria-fichajes.svg',polemicas:'./imagenes/categoria-polemicas.svg'};
 let articles=[];
 let active='todos';
 const cards=document.getElementById('cards');
@@ -42,7 +42,7 @@ const search=document.getElementById('search');
 const modal=document.getElementById('modal');
 const allowedCategories=['mundial','ecuador','fichajes','polemicas'];
 function escapeHtml(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
-function safeImage(value){return typeof value==='string'&&(/^(https:\/\/)/i.test(value)||/^\.?\/?imagenes\/[a-zA-Z0-9_./-]+$/.test(value))?value:fallbackImage;}
+function safeImage(value,category){const valid=typeof value==='string'&&(/^(https:\/\/)/i.test(value)||/^\.?\/?imagenes\/[a-zA-Z0-9_./-]+$/.test(value));return valid?value:(categoryImages[category]||categoryImages.mundial);}
 function render(){
  const q=search.value.toLocaleLowerCase('es').trim();
  const matches=articles.map((a,i)=>({...a,id:i})).filter(a=>(active==='todos'||a.cat===active)&&(a.title+' '+a.desc+' '+a.label).toLocaleLowerCase('es').includes(q));
@@ -66,7 +66,7 @@ function openArticle(id){
  figure.style.display=a.image?'':'none';
  img.src=a.image;img.alt='Imagen del artículo: '+a.title;
  const aiIllustration=/bruno-fernandes-carrick\.png(?:[?#]|$)/i.test(a.image);
- document.getElementById('modalImageCaption').textContent=a.image_credit||(aiIllustration?'Ilustración editorial generada con inteligencia artificial. No es una fotografía del acontecimiento.':'Imagen ilustrativa del artículo.');
+ document.getElementById('modalImageCaption').textContent=a.image_credit||(aiIllustration?'Ilustración editorial generada con inteligencia artificial. No es una fotografía del acontecimiento.':'Diseño editorial ilustrativo de FUERA DE JUEGO. No representa una fotografía del acontecimiento.');
  const body=document.getElementById('modalText');body.replaceChildren();
  String(a.body||'').split(/\n\s*\n/).filter(p=>p.trim()).forEach(part=>{const p=document.createElement('p');p.textContent=part.trim();body.appendChild(p);});
  const source=document.getElementById('modalSource');source.replaceChildren();
@@ -85,7 +85,7 @@ async function cargarNoticiasAprobadas(){
   if(!response.ok)throw new Error('HTTP '+response.status);
   const data=await response.json();
   if(!Array.isArray(data.noticias))throw new Error('Formato incorrecto');
-  articles=data.noticias.filter(a=>a.estado==='aprobada'&&allowedCategories.includes(a.cat)&&typeof a.title==='string'&&a.title.trim()&&typeof a.desc==='string'&&typeof a.body==='string'&&a.body.trim().length>=100&&typeof a.source_name==='string'&&typeof a.source_url==='string'&&/^https:\/\//.test(a.source_url)).map(a=>({cat:a.cat,label:typeof a.label==='string'?a.label:'NOTICIAS',title:a.title,desc:a.desc,body:a.body,image:safeImage(a.image),image_credit:typeof a.image_credit==='string'?a.image_credit:'',source_name:a.source_name,source_url:a.source_url}));
+  articles=data.noticias.filter(a=>a.estado==='aprobada'&&allowedCategories.includes(a.cat)&&typeof a.title==='string'&&a.title.trim()&&typeof a.desc==='string'&&typeof a.body==='string'&&a.body.trim().length>=100&&typeof a.source_name==='string'&&typeof a.source_url==='string'&&/^https:\/\//.test(a.source_url)).map(a=>({cat:a.cat,label:typeof a.label==='string'?a.label:'NOTICIAS',title:a.title,desc:a.desc,body:a.body,image:safeImage(a.image,a.cat),image_credit:typeof a.image_credit==='string'?a.image_credit:'',source_name:a.source_name,source_url:a.source_url}));
   render();
  }catch(err){console.info('No se pudieron cargar las noticias aprobadas:',err.message);render();}
 }
