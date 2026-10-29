@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-29T05:55:02.876254+00:00",
-  "total": 83,
-  "nuevas": 4,
-  "descartadas": 12,
+  "actualizado": "2026-10-29T12:59:06.394690+00:00",
+  "total": 97,
+  "nuevas": 14,
+  "descartadas": 14,
   "noticias": [
     {
       "titulo_original": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
@@ -667,6 +667,118 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-10-29T05:55:02.876254+00:00"
+    },
+    {
+      "titulo_original": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Sometimes managers need sacking for own good - Neville",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "'I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Do Dundee United have Scotland's best midfield three?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Why is there only one Premier League match on Sunday?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Everyone hurt by Woodman exit - acting Bromley boss",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmn4e3q88708o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "England’s Ivan Toney to stand trial during Euro 2028 after denying assault charge",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Rodman rule has been revised but the fight to keep stars in the NWSL goes on | Moving the Goalposts",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/rodman-rule-revised-fight-keep-stars-nwsl-moving-the-goalposts",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Tottenham’s season has finally taken off. How far up the table can they go?",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/tottenham-season-spurs-chelsea-win-table",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Time and owners not on Moyes’ side as he tries to end Everton trophy drought",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/friedkin-group-david-moyes-end-everton-drought",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Post your questions for Charlie Nicholas",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "A three-year-old soccer prodigy went viral. The adults have already let him down",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/florida-three-year-old-soccer-viral-video-police-social-media",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Macará sorprende en la Liga Ecuabet y está cerca de firmar una campaña histórica en 2026",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-sorprende-en-la-liga-ecuabet-y-esta-cerca-de-firmar-una-campana-historica-en-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
     }
   ]
 }
