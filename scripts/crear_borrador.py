@@ -22,6 +22,7 @@ def cargar(ruta):
 
 def normalizar_url(url):
     partes = urlsplit(url.strip())
+
     return urlunsplit((
         partes.scheme.lower(),
         partes.netloc.lower(),
@@ -34,6 +35,7 @@ def normalizar_url(url):
 def crear_id(noticia):
     titulo = noticia["titulo_original"].lower()
     titulo = unicodedata.normalize("NFKD", titulo)
+
     titulo = "".join(
         letra for letra in titulo
         if not unicodedata.combining(letra)
@@ -43,14 +45,16 @@ def crear_id(noticia):
     titulo = titulo.strip("-")[:55].rstrip("-")
 
     url = normalizar_url(noticia["enlace_fuente"])
-    codigo = hashlib.sha256(url.encode("utf-8")).hexdigest()[:10]
+    codigo = hashlib.sha256(
+        url.encode("utf-8")
+    ).hexdigest()[:10]
 
     return f"{titulo or 'noticia'}-{codigo}"
 
 
 def main():
     datos = cargar(PENDIENTES)
-    noticias = datos["noticias"]
+    noticias = datos.get("noticias", [])
 
     if not noticias:
         raise SystemExit("No hay noticias pendientes.")
@@ -59,6 +63,7 @@ def main():
 
     for numero, noticia in enumerate(noticias, 1):
         identificador = crear_id(noticia)
+
         print(
             f"{numero}. [{noticia.get('categoria', 'mundial')}] "
             f"{noticia['titulo_original']}"
@@ -68,7 +73,9 @@ def main():
     seleccion = os.environ.get("NOTICIA_ID", "").strip()
 
     if not seleccion:
-        seleccion = input("\nEscribe el ID de la noticia: ").strip()
+        seleccion = input(
+            "\nEscribe el ID de la noticia: "
+        ).strip()
 
     noticia = next(
         (
@@ -79,33 +86,80 @@ def main():
     )
 
     if noticia is None:
-        raise SystemExit("No existe una noticia con ese ID.")
+        raise SystemExit(
+            "No existe una noticia con ese ID."
+        )
 
     categoria = noticia.get("categoria", "mundial")
 
     if categoria not in CATEGORIAS:
         raise SystemExit("Categoría no válida.")
 
-    BORRADORES.mkdir(parents=True, exist_ok=True)
+    BORRADORES.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
     destino = BORRADORES / f"{seleccion}.json"
 
     if destino.exists():
-        raise SystemExit("Ya existe un borrador para esta noticia.")
+        raise SystemExit(
+            "Ya existe un borrador para esta noticia."
+        )
 
-    url = normalizar_url(noticia["enlace_fuente"])
+    url = normalizar_url(
+        noticia["enlace_fuente"]
+    )
 
     for archivo in BORRADORES.glob("*.json"):
-        anterior = cargar(archivo)
-        if normalizar_url(anterior.get("source_url", "")) == url:
+        try:
+            anterior = cargar(archivo)
+
+        except (
+            json.JSONDecodeError,
+            UnicodeDecodeError,
+        ):
+            print(
+                f"AVISO: JSON inválido en {archivo.name}"
+            )
+            continue
+
+        if not isinstance(anterior, dict):
+            print(
+                f"AVISO: Formato incorrecto en {archivo.name}"
+            )
+            continue
+
+        url_anterior = anterior.get(
+            "source_url", ""
+        )
+
+        if not isinstance(url_anterior, str):
+            print(
+                f"AVISO: URL incorrecta en {archivo.name}"
+            )
+            continue
+
+        if normalizar_url(url_anterior) == url:
             raise SystemExit(
-                f"Esta noticia ya tiene borrador: {archivo.name}"
+                f"Esta noticia ya tiene borrador: "
+                f"{archivo.name}"
             )
 
     publicadas = cargar(PUBLICADAS)
 
     for publicada in publicadas.get("noticias", []):
-        if normalizar_url(publicada.get("source_url", "")) == url:
-            raise SystemExit("Esta noticia ya fue publicada.")
+        url_publicada = publicada.get(
+            "source_url", ""
+        )
+
+        if not isinstance(url_publicada, str):
+            continue
+
+        if normalizar_url(url_publicada) == url:
+            raise SystemExit(
+                "Esta noticia ya fue publicada."
+            )
 
     etiquetas = {
         "ecuador": "FÚTBOL ECUATORIANO",
@@ -127,12 +181,21 @@ def main():
     }
 
     destino.write_text(
-        json.dumps(borrador, ensure_ascii=False, indent=2) + "\n",
+        json.dumps(
+            borrador,
+            ensure_ascii=False,
+            indent=2,
+        ) + "\n",
         encoding="utf-8",
     )
 
-    print(f"\nBorrador creado: {destino.relative_to(BASE)}")
-    print("Pendiente de redacción y revisión editorial.")
+    print("\nBORRADOR CREADO CORRECTAMENTE")
+    print(
+        f"Archivo: {destino.relative_to(BASE)}"
+    )
+    print(
+        "Estado: pendiente de revisión editorial."
+    )
 
 
 if __name__ == "__main__":
