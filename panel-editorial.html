@@ -307,7 +307,7 @@ function obtenerTitulo(n) {
 }
 
 function obtenerCategoria(n) {
-  return texto(n.categoria || "mundial")
+  return texto(n.categoria || n.cat || "mundial")
     .trim()
     .toLowerCase();
 }
