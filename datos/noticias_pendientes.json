@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-29T12:59:06.394690+00:00",
-  "total": 97,
-  "nuevas": 14,
-  "descartadas": 14,
+  "actualizado": "2026-10-29T22:45:01.222481+00:00",
+  "total": 138,
+  "nuevas": 41,
+  "descartadas": 21,
   "noticias": [
     {
       "titulo_original": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
@@ -779,6 +779,334 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
+    },
+    {
+      "titulo_original": "Grealish dropped by Everton after 'breach of club discipline'",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Is double drop from the Premier League becoming more common?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "'Fully committed' Fernandes to remain Man Utd captain",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Scottish football could pave way for 3pm TV blackout to end",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "What have we learned from first round of Premiership?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Dowman to miss three matches after appeal rejected",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Celtic & Rangers Scottish Cup stadium closure upheld",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6n49v9ek1k9o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "McInnes defends Fernandez before League Cup semi",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Toney nightclub assault trial set for June 2028",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/m003434t?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Euro Leagues",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pkb7f8?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "PSG score late to hold struggling Man City",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Everton ease past Newcastle to set up Fleetwood trip after Grealish is dropped",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Elimbi Gilbert snatches PSG point to leave Manchester City WCL hopes in balance",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Uefa close to selecting candidate to run against Infantino in Fifa election",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/uefa-close-to-identifying-candidate-gianni-infantino-in-fifa-election",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Scottish Premiership makes first UK move to remove Saturday 3pm broadcast blackout",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/scottish-premiership-uk-leagues-tv-broadcast-blackout-football",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Carrick keeps Fernandes as captain and says he needs no assurances on United future",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/michael-carrick-keeps-bruno-fernandes-captain-assurances-future-manchester-united",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Max Dowman to miss three games after Arsenal’s red card appeal rejected",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "A phone-free Yellow Wall: are Dortmund urging fans to be present or policing them?",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/borussia-dortmund-fans-phones",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Chelsea’s fine finishing has them flying high – but how long can it last?",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/chelseas-fine-finishing-has-them-flying-high-but-how-long-can-it-last",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Mussolini’s first Serie A goal marks high-flying Lazio’s thrashing of Sassuolo | Nicky Bandini",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/blog/2026/oct/29/serie-a-lazio-sassuolo-romano-floriani-mussolini-gennaro-gattuso",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Liverpool beat Chelsea as three more join penalty hall of shame | Football Daily",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "MLS announces ‘sprint season’ schedule, with accommodations for cold-weather locales",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/mls-sprint-season-schedule",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Arsenal fail at Fleetwood and Michael Carrick clings on | Football Weekly Extra – video",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/oct/29/arsenal-fail-at-fleetwood-and-michael-carrick-clings-on-football-weekly-video",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Pervis Estupiñán respalda a Marcelo Gallardo como DT de Ecuador: “Es lo que necesitaba la Selección para ganar algo importante”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/pervis-estupinan-respalda-a-marcelo-gallardo-como-dt-de-ecuador-es-lo-que-necesitaba-la-seleccion-para-ganar-algo-importante-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "[EN VIVO] Universidad Católica vs. Liga de Quito por la semifinal de ida de la Copa Ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-universidad-catolica-vs-liga-de-quito-por-la-semifinal-de-ida-de-la-copa-ecuador-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Emelec va tras los pasos de Rafael Romo ante posible salida de Pedro Ortiz: “Pidieron información sobre mi situación”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-va-tras-los-pasos-de-rafael-romo-ante-posible-salida-de-pedro-ortiz-pidieron-informacion-sobre-mi-situacion-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "La ‘Tigra’ se subió al podio mundial: estos son los 3 impactos deportivos",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/otros-deportes/la-tigra-se-subio-al-podio-mundial-estos-son-los-3-impactos-deportivos-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "“Lo primero que pasó por mi cabeza fue retirarme”, revela Darío Benedetto, delantero de Barcelona SC",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/lo-primero-que-paso-por-mi-cabeza-fue-retirarme-revela-dario-benedetto-delantero-de-barcelona-sc-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Javier Báez es por el momento el futbolista con más minutos disputados en la temporada 2026 con Barcelona SC",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/javier-baez-es-por-el-momento-el-futbolista-con-mas-minutos-disputados-en-la-temporada-2026-con-barcelona-sc-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "El cuerpo técnico de Marcelo Gallardo visitó las instalaciones de Independiente del Valle",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/el-cuerpo-tecnico-de-marcelo-gallardo-visito-las-instalaciones-de-independiente-del-valle-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Joao Rojas avanza en su recuperación con Barcelona SC, pero Pablo Trobbiani pide no apresurarlo",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/joao-rojas-avanza-en-su-recuperacion-con-barcelona-sc-pero-pablo-trobbiani-pide-no-apresurarlo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Pablo Trobbiani advierte sobre las fortalezas de Macará y apunta a un triunfo de Barcelona SC: ‘La racha está para cortarlas y es lo que buscamos nosotros’",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/pablo-trobbiani-advierte-sobre-las-fortalezas-de-macara-y-apunta-a-un-triunfo-de-barcelona-sc-la-racha-esta-para-cortarlas-y-es-lo-que-buscamos-nosotros-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Estos son los escenarios posibles para que Independiente del Valle sea campeón de la Liga Ecuabet el fin de semana",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/estos-son-los-escenarios-posibles-para-que-independiente-del-valle-sea-campeon-de-la-liga-ecuabet-el-fin-de-semana-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "¡Orgullo ecuatoriano! Lucía ‘la Tigra’ Yépez se queda con la medalla de plata en el Mundial de Lucha Sénior 2026 de Kazajistán",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/otros-deportes/lucia-yepez-cae-en-campeonato-mundial-de-lucha-senior-de-kazajistan-y-se-queda-con-la-medalla-de-plata-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Éderson Castillo, juvenil de Liga de Quito, podría dar el salto al fútbol europeo con el Genk de Bélgica",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/ederson-castillo-juvenil-de-liga-de-quito-podria-dar-el-salto-al-futbol-europeo-con-el-genk-de-belgica-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Liga de Quito vs. Universidad Católica juegan hoy: Todo lo que debes saber de la semifinales de la Copa Ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/liga-de-quito-vs-universidad-catolica-juegan-hoy-todo-lo-que-debes-saber-de-la-semifinales-de-la-copa-ecuador-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "¿A qué hora y dónde ver EN VIVO Universidad Católica vs. Liga de Quito por la semifinal de ida de la Copa Ecuador 2026?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-y-donde-ver-en-vivo-universidad-catolica-vs-liga-de-quito-por-la-semifinal-de-ida-de-la-copa-ecuador-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
     }
   ]
 }
