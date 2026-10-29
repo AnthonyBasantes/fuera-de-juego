@@ -4,8 +4,8 @@ name: Crear borrador de noticia
 on:
   workflow_dispatch:
     inputs:
-      numero_noticia:
-        description: 'Numero de la noticia pendiente'
+      noticia_id:
+        description: 'ID de la noticia pendiente'
         required: true
         type: string
 
@@ -34,9 +34,8 @@ jobs:
 
       - name: Crear borrador
         env:
-          NUMERO_NOTICIA: ${{ inputs.numero_noticia }}
-        run: |
-          printf '%s\n' "$NUMERO_NOTICIA" | python scripts/crear_borrador.py
+          NOTICIA_ID: ${{ inputs.noticia_id }}
+        run: python scripts/crear_borrador.py
 
       - name: Guardar borrador en GitHub
         run: |
