@@ -1,61 +1,111 @@
 
+import hashlib
 import json
+import os
 import re
 import unicodedata
 from pathlib import Path
+from urllib.parse import urlsplit, urlunsplit
 
 BASE = Path(__file__).resolve().parents[1]
 PENDIENTES = BASE / "datos" / "noticias_pendientes.json"
 BORRADORES = BASE / "datos" / "borradores"
+PUBLICADAS = BASE / "datos" / "publicadas.json"
+
+CATEGORIAS = {"ecuador", "mundial", "fichajes", "polemicas"}
 
 
-def crear_id(titulo):
-    texto = unicodedata.normalize("NFKD", titulo.lower())
-    texto = "".join(
-        letra for letra in texto
+def cargar(ruta):
+    with ruta.open(encoding="utf-8") as archivo:
+        return json.load(archivo)
+
+
+def normalizar_url(url):
+    partes = urlsplit(url.strip())
+    return urlunsplit((
+        partes.scheme.lower(),
+        partes.netloc.lower(),
+        partes.path.rstrip("/"),
+        "",
+        "",
+    ))
+
+
+def crear_id(noticia):
+    titulo = noticia["titulo_original"].lower()
+    titulo = unicodedata.normalize("NFKD", titulo)
+    titulo = "".join(
+        letra for letra in titulo
         if not unicodedata.combining(letra)
     )
-    texto = re.sub(r"[^a-z0-9]+", "-", texto)
-    return texto.strip("-")[:70].rstrip("-")
+
+    titulo = re.sub(r"[^a-z0-9]+", "-", titulo)
+    titulo = titulo.strip("-")[:55].rstrip("-")
+
+    url = normalizar_url(noticia["enlace_fuente"])
+    codigo = hashlib.sha256(url.encode("utf-8")).hexdigest()[:10]
+
+    return f"{titulo or 'noticia'}-{codigo}"
 
 
-def cargar_pendientes():
-    with PENDIENTES.open(encoding="utf-8") as archivo:
-        datos = json.load(archivo)
+def main():
+    datos = cargar(PENDIENTES)
+    noticias = datos["noticias"]
 
-    return datos["noticias"]
-
-
-def crear_borrador():
-    noticias = cargar_pendientes()
+    if not noticias:
+        raise SystemExit("No hay noticias pendientes.")
 
     print("\nNOTICIAS DISPONIBLES\n")
 
-    for numero, noticia in enumerate(noticias, start=1):
+    for numero, noticia in enumerate(noticias, 1):
+        identificador = crear_id(noticia)
         print(
             f"{numero}. [{noticia.get('categoria', 'mundial')}] "
             f"{noticia['titulo_original']}"
         )
+        print(f"   ID: {identificador}")
 
-    seleccion = int(input("\nNúmero de noticia: "))
+    seleccion = os.environ.get("NOTICIA_ID", "").strip()
 
-    if seleccion < 1 or seleccion > len(noticias):
-        print("Número no válido.")
-        return
+    if not seleccion:
+        seleccion = input("\nEscribe el ID de la noticia: ").strip()
 
-    noticia = noticias[seleccion - 1]
+    noticia = next(
+        (
+            item for item in noticias
+            if crear_id(item) == seleccion
+        ),
+        None,
+    )
 
-    identificador = crear_id(noticia["titulo_original"])
-
-    BORRADORES.mkdir(parents=True, exist_ok=True)
-
-    destino = BORRADORES / f"{identificador}.json"
-
-    if destino.exists():
-        print("Este borrador ya existe.")
-        return
+    if noticia is None:
+        raise SystemExit("No existe una noticia con ese ID.")
 
     categoria = noticia.get("categoria", "mundial")
+
+    if categoria not in CATEGORIAS:
+        raise SystemExit("Categoría no válida.")
+
+    BORRADORES.mkdir(parents=True, exist_ok=True)
+    destino = BORRADORES / f"{seleccion}.json"
+
+    if destino.exists():
+        raise SystemExit("Ya existe un borrador para esta noticia.")
+
+    url = normalizar_url(noticia["enlace_fuente"])
+
+    for archivo in BORRADORES.glob("*.json"):
+        anterior = cargar(archivo)
+        if normalizar_url(anterior.get("source_url", "")) == url:
+            raise SystemExit(
+                f"Esta noticia ya tiene borrador: {archivo.name}"
+            )
+
+    publicadas = cargar(PUBLICADAS)
+
+    for publicada in publicadas.get("noticias", []):
+        if normalizar_url(publicada.get("source_url", "")) == url:
+            raise SystemExit("Esta noticia ya fue publicada.")
 
     etiquetas = {
         "ecuador": "FÚTBOL ECUATORIANO",
@@ -67,7 +117,7 @@ def crear_borrador():
     borrador = {
         "revision_editorial": False,
         "cat": categoria,
-        "label": etiquetas.get(categoria, "FÚTBOL MUNDIAL"),
+        "label": etiquetas[categoria],
         "title": "REDACTAR TÍTULO EN ESPAÑOL",
         "desc": "REDACTAR RESUMEN ORIGINAL",
         "body": "REDACTAR ARTÍCULO ORIGINAL Y VERIFICADO",
@@ -77,18 +127,13 @@ def crear_borrador():
     }
 
     destino.write_text(
-        json.dumps(
-            borrador,
-            ensure_ascii=False,
-            indent=2,
-        ) + "\n",
+        json.dumps(borrador, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
     print(f"\nBorrador creado: {destino.relative_to(BASE)}")
-    print("Revisa los datos y redacta el artículo.")
-    print("Después cambia revision_editorial a true.")
+    print("Pendiente de redacción y revisión editorial.")
 
 
 if __name__ == "__main__":
-    crear_borrador()
+    main()
