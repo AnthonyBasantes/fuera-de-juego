@@ -1,7 +1,7 @@
 {
-  "total": 83,
+  "total": 97,
   "resumen": {
-    "pendiente": 80,
+    "pendiente": 94,
     "en_revision": 0,
     "publicada": 3
   },
@@ -585,6 +585,104 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-quiere-blindar-a-guillermo-sanguinetti-ante-el-posible-interes-de-otros-clubes-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sometimes managers need sacking for own good - Neville",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+      "categoria": "fichajes",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Do Dundee United have Scotland's best midfield three?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Why is there only one Premier League match on Sunday?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Everyone hurt by Woodman exit - acting Bromley boss",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmn4e3q88708o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "England’s Ivan Toney to stand trial during Euro 2028 after denying assault charge",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Rodman rule has been revised but the fight to keep stars in the NWSL goes on | Moving the Goalposts",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/rodman-rule-revised-fight-keep-stars-nwsl-moving-the-goalposts",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Tottenham’s season has finally taken off. How far up the table can they go?",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/tottenham-season-spurs-chelsea-win-table",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Time and owners not on Moyes’ side as he tries to end Everton trophy drought",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/friedkin-group-david-moyes-end-everton-drought",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Post your questions for Charlie Nicholas",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "A three-year-old soccer prodigy went viral. The adults have already let him down",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/florida-three-year-old-soccer-viral-video-police-social-media",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Macará sorprende en la Liga Ecuabet y está cerca de firmar una campaña histórica en 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-sorprende-en-la-liga-ecuabet-y-esta-cerca-de-firmar-una-campana-historica-en-2026-nota/",
       "estado": "pendiente"
     }
   ]
