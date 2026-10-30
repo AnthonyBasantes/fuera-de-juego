@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-10-29T22:45:01.222481+00:00",
-  "total": 138,
-  "nuevas": 41,
-  "descartadas": 21,
+  "actualizado": "2026-10-30T05:46:43.086994+00:00",
+  "total": 142,
+  "nuevas": 4,
+  "descartadas": 19,
   "noticias": [
     {
       "titulo_original": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
@@ -1107,6 +1107,38 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
+    },
+    {
+      "titulo_original": "Premier League: 10 things to look out for this weekend",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-30T05:46:43.086994+00:00"
+    },
+    {
+      "titulo_original": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-30T05:46:43.086994+00:00"
+    },
+    {
+      "titulo_original": "¿Cuándo se juega la semifinal de vuelta de la Copa Ecuador entre Liga de Quito y Universidad Católica?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuando-se-juega-la-semifinal-de-vuelta-de-la-copa-ecuador-entre-liga-de-quito-y-universidad-catolica-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-30T05:46:43.086994+00:00"
+    },
+    {
+      "titulo_original": "Esta es la otra semifinal de la Copa Ecuador 2026",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/esta-es-la-otra-semifinal-de-la-copa-ecuador-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-30T05:46:43.086994+00:00"
     }
   ]
 }
