@@ -1,7 +1,7 @@
 {
-  "total": 138,
+  "total": 142,
   "resumen": {
-    "pendiente": 135,
+    "pendiente": 139,
     "en_revision": 0,
     "publicada": 3
   },
@@ -970,6 +970,34 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-y-donde-ver-en-vivo-universidad-catolica-vs-liga-de-quito-por-la-semifinal-de-ida-de-la-copa-ecuador-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Premier League: 10 things to look out for this weekend",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿Cuándo se juega la semifinal de vuelta de la Copa Ecuador entre Liga de Quito y Universidad Católica?",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuando-se-juega-la-semifinal-de-vuelta-de-la-copa-ecuador-entre-liga-de-quito-y-universidad-catolica-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Esta es la otra semifinal de la Copa Ecuador 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/esta-es-la-otra-semifinal-de-la-copa-ecuador-2026-nota/",
       "estado": "pendiente"
     }
   ]
