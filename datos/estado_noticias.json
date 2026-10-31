@@ -7,62 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "Sancho rejects Getafe - Thursday's gossip",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Carrick and Fernandes hold clear-the-air talks",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Kompany discharged from hospital following collapse",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Rulli’s heroics earn Manchester City shootout success against Brighton",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "European football: Bayern ease to Cup victory after Kompany leaves hospital",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Nketiah takes Crystal Palace past Fulham and earns Sage breathing space",
       "categoria": "mundial",
       "fuente": "The Guardian - Futbol",
@@ -1404,6 +1348,62 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/futbol/independiente-del-valle-goleo-5-0-al-manchester-city-en-la-messi-cup-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "AC Milan v Inter and the tale of an iconic image",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Listen: Shearer on MOTD, managerial jobs & scoring record",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Chelsea v Manchester United: Premier League – live",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Barcelona SC perdió los últimos tres partidos ante Macará por la Liga Ecuabet",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-perdio-los-ultimos-tres-partidos-ante-macara-por-la-liga-ecuabet-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "[EN VIVO] Chelsea vs. Manchester United por la fecha 9 de la Premier League",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-chelsea-vs-manchester-united-por-la-fecha-9-de-la-premier-league-nota/",
       "estado": "pendiente"
     }
   ]
