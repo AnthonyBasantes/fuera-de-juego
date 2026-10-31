@@ -1,57 +1,9 @@
 {
-  "actualizado": "2026-10-30T22:17:41.883068+00:00",
-  "total": 193,
-  "nuevas": 33,
-  "descartadas": 18,
+  "actualizado": "2026-10-31T05:38:46.411699+00:00",
+  "total": 200,
+  "nuevas": 13,
+  "descartadas": 16,
   "noticias": [
-    {
-      "titulo_original": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "Fleetwood to face Everton or Newcastle in last eight",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "How unbeaten Chelsea are getting back to their best",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "Sesko ruled out until January with shin injury",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
     {
       "titulo_original": "Sancho rejects Getafe - Thursday's gossip",
       "fuente": "BBC Sport - Futbol",
@@ -1547,6 +1499,110 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
+    },
+    {
+      "titulo_original": "Villa to sue Carragher over 'unacceptable insults'",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "From WiFi to 'relief' - how was Ferguson's Irish League debut?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj5ynr23rg4ro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Man Utd target Barcelona's Lopez - Saturday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/michael-carrick-tells-players-hard-truth-manchester-united",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Moisés Caicedo y Chelsea reciben al Manchester United este sábado: Canales y horarios por país para ver EN VIVO",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-el-chelsea-de-moises-caicedo-frente-al-manchester-united-por-la-premier-league-canales-y-horarios-por-pais-para-ver-en-vivo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "¿Gustavo Quinteros, extécnico de Emelec y Ecuador, es opción en club colombiano?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/gustavo-quinteros-extecnico-de-emelec-y-ecuador-es-opcion-en-club-colombiano-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "9 de Octubre pide a LigaPro investigar posible multipropiedad entre Aucas y Vinotinto FC",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/9-de-octubre-pide-a-ligapro-investigar-posible-multipropiedad-entre-aucas-y-vinotinto-fc-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "¿A qué hora y dónde ver EN VIVO Chelsea de Moisés Caicedo vs. Manchester United por la Premier League?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-y-donde-ver-en-vivo-chelsea-de-moises-caicedo-vs-manchester-united-por-la-premier-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Calendario de la Liga Pro 2026: partidos de la fecha 5 de la fase de grupos del campeonato ecuatoriano",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/calendario-de-la-liga-pro-2026-partidos-de-la-fecha-5-de-la-fase-de-grupos-del-campeonato-ecuatoriano-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Integrantes del cuerpo técnico de Marcelo Gallardo visitaron las instalaciones de Liga de Quito",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/integrantes-del-cuerpo-tecnico-de-marcelo-gallardo-visitaron-las-instalaciones-de-liga-de-quito-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Independiente del Valle goleó 5-0 al Manchester City en la Messi Cup",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/independiente-del-valle-goleo-5-0-al-manchester-city-en-la-messi-cup-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
     }
   ]
 }
