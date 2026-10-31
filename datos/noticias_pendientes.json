@@ -1,73 +1,9 @@
 {
-  "actualizado": "2026-10-31T05:38:46.411699+00:00",
+  "actualizado": "2026-10-31T12:26:44.368260+00:00",
   "total": 200,
-  "nuevas": 13,
-  "descartadas": 16,
+  "nuevas": 8,
+  "descartadas": 15,
   "noticias": [
-    {
-      "titulo_original": "Sancho rejects Getafe - Thursday's gossip",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "Carrick and Fernandes hold clear-the-air talks",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "Kompany discharged from hospital following collapse",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "Rulli’s heroics earn Manchester City shootout success against Brighton",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/manchester-city-brighton-carabao-cup-fourth-round-match-report",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
-    {
-      "titulo_original": "European football: Bayern ease to Cup victory after Kompany leaves hospital",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/european-football-two-late-own-goals-return-inter-top-serie-a-venezia",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T05:48:41.720621+00:00",
-      "categoria": "mundial"
-    },
     {
       "titulo_original": "Nketiah takes Crystal Palace past Fulham and earns Sage breathing space",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1539,70 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
+    },
+    {
+      "titulo_original": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
+    },
+    {
+      "titulo_original": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
+    },
+    {
+      "titulo_original": "AC Milan v Inter and the tale of an iconic image",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
+    },
+    {
+      "titulo_original": "Listen: Shearer on MOTD, managerial jobs & scoring record",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
+    },
+    {
+      "titulo_original": "Chelsea v Manchester United: Premier League – live",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
+    },
+    {
+      "titulo_original": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
+    },
+    {
+      "titulo_original": "Barcelona SC perdió los últimos tres partidos ante Macará por la Liga Ecuabet",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-perdio-los-ultimos-tres-partidos-ante-macara-por-la-liga-ecuabet-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
+    },
+    {
+      "titulo_original": "[EN VIVO] Chelsea vs. Manchester United por la fecha 9 de la Premier League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-chelsea-vs-manchester-united-por-la-fecha-9-de-la-premier-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
     }
   ]
 }
