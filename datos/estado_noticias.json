@@ -7,188 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "Independiente del Valle vs. Delfín: ¿cuándo y dónde se juega la revancha de la semifinal de la Copa Ecuador 2026?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-vs-delfin-cuando-y-donde-se-juega-la-revancha-de-la-semifinal-de-la-copa-ecuador-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Independiente del Valle aplastó 3-0 a Delfín en Manta y acaricia la final de la Copa Ecuador",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-delfin-vs-independiente-del-valle-por-la-semifinal-de-ida-de-la-copa-ecuador-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Ecuador cae ante España y queda fuera de la lucha por el título del Mundial Sub-15",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-cae-ante-espana-y-queda-fuera-de-la-lucha-por-el-titulo-del-mundial-sub-15-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Barcelona SC y Atlético FC podrían jugar un partido de Liga Ecuabet 2027 en Madrid: ‘Se está planteando la posibilidad’",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-y-atletico-fc-podrian-jugar-un-partido-de-liga-ecuabet-2027-en-madrid-se-esta-planteando-la-posibilidad-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Cuenca será la sede de la final de la Copa Ecuador 2026",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuenca-sera-la-sede-de-la-final-de-la-copa-ecuador-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Universidad Católica vs. Liga de Quito: fecha, hora, entradas y todo sobre la semifinal de ida de Copa Ecuador 2026",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/universidad-catolica-vs-liga-de-quito-fecha-hora-entradas-y-todo-sobre-la-semifinal-de-ida-de-copa-ecuador-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Moisés Caicedo y Chelsea se despiden de la Carabao Cup: Liverpool elimina a los ‘Blues’ por penales",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/moises-caicedo-y-chelsea-se-despiden-de-la-carabao-cup-liverpool-elimina-a-los-blues-por-penales-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Casi un hecho: Gustavo Fermani sería el nuevo director deportivo de Barcelona SC",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/casi-un-hecho-gustavo-fermani-seria-el-nuevo-director-deportivo-de-barcelona-sc-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Liga de Quito cumple tres años de su última Copa Sudamericana: los títulos que ha ganado desde entonces",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/liga-de-quito-cumple-tres-anos-de-su-ultima-copa-sudamericana-los-titulos-que-ha-ganado-desde-entonces-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Quién es Gustavo Fermani, el argentino que sería el nuevo director deportivo de Barcelona SC?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/quien-es-gustavo-fermani-el-argentino-que-seria-el-nuevo-director-deportivo-de-barcelona-sc-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Jesús Pretell respalda la autocrítica de Gustavo Álvarez en Liga de Quito: ‘Fuimos un equipo sin carácter’",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/jesus-pretell-respalda-la-autocritica-de-gustavo-alvarez-en-liga-de-quito-fuimos-un-equipo-sin-caracter-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Federación Española de Fútbol suspende jornada de Copa del Rey por accidente ferroviario en Madrid",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/federacion-espanola-de-futbol-suspende-jornada-de-copa-del-rey-por-accidente-ferroviario-en-madrid-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Luto en la selección de Argentina: muere Eulalia Marzetti, madre del seleccionador Lionel Scaloni",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/luto-en-la-seleccion-de-argentina-muere-eulalia-marzetti-madre-del-seleccionador-lionel-scaloni-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Gustavo Álvarez exige un cambio de actitud en Liga de Quito tras la derrota ante Macará: “Fuimos un equipo apático, sin alma”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/gustavo-alvarez-exige-un-cambio-de-actitud-en-liga-de-quito-tras-la-derrota-ante-macara-fuimos-un-equipo-apatico-sin-alma-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "A qué hora juega Delfín vs. Independiente del Valle por la Copa Ecuador: canales y horarios para ver EN VIVO",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-delfin-vs-independiente-del-valle-por-la-copa-ecuador-canales-y-horarios-para-ver-en-vivo-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "La ‘Tigra’ ruge en Kazajistán: Lucía Yépez peleará por el oro en el Mundial de Lucha 2026",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/otros-deportes/la-tigra-ruge-en-kazajistan-lucia-yepez-peleara-por-el-oro-en-el-mundial-de-lucha-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Quién es Fleetwood Town, el equipo de cuarta división que eliminó al Arsenal de Piero Hincapié de la Carabao Cup?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/quien-es-fleetwood-town-el-equipo-de-cuarta-division-que-elimino-al-arsenal-de-piero-hincapie-de-la-carabao-cup-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Barcelona SC empieza a mirar el 2027 y define cuándo analizará las renovaciones de José Contreras y Darío Benedetto",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-empieza-a-mirar-el-2027-y-define-cuando-analizara-las-renovaciones-de-jose-contreras-y-dario-benedetto-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "La Tri vuelve a Quito: estos son los precios de las entradas para Ecuador vs. Costa Rica",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-vuelve-a-quito-estos-son-los-precios-de-las-entradas-para-ecuador-vs-costa-rica-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "La Tri vuelve al Olímpico Atahualpa nueve años después: así fue el último partido de Ecuador en el Coloso del Batán",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-vuelve-al-olimpico-atahualpa-nueve-anos-despues-asi-fue-el-ultimo-partido-de-ecuador-en-el-coloso-del-batan-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Se inicia venta de boletos para final de Copa Sudamericana entre Atlético Mineiro y Boca Juniors de Enner Valencia",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/inicia-venta-de-boletos-para-final-de-copa-sudamericana-entre-atletico-mineiro-y-boca-juniors-de-enner-valencia-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Macará quiere blindar a Guillermo Sanguinetti ante el posible interés de otros clubes",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-quiere-blindar-a-guillermo-sanguinetti-ante-el-posible-interes-de-otros-clubes-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Mourinho and chaos - is Real Madrid boss misunderstood?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Sometimes managers need sacking for own good - Neville",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
-      "categoria": "fichajes",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "'I'm embarrassed' - Harrogate boss after 3-0 defeat by nine-man Carlisle",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crly06p0g11eo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Do Dundee United have Scotland's best midfield three?",
       "categoria": "mundial",
       "fuente": "BBC Sport - Futbol",
@@ -1404,6 +1222,188 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-juega-hoy-macara-vs-barcelona-sc-por-la-liga-ecuabet-canales-y-horarios-para-ver-este-partido-en-vivo-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Brighton pick up first away league victory over Man City",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Coventry out of bottom three after win over struggling Sunderland",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Enciso's stunning goal earns Ipswich draw at Hull",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Spurs revival continues with victory over 10-man Crystal Palace",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Evanilson scores again as Bournemouth beat Leeds",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Thiago on target as Brentford beat Forest",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Suzuki mistake gifts Fulham point at Villa",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmwy9rylr0e6o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Are Manchester United really at risk of a relegation scrap?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Man Utd enquire about Toney - Sunday's gossip",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crz98lwn3pvzo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Coventry, Ipswich, Hull - promoted trio enjoy positive starts",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck5ynzv8404ro?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Has Martinez become a liability for Man Utd?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Kane misses Bayern penalty before late Dortmund goal earns draw",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "How 'brave & balanced' Brighton beat Man City",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Zion Suzuki horror own goal haunts Aston Villa to hand Fulham a point",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/aston-villa-fulham-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Enzo Maresca rues ‘silly’ errors after Manchester City defeat against Brighton",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/enzo-maresca-manchester-city-brighton-premier-league",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sakamoto sparks Coventry win to keep 10-man Sunderland rock-bottom",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/coventry-sunderland-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Evanilson profits from costly Trafford blunder as Bournemouth punish Leeds",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/bournemouth-leeds-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "categoria": "fichajes",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "categoria": "fichajes",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "“Era una final para nosotros”, dice Guillermo Sanguinetti, DT de Macará, sobre el triunfo ante Barcelona SC",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/era-una-final-para-nosotros-dice-guillermo-sanguinetti-dt-de-macara-sobre-el-triunfo-ante-barcelona-sc-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Pablo Trobbiani, DT de Barcelona SC, sobre la derrota  de visita ante Macará: “Nos vamos dolidos, la culpa es mía”",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/pablo-trobbiani-dt-de-barcelona-sc-y-la-derrota-de-visita-ante-macara-nos-vamos-dolidos-la-culpa-es-mia-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Así queda la tabla de posiciones luego de la caída de Barcelona SC en su visita a Macará en la fecha 5 del hexagonal final de Liga Ecuabet",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-queda-la-tabla-de-posiciones-luego-de-la-caida-de-barcelona-sc-en-su-visita-a-macara-en-la-fecha-5-del-hexagonal-final-de-liga-ecuabet-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Matías Córdoba, técnico de Leones, sobre el triunfo en su visita a Emelec: “Es impresionante”",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/matias-cordoba-tecnico-de-leones-y-el-triunfo-en-su-visita-a-emelec-es-impresionante-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "“No estuvimos a la altura, siento vergüenza deportiva”, el lamento de Ezequiel Medrán, DT de Emelec, y la caída ante Leones FC",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/no-estuvimos-a-la-altura-siento-verguenza-deportiva-el-lamento-de-ezequiel-medran-dt-de-emelec-y-la-caida-ante-leones-fc-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Así marcha la tabla de posiciones del cuadrangular de la Liga Ecuabet; Emelec quedó sin chances",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-marcha-la-tabla-de-posiciones-del-cuadrangular-de-la-liga-ecuabet-emelec-quedo-sin-chances-nota/",
       "estado": "pendiente"
     }
   ]
