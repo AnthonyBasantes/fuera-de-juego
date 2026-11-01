@@ -1,113 +1,9 @@
 {
-  "actualizado": "2026-11-01T06:01:32.313098+00:00",
+  "actualizado": "2026-11-01T13:22:14.514504+00:00",
   "total": 200,
-  "nuevas": 26,
-  "descartadas": 12,
+  "nuevas": 13,
+  "descartadas": 11,
   "noticias": [
-    {
-      "titulo_original": "Do Dundee United have Scotland's best midfield three?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwn738elr6nvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Why is there only one Premier League match on Sunday?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Everyone hurt by Woodman exit - acting Bromley boss",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmn4e3q88708o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "England’s Ivan Toney to stand trial during Euro 2028 after denying assault charge",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Rodman rule has been revised but the fight to keep stars in the NWSL goes on | Moving the Goalposts",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/rodman-rule-revised-fight-keep-stars-nwsl-moving-the-goalposts",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Tottenham’s season has finally taken off. How far up the table can they go?",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/tottenham-season-spurs-chelsea-win-table",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Time and owners not on Moyes’ side as he tries to end Everton trophy drought",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/friedkin-group-david-moyes-end-everton-drought",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Post your questions for Charlie Nicholas",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "A three-year-old soccer prodigy went viral. The adults have already let him down",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/florida-three-year-old-soccer-viral-video-police-social-media",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Macará sorprende en la Liga Ecuabet y está cerca de firmar una campaña histórica en 2026",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-sorprende-en-la-liga-ecuabet-y-esta-cerca-de-firmar-una-campana-historica-en-2026-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T12:59:06.394690+00:00"
-    },
-    {
-      "titulo_original": "Grealish dropped by Everton after 'breach of club discipline'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
-    },
-    {
-      "titulo_original": "Sutton's predictions v Bad Day At The Office star John Hannah",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
-    },
-    {
-      "titulo_original": "Is double drop from the Premier League becoming more common?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-29T22:45:01.222481+00:00"
-    },
     {
       "titulo_original": "'Fully committed' Fernandes to remain Man Utd captain",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1499,110 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-01T06:01:32.313098+00:00"
+    },
+    {
+      "titulo_original": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Third-choice? Inside Alexander-Arnold's struggles in Madrid",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Wednesday appoint former Stockport boss Challinor",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Kilmarnock 'need support more than ever' but patience wearing thin",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6pqg3dw9w55o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Fishlock out to keep career alive in NWSL play-offs",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmewe7ee1djzo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Arsenal v Aston Villa, London City Lionesses v Manchester City, and more: Women’s Super League – live",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/01/arsenal-v-aston-villa-london-city-lionesses-v-manchester-city-and-more-womens-super-league-live",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Michael Carrick to stay in charge of Manchester United for Roma game",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-stay-manager-manchester-united-roma-game",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Rampant Salford hint that Beckham’s lofty ambitions are not a pipe dream",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/salford-city-david-beckham-lofty-ambitions-football",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Integrantes del cuerpo técnico de Marcelo Gallardo presenciaron la goleada de Macará sobre Barcelona SC en el Bellavista",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/integrantes-del-cuerpo-tecnico-de-marcelo-gallardo-presenciaron-la-goleada-de-macara-sobre-barcelona-sc-en-el-bellavista-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Independiente del Valle vs. Liga de Quito: así está el historial en la era Liga Pro desde 2019",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-vs-liga-de-quito-asi-esta-el-historial-en-la-era-liga-pro-desde-2019-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Independiente del Valle vs. Liga de Quito, el duelo característico de las últimas tres temporadas en Ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-vs-liga-de-quito-el-duelo-caracteristico-de-las-ultimas-tres-temporadas-en-ecuador-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "Cuándo juega Independiente del Valle vs. Liga de Quito por la Liga Ecuabet: horarios y canales para ver EN VIVO",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuando-juega-independiente-del-valle-vs-liga-de-quito-por-la-liga-ecuabet-horarios-y-canales-para-ver-en-vivo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
+    },
+    {
+      "titulo_original": "A qué hora juega el Arsenal de Piero Hincapié frente al Liverpool por la Premier League: canales y horarios por país para ver EN VIVO",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-el-arsenal-de-piero-hincapie-frente-al-liverpool-por-la-premier-league-canales-y-horarios-por-pais-para-ver-en-vivo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
     }
   ]
 }
