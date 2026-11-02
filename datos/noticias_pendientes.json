@@ -1,89 +1,9 @@
 {
-  "actualizado": "2026-11-01T22:00:30.308825+00:00",
+  "actualizado": "2026-11-02T05:59:35.056141+00:00",
   "total": 200,
-  "nuevas": 40,
+  "nuevas": 10,
   "descartadas": 17,
   "noticias": [
-    {
-      "titulo_original": "¿Cuándo se juega la semifinal de vuelta de la Copa Ecuador entre Liga de Quito y Universidad Católica?",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuando-se-juega-la-semifinal-de-vuelta-de-la-copa-ecuador-entre-liga-de-quito-y-universidad-catolica-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T05:46:43.086994+00:00"
-    },
-    {
-      "titulo_original": "Esta es la otra semifinal de la Copa Ecuador 2026",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/esta-es-la-otra-semifinal-de-la-copa-ecuador-2026-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T05:46:43.086994+00:00"
-    },
-    {
-      "titulo_original": "How talking about Man Utd's cycle of doom became an industry",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
-    {
-      "titulo_original": "Ronaldo closes in on 1,000th goal with hat-trick",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmkgqprr44gzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
-    {
-      "titulo_original": "'The most important person managers must manage is themselves'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
-    {
-      "titulo_original": "Items stolen from Man Utd Munich air disaster memorial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
-    {
-      "titulo_original": "Time to invest in Bournemouth? - FPL gameweek nine dilemmas",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cked3zen65d1o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
-    {
-      "titulo_original": "Forest Green launch legal action over Savage approach",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
-    {
-      "titulo_original": "How to follow the Premier League on the BBC this weekend",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
-    {
-      "titulo_original": "Afcon to return to two-year cycle after Caf U-turn",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T12:53:57.180930+00:00"
-    },
     {
       "titulo_original": "China made Mbappé apologise - but many don't know exactly what he said",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1523,86 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
+    },
+    {
+      "titulo_original": "Man Utd eye Barcelona's Balde - Monday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "Rice relishing title race 'anxiety' after win at Liverpool",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "Arsenal fail at Fleetwood and Michael Carrick clings on | Football Weekly Extra – video",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/oct/29/arsenal-fail-at-fleetwood-and-michael-carrick-clings-on-football-weekly-video",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "Libertad FC empata en su visita a Guayaquil City y logra boleto para la Copa Sudamericana 2027 en la fecha 5 del cuadrangular de la Liga Ecuabet",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/libertad-fc-empata-en-su-visita-a-guayaquil-city-y-logra-boleto-para-la-copa-sudamericana-2027-en-la-fecha-5-del-cuadrangular-de-liga-ecuabet-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "Así queda la tabla de posiciones luego del empate entre Guayaquil City y Libertad FC en la fecha 5 del cuadrangular por un cupo a la Copa Sudamericana",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-queda-la-tabla-de-posiciones-luego-del-empate-entre-guayaquil-city-y-libertad-fc-por-la-fecha-5-del-cuadrangular-por-un-cupo-a-la-copa-sudamericana-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
+    },
+    {
+      "titulo_original": "“Las sensaciones son de alegría”, dice Joaquín Papa, DT de Independiente del Valle, sobre la cercanía del bicampeonato tras la victoria ante Liga de Quito",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/las-sensaciones-son-de-alegria-dice-joaquin-papa-dt-de-independiente-del-valle-sobre-la-cercania-del-bicampeonato-tras-la-victoria-ante-liga-de-quito-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
     }
   ]
 }
