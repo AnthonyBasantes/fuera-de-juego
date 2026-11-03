@@ -1,201 +1,9 @@
 {
-  "actualizado": "2026-11-03T14:11:39.534569+00:00",
+  "actualizado": "2026-11-03T23:22:33.932347+00:00",
   "total": 200,
-  "nuevas": 21,
-  "descartadas": 21,
+  "nuevas": 24,
+  "descartadas": 19,
   "noticias": [
-    {
-      "titulo_original": "18-year-old Mfuni 'will go a long way' - Lampard",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c60qkyzeqz44o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Sage looking for solutions to Palace form",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6r7yx55n3gjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Kane beat Mbappe to Ballon d'Or by just 28 points",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Le Bris shrugs off questions on Sunderland future",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm9dz2yy1225o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Man Utd held to goalless draw at Everton",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c5vgj1gx3r77o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Spurs see off Crystal Palace after Mateta’s early red to pile pressure on Sage",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/tottenham-crystal-palace-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Ayari on target as Brighton stun Manchester City to close gap on leaders",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/manchester-city-brighton-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "‘I’m not here to be liked’: Glasner defiant as Brentford capitalise on Forest woes",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/brentford-nottingham-forest-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Naderi breaks Aberdeen’s resistance as Rangers reach Premier Sports Cup final",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "European football: Kane misses penalty as Dortmund share spoils in Der Klassiker",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/european-football-harry-kane-bayern-munich-borussia-dortmund-milan-inter-barcelona",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Julio Enciso strikes again to earn Ipswich a point against Hull",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/hull-ipswich-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Manchester United miss chance to close on WSL top three in drab draw at Everton",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/everton-manchester-united-wsl-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "If Mikel Arteta’s dossier is part of a deliberate strategy, it is a dangerous one for Arsenal | Jonathan Wilson",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/mikel-arteta-dossier-arsenal-everton-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Championship roundup: Pressure grows on Nuno as West Ham beaten at home",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/championship-roundup-birmingham-burnley-middlesbrough-southampton-wolves",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "[En Vivo-1T] Macará 0-0 Barcelona SC por la fecha 5 del hexagonal final de Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-macara-vs-barcelona-sc-por-la-fecha-5-del-hexagonal-final-de-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Emelec cae ante Leones FC en el Capwell y queda fuera de la Copa Sudamericana 2027",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-emelec-vs-leones-fc-por-la-fecha-5-del-cuadrangular-de-la-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Así queda la tabla de posiciones de la fecha 5 del hexagonal de la Liga Ecuabet por no descender luego de la victoria del Delfín SC ante Deportivo Cuenca",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-queda-la-tabla-de-posiciones-de-la-fecha-5-del-hexagonal-de-liga-ecuabet-por-no-descender-luego-de-la-victoria-del-delfin-sc-ante-deportivo-cuenca-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Independiente del Valle cierra su participación en la Messi Cup con triunfo sobre el Inter de Milán",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/independiente-del-valle-cierra-su-participacion-en-la-messi-cup-con-triunfo-sobre-el-inter-de-milan-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Luis Piedrahíta, el ecuatoriano que trabajó con Moisés Caicedo y ahora forma entrenadores en Qatar",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/luis-piedrahita-el-ecuatoriano-que-trabajo-con-moises-caicedo-y-ahora-forma-entrenadores-en-qatar-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Delfín SC derrota al Deportivo Cuenca y sueña con la salvación en el hexagonal por no descender de Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/delfin-sc-derrota-al-deportivo-cuenca-y-suena-con-la-salvacion-en-el-hexagonal-por-no-descender-de-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Barcelona SC niega contactos con Sergio Sanguinetti para reemplazar a Pablo Trobbiani",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-niega-contactos-con-sergio-sanguinetti-para-reemplazar-a-pablo-trobbiani-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Michael Carrick seguiría al frente del Manchester United para enfrentar al Chelsea de Moisés Caicedo",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/michael-carrick-seguiria-al-frente-del-manchester-united-para-enfrentar-al-chelsea-de-moises-caicedo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
     {
       "titulo_original": "Harry Kane es el nuevo Balón de Oro y Willian Pacho hace historia para Ecuador: estos son los 3 impactos deportivos",
       "fuente": "El Universo - Ecuador",
@@ -1603,6 +1411,198 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "'We don't need to save anyone's job,' says Man Utd captain Fernandes",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Pocognoli focus on Scotland tidy-up as Euros loom",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cknv0n96er9po?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Lionesses to face France and Portugal in Nations League",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "How sporting events are being impacted by Middle East conflict",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Palace launch Mateta red card appeal",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Kenny's background 'not that important' to O'Neill",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckqxn7pzrxyro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Newcastle and Palace progress in EFL Trophy",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm040k69nqk4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Wrexham suffer 'significant' Smith injury blow",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Manchester United produce comeback for the ages as Cunha double floors Roma",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/manchester-united-roma-champions-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Raphinha underlines Barcelona’s class to give Aston Villa a reality check",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Championship roundup: Devlin’s double for Portsmouth denies Swansea top spot",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/championship-roundup-swansea-portsmouth-southampton-west-brom-burnley",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Arteta backs Saliba’s readiness to return for Arsenal at Slavia Prague",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/arteta-backs-salibas-readiness-to-return-for-arsenal-at-slavia-prague",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Phil Foden sets sights on England recall and says he has had no contact with Tuchel",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/phil-foden-sets-sights-on-england-recall-and-says-hes-had-no-contact-with-tuchel",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Manta FC vence a Mushuc Runa en Echaleche y sueña con salvarse del descenso en la Liga Ecuabet",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/manta-fc-vence-a-mushuc-runa-en-echaleche-y-suena-con-salvarse-del-descenso-en-la-liga-ecuabet-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Épica remontada del Manchester United a la Roma en la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/epica-remontada-del-manchester-united-a-la-roma-en-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "FC Barcelona golea al Aston Villa en la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/fc-barcelona-golea-al-aston-villa-en-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Con Willian Pacho, el Paris Saint-Germain vapuleó 6-0 al Villarreal en la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/con-willian-pacho-el-paris-saint-germain-vapuleo-6-0-al-villarreal-en-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "“Que todo sea lo mejor para el club”, dice Gustavo Fermani, nuevo director deportivo de Barcelona SC",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/que-todo-sea-lo-mejor-para-el-club-dice-gustavo-fermani-flamante-director-deportivo-de-barcelona-sc-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
+    },
+    {
+      "titulo_original": "Desde Jesús de Miguel hasta Marc-Vivien Foé: estos son los futbolistas que han fallecido en el campo de juego durante un partido",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/de-jesus-de-miguel-hasta-marc-vivien-foe-estos-son-los-futbolistas-que-han-fallecido-en-el-campo-de-juego-durante-un-partido-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T23:22:33.932347+00:00"
     }
   ]
 }
