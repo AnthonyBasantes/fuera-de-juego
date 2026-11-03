@@ -1,249 +1,9 @@
 {
-  "actualizado": "2026-11-02T15:49:19.821903+00:00",
+  "actualizado": "2026-11-03T00:57:08.923911+00:00",
   "total": 200,
-  "nuevas": 28,
+  "nuevas": 30,
   "descartadas": 18,
   "noticias": [
-    {
-      "titulo_original": "Football Daily | Newcastle’s Jaissle wants to scream while Grealish leaves Moyes speechless",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/newcastle-jaissle-grealish-moyes-football-daily-newsletter",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Emiliano Martínez se burla de las teorías conspirativas tras la derrota de Argentina en la final del Mundial 2026",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/emiliano-martinez-se-burla-de-las-teorias-conspirativas-tras-la-derrota-de-argentina-en-la-final-del-mundial-2026-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Santiago Morales, presidente de IDV, ve el partido ante Liga de Quito como “una gran oportunidad para dar la vuelta olímpica”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/santiago-morales-presidente-de-idv-ve-el-partido-ante-liga-de-quito-como-una-gran-oportunidad-para-dar-la-vuelta-olimpica-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "¿Qué necesita Macará para seguir en la pelea por el título de la Liga Pro 2026?",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/que-necesita-macara-para-seguir-en-la-pelea-por-el-titulo-de-la-liga-pro-2026-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Paris Saint-Germain golea 5-1 al Le Havre con triplete de Hakimi y sin Willian Pacho",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/paris-saint-germain-golea-5-1-al-le-havre-con-triplete-de-hakimi-y-sin-willian-pacho-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Independiente del Valle podría convertirse este domingo en campeón: estos son los 3 impactos deportivos",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-podria-convertirse-este-domingo-en-campeon-estos-son-los-3-impactos-deportivos-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Barcelona SC prepara su posible alineación ante Macará por la Liga Ecuabet: Pablo Trobbiani repetiría el once",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-prepara-su-posible-alineacion-ante-macara-por-la-liga-ecuabet-pablo-trobbiani-repetiria-el-once-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Independiente del Valle revela la situación contractual de Joaquín Papa, Mateo Carabajal y Charli González",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-revela-la-situacion-contractual-de-joaquin-papa-mateo-carabajal-y-charli-gonzalez-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "La Liga Profesional Argentina volverá a cambiar su formato para el 2027",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-liga-profesional-argentina-volvera-a-cambiar-su-formato-para-el-2027-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Miguel Parrales está a un gol de igualar el récord de máximo goleador de la Liga Pro desde 2019",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/miguel-parrales-esta-a-un-gol-de-igualar-el-record-de-maximo-goleador-de-la-liga-pro-desde-2019-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Emelec define su posible alineación para recibir a Leones FC por la Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-define-su-posible-alineacion-para-recibir-a-leones-fc-por-la-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Independiente del Valle rompe el récord goleador de la era Liga Pro y supera a Liga de Quito",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-rompe-el-record-goleador-de-la-era-liga-pro-y-supera-a-liga-de-quito-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Independiente del Valle buscará asegurar anticipadamente el título de Liga Pro este fin de semana ante Liga de Quito",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-buscara-asegurar-anticipadamente-el-titulo-de-liga-pro-este-fin-de-semana-ante-liga-de-quito-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Cuándo juega Barcelona SC vs. Macará por la Liga Ecuabet: horarios y canales para ver EN VIVO",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuando-juega-barcelona-sc-vs-macara-por-la-liga-ecuabet-horarios-y-canales-para-ver-en-vivo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Gustavo Álvarez, técnico de Liga de Quito, y el empate con Universidad Católica en la semifinal de ida de Copa Ecuador: “Somos conscientes de que nos está costando marcar”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/gustavo-alvarez-tecnico-de-liga-de-quito-y-el-empate-con-universidad-catolica-en-la-semifinal-de-ida-de-copa-ecuador-somos-conscientes-de-que-nos-esta-costando-marcar-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-30T22:17:41.883068+00:00"
-    },
-    {
-      "titulo_original": "Villa to sue Carragher over 'unacceptable insults'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "From WiFi to 'relief' - how was Ferguson's Irish League debut?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj5ynr23rg4ro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Man Utd target Barcelona's Lopez - Saturday's gossip",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck3r52vn758xo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/michael-carrick-tells-players-hard-truth-manchester-united",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Xabi Alonso rules out January loan move for Chelsea winger Estêvão Willian",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/30/xabi-alonso-rules-out-january-loan-move-estevao-willian-chelsea-manchester-united-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Moisés Caicedo y Chelsea reciben al Manchester United este sábado: Canales y horarios por país para ver EN VIVO",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-el-chelsea-de-moises-caicedo-frente-al-manchester-united-por-la-premier-league-canales-y-horarios-por-pais-para-ver-en-vivo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "¿Gustavo Quinteros, extécnico de Emelec y Ecuador, es opción en club colombiano?",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/gustavo-quinteros-extecnico-de-emelec-y-ecuador-es-opcion-en-club-colombiano-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "9 de Octubre pide a LigaPro investigar posible multipropiedad entre Aucas y Vinotinto FC",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/9-de-octubre-pide-a-ligapro-investigar-posible-multipropiedad-entre-aucas-y-vinotinto-fc-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "¿A qué hora y dónde ver EN VIVO Chelsea de Moisés Caicedo vs. Manchester United por la Premier League?",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-y-donde-ver-en-vivo-chelsea-de-moises-caicedo-vs-manchester-united-por-la-premier-league-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Calendario de la Liga Pro 2026: partidos de la fecha 5 de la fase de grupos del campeonato ecuatoriano",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/calendario-de-la-liga-pro-2026-partidos-de-la-fecha-5-de-la-fase-de-grupos-del-campeonato-ecuatoriano-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Integrantes del cuerpo técnico de Marcelo Gallardo visitaron las instalaciones de Liga de Quito",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/integrantes-del-cuerpo-tecnico-de-marcelo-gallardo-visitaron-las-instalaciones-de-liga-de-quito-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Independiente del Valle goleó 5-0 al Manchester City en la Messi Cup",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/independiente-del-valle-goleo-5-0-al-manchester-city-en-la-messi-cup-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T05:38:46.411699+00:00"
-    },
-    {
-      "titulo_original": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
-    {
-      "titulo_original": "'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
     {
       "titulo_original": "AC Milan v Inter and the tale of an iconic image",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1363,246 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
+    },
+    {
+      "titulo_original": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "From nightmare debut season to Everton hero - Barry's revival",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Who produced the kind of performance Moyes loves? - player ratings",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Who has made Troy's Premier League team of the week?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Fifa to share 'key documents' over World Cup sell-off plan",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Grealish can still have Everton future - Moyes",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Everton hold off Newcastle to move into seventh",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Kane would swap Ballon d'Or for Champions League victory",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6gr875l1095o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Arsenal want Kroupi in January - Tuesday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmy83eppjzp4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "'He's unavailable' - Moyes tight-lipped on Grealish",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Key questions as Pocognoli prepares to name Scotland squad",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckpqg82yxqgyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pkyhnx?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Tenerife player in intensive care with injury",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "BBC Women's Football Weekly",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pkxggd?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Revisiting the Superclásico: a story of death, violence, colour and family",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Arsenal have everything they need to repeat as Premier League champions | Jonathan Wilson",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-premier-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Stumbling block: Wirtz's and Liverpool’s costly struggles against tight defences | Andrew Beasley",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Fifa to share documents on World Cup sell-off plans with council members",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/fifa-council-members-documents-forward-enterprise-ffe-scheme-uefa-questions-governance-scandals-gianni-infantino",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Carrick not concerned about Martínez’s attitude as United prepare for Roma visit",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/michael-carrick-lisandro-martinez-manchester-united-roma-champions-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Aston Villa drop threat of legal action against Jamie Carragher after apology",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/aston-villa-drop-threat-of-legal-action-against-jamie-carragher",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Led by Liam Rosenior and backed by billionaires, Paris FC are now a force in Ligue 1 | Luke Entwistle",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/paris-fc-ligue-1-liam-rosenior-billionaires",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Goals, guests and 6,561 scenarios: inside ESPN on the biggest NWSL Decision Day yet",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/goals-guests-and-6561-scenarios-inside-espn-on-the-biggest-nwsl-decision-day-yet",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Así marcha la lucha por el descenso de la Liga Ecuabet tras el empate entre Orense y Técnico Universitario",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/columnistas-deportes/asi-marcha-la-lucha-por-el-descenso-de-la-liga-ecuabet-tras-el-empate-entre-orense-y-tecnico-universitario-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Orense sueña con salvarse del descenso en la Liga Ecuabet al empatar con Técnico Universitario",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/orense-suena-con-salvarse-del-descenso-en-la-liga-ecuabet-tras-empate-vs-tecnico-universitario-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Harry Kane cambiaría el Balón de Oro por ganar la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/harry-kane-cambiaria-el-balon-de-oro-por-ganar-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "Willian Pacho elogia a Luis Enrique: “Hace cosas que un DT normal no haría”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/willian-pacho-elogia-a-luis-enrique-hace-cosas-que-un-dt-normal-no-haria-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "“Tengo ganas de seguir en Barcelona SC”, apunta Darío Benedetto",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/tengo-ganas-de-seguir-en-barcelona-sc-apunta-dario-benedetto-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
     }
   ]
 }
