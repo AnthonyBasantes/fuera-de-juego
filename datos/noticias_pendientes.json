@@ -1,177 +1,9 @@
 {
-  "actualizado": "2026-11-03T00:57:08.923911+00:00",
+  "actualizado": "2026-11-03T14:11:39.534569+00:00",
   "total": 200,
-  "nuevas": 30,
-  "descartadas": 18,
+  "nuevas": 21,
+  "descartadas": 21,
   "noticias": [
-    {
-      "titulo_original": "AC Milan v Inter and the tale of an iconic image",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
-    {
-      "titulo_original": "Listen: Shearer on MOTD, managerial jobs & scoring record",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pkgq2g?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
-    {
-      "titulo_original": "Chelsea v Manchester United: Premier League – live",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
-    {
-      "titulo_original": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
-    {
-      "titulo_original": "Barcelona SC perdió los últimos tres partidos ante Macará por la Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-perdio-los-ultimos-tres-partidos-ante-macara-por-la-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
-    {
-      "titulo_original": "[EN VIVO] Chelsea vs. Manchester United por la fecha 9 de la Premier League",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-chelsea-vs-manchester-united-por-la-fecha-9-de-la-premier-league-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T12:26:44.368260+00:00"
-    },
-    {
-      "titulo_original": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Are De Zerbi's Spurs finding elusive consistency?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Verbruggen spreads belief as impressive Brighton beat Man City",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Maresca's big test is to address mounting Man City issues",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Glasner fears he will be next Forest sacking if wins don't follow",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvn067174knjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Returning Estevao brings X-factor to strikerless Chelsea",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Sunderland's paradox - San Siro trip amid relegation battle",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Carragher apologises to Villa for 'wrong' language",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqj6jp63k87zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "'Always under pressure' - patience for Nuno wanes at West Ham",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqkgj70zr6e0o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Carrick bemoans Man Utd defending in loss to Chelsea",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Tottenham mood 'totally different' - De Zerbi",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c9203ymmn1m3o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
-    {
-      "titulo_original": "Alonso praises Estevao response to lack of gametime",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cr5ynzdpjnn9o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-10-31T21:32:30.000739+00:00"
-    },
     {
       "titulo_original": "18-year-old Mfuni 'will go a long way' - Lampard",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1435,174 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-03T00:57:08.923911+00:00"
+    },
+    {
+      "titulo_original": "West Ham approach Parker after sacking boss Nuno",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c63dj3zpl85go?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "McTominay returns as Penrice earns first Scotland call",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6wyvr870d8do?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "The referee who became a role model after bouncing back from Diaz error",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Shaw among big names to miss out on FifPro World XI",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Boy arrested following Bradley Lowery taunt",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/news/articles/ck5ynr531xlvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "How Arteta is getting the best from Rice",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckeq3erv529po?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "From teenage limbo and Mangotsfield United to Champions League dream",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxj0led3jnj4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Mee and Kenny handed first Northern Ireland call-ups",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwkg5dl4d3l8o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Emery looks to show Villa can compete with elite",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5ev3m9ddzgmo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Green backs 'proven' Parker for Hammers job",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c893z569154yo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "How to follow the Champions League on the BBC",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5yw79e4zgdo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "West Ham turn to Scott Parker after sacking Nuno Espírito Santo as head coach",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/west-ham-sack-nuno-espirito-santo-as-head-coach",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "‘An absolute afterthought’: the story of the Nigeria women’s team’s fall from grace",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/womens-world-cup-2027-missing-out-nigeria-moving-the-goalposts",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "David Squires on … Mikel Arteta’s view that football is not Disneyland",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/picture/2026/nov/03/david-squires-on-mikel-arteta-football-not-disneyland",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "AFC postpones Asian Cup in Saudi Arabia to late 2027 due to conflict in Middle East",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Don’t call it a remontada: Emery’s Camp Nou comeback focuses European blur",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/unai-emery-aston-villa-barcelona-camp-nou-champions-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Socceroos and Matildas sue Football Australia over revenue share dispute",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/sport/2026/nov/03/socceroos-matildas-sue-football-australia-revenue-dispute",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "Luto en el fútbol mundial: Muere Jesús de Miguel, del Tenerife de España tras golpe que sufrió contra el Andorra",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/luto-en-el-futbol-mundial-muere-jesus-de-miguel-del-tenerife-de-espana-tras-golpe-que-sufrio-contra-el-andorra-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
+    },
+    {
+      "titulo_original": "En Chile afirman que Sebastián Beccacece, extécnico de Ecuador, podría dirigir a su selección: “Fue contactado”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-chile-afirman-que-sebastian-beccacece-extecnico-de-ecuador-podria-dirigir-a-su-seleccion-fue-contactado-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-03T14:11:39.534569+00:00"
     }
   ]
 }
