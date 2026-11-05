@@ -1,345 +1,9 @@
 {
-  "actualizado": "2026-11-05T06:44:38.888464+00:00",
+  "actualizado": "2026-11-05T19:56:03.984256+00:00",
   "total": 200,
-  "nuevas": 36,
-  "descartadas": 14,
+  "nuevas": 42,
+  "descartadas": 15,
   "noticias": [
-    {
-      "titulo_original": "Balón de Oro 2026: Willian Pacho alcanza el puesto 20 y hace historia para Ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/willian-pacho-termina-en-el-puesto-20-del-balon-de-oro-2026-y-hace-historia-para-ecuador-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "¿Qué necesita Independiente del Valle para proclamarse campeón este fin de semana? Estos son los escenarios",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/que-necesita-independiente-del-valle-para-proclamarse-campeon-este-fin-de-semana-estos-son-los-escenarios-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Con Piero Hincapié, Arsenal se impone en Anfield y es líder de la Premier League",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/con-piero-hincapie-arsenal-se-impone-en-anfield-y-es-lider-de-la-premier-league-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Aucas derrota a Universidad Católica y continúa la lucha por llegar a la fase inicial copera en la fecha 5 de la Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/aucas-derrota-a-universidad-catolica-y-continua-lucha-por-llegar-a-la-fase-inicial-copera-en-la-fecha-5-de-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Emelec no jugará torneos internacionales por cuarta temporada consecutiva",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-no-jugara-torneos-internacionales-por-cuarta-temporada-consecutiva-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Macará llega a cuatro triunfos consecutivos sobre Barcelona SC en la Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-llega-a-cuatro-triunfos-consecutivos-sobre-barcelona-sc-en-la-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "A qué hora juega Independiente del Valle contra Liga de Quito en la Liga Ecuabet: canales y horarios para ver este partido EN VIVO",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-juega-independiente-del-valle-vs-liga-de-quito-por-la-liga-ecuabet-canales-y-horarios-para-ver-este-partido-en-vivo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Man Utd eye Barcelona's Balde - Monday's gossip",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "Rice is a rounded midfielder, but could be more selfish - Murphy",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "Rice relishing title race 'anxiety' after win at Liverpool",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "Arsenal fail at Fleetwood and Michael Carrick clings on | Football Weekly Extra – video",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/video/2026/oct/29/arsenal-fail-at-fleetwood-and-michael-carrick-clings-on-football-weekly-video",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "Libertad FC empata en su visita a Guayaquil City y logra boleto para la Copa Sudamericana 2027 en la fecha 5 del cuadrangular de la Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/libertad-fc-empata-en-su-visita-a-guayaquil-city-y-logra-boleto-para-la-copa-sudamericana-2027-en-la-fecha-5-del-cuadrangular-de-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "Así queda la tabla de posiciones luego del empate entre Guayaquil City y Libertad FC en la fecha 5 del cuadrangular por un cupo a la Copa Sudamericana",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-queda-la-tabla-de-posiciones-luego-del-empate-entre-guayaquil-city-y-libertad-fc-por-la-fecha-5-del-cuadrangular-por-un-cupo-a-la-copa-sudamericana-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "“Las sensaciones son de alegría”, dice Joaquín Papa, DT de Independiente del Valle, sobre la cercanía del bicampeonato tras la victoria ante Liga de Quito",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/las-sensaciones-son-de-alegria-dice-joaquin-papa-dt-de-independiente-del-valle-sobre-la-cercania-del-bicampeonato-tras-la-victoria-ante-liga-de-quito-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T05:59:35.056141+00:00"
-    },
-    {
-      "titulo_original": "To dive or not to dive? Football's big dilemma",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Villa drop legal action threat against Carragher",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmx285n4l81lo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Bottom club Sunderland to stick with manager Le Bris",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj75pglrq794o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "No Grealish, no problem - the rise of Everton's youngsters",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Hellberg unsure of 'brilliant' Lankshear's England chances",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6jdm4n5l7rlo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Trailing 8-0 & down to six players - abandoned game labelled a 'farce'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvj6j3k6yjppo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Hibs toast win over Hearts - but will they kick on before cup final?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmje5gjp5ezgo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Falkirk brick wall Bain boosts Scotland chances",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Every goal from the Women's Super League - matchweek eight",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Worst in the EFL - the team with a penalty problem",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cred3pgyyl53o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Why Scottish football is struggling to produce young talent",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Football Daily",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pks2xb?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Non-league clubs tackle teen trouble at matches",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/cm4g1jk8we42o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "WSL talking points: Kang could have a problem and how long can Slegers hang on?",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/wsl-talking-points-michele-kang-london-city-lionesses-renee-slegers-arsenal",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Jack Grealish left out of Everton squad again for Premier League trip to Newcastle",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/jack-grealish-left-out-everton-squad-newcastle-premier-league-david-moyes",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Dazn secures exclusive deal on global streaming rights for 2029 Club World Cup",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/dazn-world-cup-2029-exclusive-deal-global-streaming-rights",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Nuno Espírito Santo under threat at West Ham after poor start to the season",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/nuno-espirito-santo-west-ham-under-threat-poor-season-start-championship",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "From VHS dreams to San Siro glory: Amorim’s Milan surge puts rivals on notice | Nicky Bandini",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/milan-inter-ruben-amorim-serie-a",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Harry Kane’s Ballon d’Or party gives way to anxiety-filled hangover for Bayern Munich | Andy Brassell",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/harry-kane-ballon-dor-bayern-munich-hangover-borussia-dortmund-bundesliga",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Unai Simón caps myth-making week with another extraordinary night | Sid Lowe",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/unai-simon-athletic-club-la-liga-myth-making-week-la-liga",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Folarin Balogun takes a first, tiny step toward moving on from a calamitous summer",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/folarin-balogun-monaco-first-goal",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "‘We had to dig in’: Arsenal’s Anfield win was performance of champions, says Rice",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-declan-rice-champions",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Premier League: 10 talking points from the weekend’s action",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Lise Klaveness: ‘Certainly there are people that can challenge Infantino’",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/28/lise-klaveness-certainly-there-are-people-that-can-challenge-infantino",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
-    {
-      "titulo_original": "Arsenal end Anfield wait and Manchester United beaten again | Football Weekly – video",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/02/arsenal-end-anfield-wait-and-manchester-united-beaten-again-football-weekly-video",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-02T15:49:19.821903+00:00"
-    },
     {
       "titulo_original": "Harry Kane elogia a Willian Pacho  tras ganar el Balón de Oro 2026: “El éxito del PSG es una buena defensa y él es una muralla”",
       "fuente": "El Universo - Ecuador",
@@ -1603,6 +1267,342 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "England check on Palmer - what are Tuchel's other big choices?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "What new Kane deal means for England and the Premier League record",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Everton's Grealish unavailable again after 'breach of discipline'",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Emery close to agreeing new Aston Villa contract",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Sutton's predictions v Football Manager, the game",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Ronaldo's most iconic moments as he retires from international football",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "'Clock is ticking' - Gateshead fans fear for future",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "English female coach Kaminski reaping rewards in Norway",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Good to feel club are committed to me - Jaissle",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "A must pick or unreliable? Tuchel's Palmer dilemma",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "FA and WSL launch major study into ACL injuries in women's football",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Crystal Palace 1-1 Hoffenheim, Sparta Prague 1-3 Bournemouth: Europa League – live",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Champions League review: comebacks, thrashings and a Mauritanian first",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/champions-league-roundup-koita-real-madrid-bayern-psg",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "The international break is almost here: so wave goodbye to your players, and maybe your manager | Max Rushden",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/the-international-break-is-almost-here-so-wave-goodbye-to-your-players-and-maybe-your-manager",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Fifa wants to restrict women’s Olympic football to under-23s in controversial move",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/fifa-wants-womens-olympic-football-under-23s",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Meet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the Goalposts",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalposts",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Uefa faces political flashpoint over Sevastopol’s ascent in Russian football",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/football-daily-email-como-lens",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Referee hands out record 53 red cards after chaos at under-20s game in Brazil",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/record-53-red-cards-brazil-referee",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Concacaf revamps Gold Cup format to make tournament ‘more competitive’",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/concacaf-gold-cup-format-changes",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/ballon-dor-winner-harry-kane-signs-new-contract-with-bayern-munich-2029",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "‘In our veins’: Arsenal pushed by pain of Champions League final defeat, says Raya",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/arsenal-pain-champions-league-final-defeat-david-raya",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Wooden Spoon, Golden Boot and playoff spots: what to watch for on MLS Decision Day",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/mls-decision-day-storylines",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Fenerbahce thwart Liverpool and Arsenal pushed in Prague | Football Weekly Extra – video",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/05/fenerbahce-thwart-liverpool-and-arsenal-pushed-in-prague-football-weekly-video",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Transfer window verdict: how every Premier League club fared",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Franco Posse, el goleador que concentra casi la mitad de la producción ofensiva de Macará",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/franco-posse-el-goleador-que-concentra-casi-la-mitad-de-la-produccion-ofensiva-de-macara-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Pablo Trobbiani considera que Barcelona SC puede aportar cuatro jugadores a la selección ecuatoriana",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/pablo-trobbiani-considera-que-barcelona-sc-puede-aportar-cuatro-jugadores-a-la-seleccion-ecuatoriana-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Pablo Trobbiani promete “furia” de Barcelona SC ante Liga de Quito: “Vamos a salir a ganar”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/pablo-trobbiani-promete-furia-de-barcelona-sc-ante-liga-de-quito-vamos-a-salir-a-ganar-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Fin a una era: Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/fin-a-una-era-cristiano-ronaldo-anuncia-su-retiro-de-la-seleccion-de-portugal-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "¿Qué necesita Liga de Quito para clasificar a la Copa Libertadores 2026?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/que-necesita-liga-de-quito-para-clasificar-a-la-copa-libertadores-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Liga Pro: Barcelona SC anuncia los precios de las entradas para recibir a Liga de Quito",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-pro-barcelona-sc-anuncia-los-precios-de-las-entradas-para-recibir-a-liga-de-quito-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Gustavo Álvarez, DT de Liga de Quito, y la eliminación de la Copa Ecuador ante Universidad Católica: “La falta de eficacia nos costó la clasificación”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/gustavo-alvarez-dt-de-liga-de-quitoy-la-eliminacion-de-copa-ecuador-ante-universidad-catolica-la-falta-de-eficacia-nos-costo-la-clasificacion-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Cristiano Ronaldo: Así fue su histórica trayectoria con la selección de Portugal",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cristiano-ronaldo-asi-fue-su-historica-trayectoria-con-la-seleccion-de-portugal-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Bryan Ruiz, nuevo DT de Costa Rica, y las razones por las que aceptó jugar ante Ecuador: “Es una selección de mucho poder y calidad”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/bryan-ruiz-nuevo-dt-de-costa-rica-y-las-razones-por-las-que-acepto-jugar-ante-ecuador-es-una-seleccion-de-mucho-poder-y-calidad-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Federación Portuguesa de Fútbol quiere homenajear a Cristiano Ronaldo tras su adiós a la selección",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/federacion-portuguesa-de-futbol-quiere-homenajear-a-cristiano-ronaldo-tras-su-adios-a-la-seleccion-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "Macará: cuando un buen proyecto deportivo pesa más que el poderío económico",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-cuando-un-buen-proyecto-deportivo-pesa-mas-que-el-poderio-economico-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
+    },
+    {
+      "titulo_original": "¿A qué hora y dónde ver EN VIVO Independiente del Valle vs. Delfín por la semifinal de vuelta de la Copa Ecuador 2026?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-y-donde-ver-en-vivo-independiente-del-valle-vs-delfin-por-la-semifinal-de-vuelta-de-la-copa-ecuador-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
     }
   ]
 }
