@@ -1,297 +1,9 @@
 {
-  "actualizado": "2026-11-04T19:44:22.415671+00:00",
+  "actualizado": "2026-11-05T06:44:38.888464+00:00",
   "total": 200,
-  "nuevas": 38,
-  "descartadas": 19,
+  "nuevas": 36,
+  "descartadas": 14,
   "noticias": [
-    {
-      "titulo_original": "Independiente del Valle vs. Liga de Quito, el duelo característico de las últimas tres temporadas en Ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-vs-liga-de-quito-el-duelo-caracteristico-de-las-ultimas-tres-temporadas-en-ecuador-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
-    },
-    {
-      "titulo_original": "Cuándo juega Independiente del Valle vs. Liga de Quito por la Liga Ecuabet: horarios y canales para ver EN VIVO",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuando-juega-independiente-del-valle-vs-liga-de-quito-por-la-liga-ecuabet-horarios-y-canales-para-ver-en-vivo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
-    },
-    {
-      "titulo_original": "A qué hora juega el Arsenal de Piero Hincapié frente al Liverpool por la Premier League: canales y horarios por país para ver EN VIVO",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-el-arsenal-de-piero-hincapie-frente-al-liverpool-por-la-premier-league-canales-y-horarios-por-pais-para-ver-en-vivo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T13:22:14.514504+00:00"
-    },
-    {
-      "titulo_original": "I'll tell my players to dive in future - Iraola",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Arsenal move clear at the top with a rare win at Liverpool",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Giant curiosity Hibs finally liberated from Hearts sucker punch",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Are Celtic club in regression amid run of six defeats in 10?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Boy, 14, hands himself in to police over Bradley Lowery video",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Defeat for London City - but is Europe a real possibility?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "'Everyone saw it' - Iraola confused by Isak penalty decision",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Bellingham & Mbappe score as Real Madrid earn statement win",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Arteta credits Fleetwood loss for spirited win at Anfield",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Chelsea put six past Charlton to top WSL",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6wyrgydvx0lo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Clinical Man City edge past London City in WSL thriller",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Warnock hid seizures from Liverpool as a youngster",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Spence 'very proud' to break WSL appearance record",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmy4xwwqzvw1o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Retired Sheff Utd legend Sharp signs for Rushden",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c820vylvxwxlo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "WSL roundup: Arsenal stall despite Russo strike; Chelsea’s James suffers injury",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/wsl-roundup-arsenal-aston-villa-alessia-russo-renee-slegers",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Should Premier League strugglers stick or twist as pressure on managers mounts?  | Andrew Beasley",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-manchester-united-favourite-premier-league-sack-race",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Hemp strikes back as Manchester City edge out London City Lionesses in thriller",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/london-city-lionesses-manchester-city-wsl-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Boy hands himself into police after Bradley Lowery taunt in Sunderland match",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/police-bradley-lowery-taunt-coventry-sunderland-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Liverpool’s work in progress fizzles out in the face of streetwise champions | Andy Hunter",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/01/liverpool-work-in-progress-fizzles-out-arsenal-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Post your questions for Charlie Nicholas",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Transfer window verdict: how every Premier League club fared",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Gustavo Álvarez, DT de Liga de Quito, y la derrota ante Independiente del Valle: “El porcentaje de eficacia que estamos teniendo es muy bajo”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/gustavo-alvarez-dt-de-liga-de-quito-y-la-derrota-ante-independiente-del-valle-el-porcentaje-de-eficacia-que-estamos-teniendo-es-muy-bajo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Balón de Oro 2026: estos son los 10 finalistas que disputan el premio al mejor futbolista del mundo",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/balon-de-oro-2026-estos-son-los-10-finalistas-que-disputan-el-premio-al-mejor-futbolista-del-mundo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Balón de Oro 2026: los jugadores que quedaron por detrás de Willian Pacho en la clasificación",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/balon-de-oro-2026-los-jugadores-que-quedaron-por-detras-de-willian-pacho-en-la-clasificacion-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Boca Juniors se impone en superclásico de Argentina a River Plate: Enner Valencia ingresa al cambio",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/boca-juniors-se-impone-en-superclasico-de-argentina-a-river-plate-enner-valencia-ingresa-al-cambio-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Independiente del Valle vence a Liga de Quito y acaricia el bicampeonato de la Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-independiente-del-valle-vs-liga-de-quito-por-la-quinta-fecha-del-hexagonal-1-de-la-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Ecuador sub-15 clasifica a la fase por el título del Mundial y Festival de la FIFA 2026: Bulgaria será su próximo rival",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-sub-15-clasifica-a-la-fase-por-el-titulo-del-mundial-y-festival-de-la-fifa-2026-bulgaria-sera-su-proximo-rival-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
-    {
-      "titulo_original": "Así marcha la tabla de posiciones del hexagonal 1 de la Liga Ecuabet tras la victoria de Independiente del Valle",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-marcha-la-tabla-de-posiciones-del-hexagonal-1-de-la-liga-ecuabet-tras-la-victoria-de-independiente-del-valle-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-01T22:00:30.308825+00:00"
-    },
     {
       "titulo_original": "Balón de Oro 2026: Willian Pacho alcanza el puesto 20 y hace historia para Ecuador",
       "fuente": "El Universo - Ecuador",
@@ -1603,6 +1315,294 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
+    },
+    {
+      "titulo_original": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Haaland scores winner as Man City beat Leipzig",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Arsenal survive late Slavia scare for hard-fought win",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Emery in line for new Villa deal - Thursday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Liverpool crumble at Kuyt's Fenerbahce",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "World record 51 red cards shown in Brazilian youth game",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Como score nine to make Champions League history",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Valverde stunner earns Real Madrid late win at AEK Athens",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Manchester United beat Roma in epic second-half comeback",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Emphatic Porto thrash Napoli in second-half romp",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Raphinha scores twice as Barcelona beat Aston Villa",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Bayern continue unbeaten CL start with win at Atletico",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Spence stars as Inter Milan cruise to win at Feyenoord",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Dortmund take narrow win over Real Betis",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/muriqi-caps-fenerbahce-comeback-to-make-liverpool-pay-for-defensive-lapses",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/slavia-prague-arsenal-champions-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Erling Haaland settles thriller for Manchester City to end RB Leipzig resistance",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/rb-leipzig-manchester-city-champions-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Champions League: Como clobber Lens 9-1 after Real Madrid roar back to deny AEK Athens",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Championship roundup: West Ham stage dramatic comeback on Scott Parker’s opening night",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/championship-roundup-cardiff-west-ham-scott-parker-wrexham-middlesbrough-bristol-city-wolves",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Esta es la otra semifinal de la Copa Ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/esta-es-la-otra-semifinal-de-la-copa-ecuador-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Universidad Católica elimina a Liga de Quito y buscará el bicampeonato de la Copa Ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-liga-de-quito-vs-universidad-catolica-por-la-semifinal-de-vuelta-de-la-copa-ecuador-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "¿Cuándo es la final de la Copa Ecuador 2026?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuando-es-la-final-de-la-copa-ecuador-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Independiente del Valle vs. Delfín: cómo llegan y qué está en juego en la Copa Ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-vs-delfin-como-llegan-y-que-esta-en-juego-en-la-copa-ecuador-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Ecuador vs. Costa Rica: estos son los partidos de la Tri en la fecha FIFA de noviembre",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-vs-costa-rica-estos-son-los-partidos-de-la-tri-en-la-fecha-fifa-de-noviembre-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Club Brujas de Joel Ordóñez supera de visita al PSV en la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/club-brujas-de-joel-ordonez-supera-de-visita-al-psv-en-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "¿Piero Hincapié podría cambiar el Arsenal por el FC Barcelona?: estos son los 3 impactos deportivos de hoy",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/piero-hincapie-podria-cambiar-el-arsenal-por-el-fc-barcelona-estos-son-los-3-impactos-deportivos-de-hoy-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "A un discreto Manchester City le bastó para vencer de visita al RB Leipzig en la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-un-discreto-manchester-city-le-basto-para-vencer-de-visita-al-rb-leipzig-en-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "El Arsenal de Piero Hincapié derrota por 2-1 al Slavia Praga en la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/el-arsenal-de-piero-hincapie-derrota-2-1-al-slavia-praga-en-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Copa Ecuador 2026: estos son los premios que recibirá el campeón",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/copa-ecuador-2026-estos-son-los-premios-que-recibira-el-campeon-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "“El pasivo de Barcelona SC supera los 53 millones de dólares”, advierte Juan Carlos Vayas, director general",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/el-pasivo-de-barcelona-sc-supera-los-53-millones-de-dolares-advierte-juan-carlos-vayas-director-general-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Gustavo Fermani describe el perfil que debe tener el jugador de Barcelona SC: “Intenso, que no le queme la pelota”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/gustavo-fermani-describe-el-perfil-que-debe-tener-el-jugador-de-barcelona-sc-intenso-que-no-le-queme-la-pelota-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Real Madrid remonta al AEK en Grecia y es uno de los líderes de la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/real-madrid-remonta-al-aek-en-grecia-y-es-uno-de-los-lideres-de-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
+    },
+    {
+      "titulo_original": "Norberto Araujo, DT de Aucas, apunta a la Libertadores antes de recibir a IDV: “Quedan cinco fechas, 15 puntos en disputa”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/norberto-araujo-dt-de-aucas-apunta-a-la-libertadores-antes-de-recibir-a-idv-quedan-cinco-fechas-15-puntos-en-disputa-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-05T06:44:38.888464+00:00"
     }
   ]
 }
