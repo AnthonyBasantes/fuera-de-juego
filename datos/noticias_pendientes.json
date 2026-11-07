@@ -1,121 +1,9 @@
 {
-  "actualizado": "2026-11-07T05:56:47.892726+00:00",
+  "actualizado": "2026-11-07T12:58:36.958970+00:00",
   "total": 200,
-  "nuevas": 17,
-  "descartadas": 17,
+  "nuevas": 14,
+  "descartadas": 16,
   "noticias": [
-    {
-      "titulo_original": "Football world mourns Tenerife striker De Miguel",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T06:19:45.260804+00:00"
-    },
-    {
-      "titulo_original": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/michael-carrick-manchester-united-roma-old-trafford-champions-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T06:19:45.260804+00:00"
-    },
-    {
-      "titulo_original": "Asian Cup postponement leaves Socceroos, FA and coach Tony Popovic at crossroads | Joey Lynch",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/blog/2026/nov/04/asian-cup-afc-postponed-socceroos-football-australia-tony-popovich",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T06:19:45.260804+00:00"
-    },
-    {
-      "titulo_original": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "An island in mourning: Tenerife processes death of De Miguel",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "Real Madrid reach verbal agreement to sign Gabriel",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "'Most difficult days of my life' for Owono after De Miguel death",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "How landmark Everton compensation prevented Burnley record loss",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "Why is it going so wrong for Le Bris at Sunderland?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm4g1jx8ylveo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "West Ham confirm Parker as boss",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "Nadal set to join Real Madrid board of directors",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "Rangers' McInnes eager for Penrice deal",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwly45r47917o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "How Carpenter has become Chelsea's surprise star",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw0k0mr7n1l8o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
-    {
-      "titulo_original": "From Derby to Champions League - Brown's journey to face Reds",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-04T19:44:22.415671+00:00"
-    },
     {
       "titulo_original": "Hearts lose Miller for two months as injuries mount",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1491,118 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-07T05:56:47.892726+00:00"
+    },
+    {
+      "titulo_original": "I left Man City for my mental wellbeing - Trafford",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Non-league's greatest giant-killers eye another scalp",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "My dream is to win Ballon d'Or - Gabriel",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Can we play you every week? The day Southend toppled Man United",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/news/articles/cwm266zkz8ggo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "I had to play regularly for my mental wellbeing - Trafford on summer move",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Leeds United v Tottenham Hotspur: Premier League – live",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Chelsea’s Alonso identity still to form in a midfield that remains a problem",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/chelsea-xabi-alonso-midfield-problem-area",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/gianni-infantino-fifa-donald-trump-democrats-republicans",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Premier League: 10 things to look out for this weekend",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Libertad FC vs. Emelec por Liga Ecuabet: a qué jora juegan y dónde ver en vivo la fecha 6 del cuadrangular",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/libertad-fc-vs-emelec-por-liga-ecuabet-a-que-jora-juegan-y-donde-ver-en-vivo-la-fecha-6-del-cuadrangular-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
+    },
+    {
+      "titulo_original": "Libertad y Emelec: así les fue en sus enfrentamientos en Loja en las dos últimas temporadas",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/libertad-y-emelec-asi-les-fue-en-sus-enfrentamientos-en-loja-en-las-dos-ultimas-temporadas-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-07T12:58:36.958970+00:00"
     }
   ]
 }
