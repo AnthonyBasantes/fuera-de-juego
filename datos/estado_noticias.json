@@ -7,125 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "Manchester United produce comeback for the ages as Cunha double floors Roma",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/manchester-united-roma-champions-league-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Raphinha underlines Barcelona’s class to give Aston Villa a reality check",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Championship roundup: Devlin’s double for Portsmouth denies Swansea top spot",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/championship-roundup-swansea-portsmouth-southampton-west-brom-burnley",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Arteta backs Saliba’s readiness to return for Arsenal at Slavia Prague",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/arteta-backs-salibas-readiness-to-return-for-arsenal-at-slavia-prague",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Football Daily | West Ham want promotion – so it’s time to call in an understated club legend",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/west-ham-scott-parker-football-daily-newsletter",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Phil Foden sets sights on England recall and says he has had no contact with Tuchel",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/03/phil-foden-sets-sights-on-england-recall-and-says-hes-had-no-contact-with-tuchel",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Manta FC vence a Mushuc Runa en Echaleche y sueña con salvarse del descenso en la Liga Ecuabet",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/manta-fc-vence-a-mushuc-runa-en-echaleche-y-suena-con-salvarse-del-descenso-en-la-liga-ecuabet-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Épica remontada del Manchester United a la Roma en la Champions League",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/epica-remontada-del-manchester-united-a-la-roma-en-la-champions-league-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "FC Barcelona golea al Aston Villa en la Champions League",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/fc-barcelona-golea-al-aston-villa-en-la-champions-league-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Con Willian Pacho, el Paris Saint-Germain vapuleó 6-0 al Villarreal en la Champions League",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/con-willian-pacho-el-paris-saint-germain-vapuleo-6-0-al-villarreal-en-la-champions-league-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "“Que todo sea lo mejor para el club”, dice Gustavo Fermani, nuevo director deportivo de Barcelona SC",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/que-todo-sea-lo-mejor-para-el-club-dice-gustavo-fermani-flamante-director-deportivo-de-barcelona-sc-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Desde Jesús de Miguel hasta Marc-Vivien Foé: estos son los futbolistas que han fallecido en el campo de juego durante un partido",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/de-jesus-de-miguel-hasta-marc-vivien-foe-estos-son-los-futbolistas-que-han-fallecido-en-el-campo-de-juego-durante-un-partido-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Man Utd beat Roma - the other great Champions League comebacks",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Football world mourns Tenerife striker De Miguel",
       "categoria": "mundial",
       "fuente": "BBC Sport - Futbol",
@@ -1404,6 +1285,125 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/futbol/cual-seria-el-plan-del-fc-barcelona-para-concretar-el-fichaje-de-piero-hincapie-esto-dice-la-prensa-de-espana-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Lampard feels hair pull should have led to Coventry penalty",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Barry scores twice as Everton fight back to beat Coventry",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Leicester hold nerve to knock out sixth-tier Oxford City",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Bristol Rovers shock Cambridge United to reach round two",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'Big decisions' affected the game - Lampard",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Raith Rovers go top with Dunfermline draw",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Not a good performance, but we got a result - Moyes",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmreyy2ndd95o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Football Daily",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Thierno Barry double fires Everton to comeback win against Coventry",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Charlton’s struggles expose ‘absolute ocean’ between WSL and second tier",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/06/charlton-risk-being-chewed-up-wsl-karen-hills",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Nations championship, Rugby League World Cup and NFL action – follow with us",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/sport/2026/nov/06/nations-championship-rugby-league-world-cup-and-nfl-action-follow-with-us",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "A qué hora juega el Arsenal de Piero Hincapié frente al Hull City por la Premier League: Canales y horarios para ver EN VIVO",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-el-arsenal-de-piero-hincapie-frente-al-hull-city-por-la-premier-league-canales-y-horarios-para-ver-en-vivo-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Universidad Católica ya tiene asegurado su lugar en la Copa Libertadores 2027: estos son 3 impactos deportivos de hoy",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/universidad-catolica-ya-tiene-asegurado-su-lugar-en-la-copa-libertadores-2027-estos-son-3-impactos-de-hoy-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿Cuánto aportaron los refuerzos de Liga de Quito en 2026? Estos son sus números en la temporada",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/cuanto-aportaron-los-refuerzos-de-liga-de-quito-en-2026-estos-son-sus-numeros-en-la-temporada-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Los tres escenarios de Boca Juniors de Enner Valencia para ser campeón de la Tabla Anual en Argentina",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/los-tres-escenarios-del-boca-juniors-de-enner-valencia-para-ser-campeon-de-la-tabla-anual-nota/",
       "estado": "pendiente"
     }
   ]
