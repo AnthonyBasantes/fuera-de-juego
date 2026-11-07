@@ -7,314 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "Hearts lose Miller for two months as injuries mount",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj0406qvzqd3o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Wilson returns as Wales call up uncapped Duncan",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwly4ee53mgyo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "What are rules on loan players in Champions League?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Ex-Burnley striker Rodriguez announces retirement",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Fenerbahce 3-2 Liverpool: Champions League – live",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/04/fenerbahce-v-liverpool-champions-league-live",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Champions League: Slavia Prague v Arsenal, RB Leipzig v Manchester City and more – live",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/04/champions-league-slavia-prague-v-arsenal-rb-leipzig-v-manchester-city-and-more-live",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/oceane-hurtre-birmingham-womens-super-league-france",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Goalkeeper Jesús Owono experiencing ‘hardest days of my life’ after De Miguel’s death",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/goalkeeper-jesus-owono-jesus-de-miguel-death-tenerife-deeply-affected-andorra",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Football Daily | Manchester United’s unlikely one-match winning streak and hard-to-please fans",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/manchester-united-win-football-daily-newsletter",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Has a footballer ever run a marathon faster than James Milner? | The Knowledge",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/footballer-run-marathon-faster-than-james-milner-the-knowledge",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "West Ham confirm Scott Parker as head coach after sacking Nuno Espírito Santo",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/west-ham-confirm-scott-parker-as-manager",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Bournemouth’s decision not to panic after their tough start is paying off",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/bournemouth-marco-rose-premier-league-games-opta",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "West Ham took too long to sack Nuno and now must trust Parker to do what he does best | Jacob Steinberg",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/west-ham-took-too-long-to-sack-nuno-and-now-must-trust-parker-to-do-what-he-does-best",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Christian Pulisic, Folarin Balogun return to USMNT roster for Nations League",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/usmnt-roster-nations-league-christian-pulisic",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Billions in revenue proves Fifa right on the World Cup – but only on things it cares about",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/fifa-world-cup-billions-revenue",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Barcelona SC presenta a Gustavo Fermani como su nuevo director deportivo",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-presenta-a-gustavo-fermani-como-su-nuevo-director-deportivo-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Qué necesita Independiente del Valle para proclamarse campeón de la Liga Pro este fin de semana?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/que-necesita-independiente-del-valle-para-proclamarse-campeon-de-la-liga-pro-este-fin-de-semana-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "David Ospina anuncia su retiro del fútbol profesional",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/david-ospina-anuncia-su-retiro-del-futbol-profesional-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "En España señalan que el FC Barcelona se interesa en Piero Hincapié: “El director deportivo ya habría establecido los primeros contactos”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-espana-senalan-que-el-fc-barcelona-se-interesa-en-piero-hincapie-el-director-deportivo-ya-habria-establecido-los-primeros-contactos-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿A qué hora y dónde ver EN VIVO el duelo Liga de Quito vs. Universidad Católica en la semifinal de vuelta de la Copa Ecuador 2026?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-y-donde-ver-en-vivo-liga-de-quito-vs-universidad-catolica-por-la-semifinal-de-vuelta-de-la-copa-ecuador-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Liga de Quito vs. Universidad Católica en la semifinal de la Copa Ecuador 2026: precios de las entradas",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-de-quito-vs-universidad-catolica-por-la-copa-ecuador-2026-precios-de-las-entradas-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Leonel Álvarez, extécnico de Emelec, volvería a dirigir en Colombia?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/leonel-alvarez-extecnico-de-emelec-volveria-a-dirigir-en-colombia-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "A qué hora juega hoy Liga de Quito vs. Universidad Católica por la semifinal de vuelta de la Copa Ecuador",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-hoy-liga-de-quito-vs-universidad-catolica-por-la-semifinal-de-vuelta-de-la-copa-ecuador-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Lautaro Pastrán, exatacante de Liga de Quito, con opciones de ir a México?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/lautaro-pastran-exatacante-de-liga-de-quito-con-opciones-de-ir-a-mexico-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Haaland scores winner as Man City beat Leipzig",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Arsenal survive late Slavia scare for hard-fought win",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Emery in line for new Villa deal - Thursday's gossip",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Liverpool crumble at Kuyt's Fenerbahce",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "World record 51 red cards shown in Brazilian youth game",
-      "categoria": "polemicas",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Como score nine to make Champions League history",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Valverde stunner earns Real Madrid late win at AEK Athens",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Manchester United beat Roma in epic second-half comeback",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Emphatic Porto thrash Napoli in second-half romp",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Raphinha scores twice as Barcelona beat Aston Villa",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmlylzndw52ko?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Bayern continue unbeaten CL start with win at Atletico",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cxm23ry19n9po?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Spence stars as Inter Milan cruise to win at Feyenoord",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck4g1ev58yw7o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Dortmund take narrow win over Real Betis",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c699zjkd7yrvo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/muriqi-caps-fenerbahce-comeback-to-make-liverpool-pay-for-defensive-lapses",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/04/slavia-prague-arsenal-champions-league-match-report",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Erling Haaland settles thriller for Manchester City to end RB Leipzig resistance",
       "categoria": "mundial",
       "fuente": "The Guardian - Futbol",
@@ -1404,6 +1096,314 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/libertad-y-emelec-asi-les-fue-en-sus-enfrentamientos-en-loja-en-las-dos-ultimas-temporadas-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Delap double inspires Forest to stunning win over Man City",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal beat Hull to extend lead at top of the table",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Leeds beat Spurs to end five-game winless run",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Muniz strike denies Newcastle and Jaissle much-needed win",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Maresca's dream start turns into nightmare as title hopes hit",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
+      "categoria": "polemicas",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Title race hots up before Chelsea-Man City showdown",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Notts County beat Altrincham in incredible fog-filled spectacle",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Highlights: Non-league Kidderminster shock League One Doncaster",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "National League Carlisle upset League Two leaders Salford",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Argentina set to go to Cas after Fifa rejects appeals",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Maresca looking to understand Man City's 'lack of intensity'",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Powell and Phillips star as Bradford put seven past Marine",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "McGeehan hat-trick powers Barnsley to 7-2 win over Aldershot",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm5yn139zgw0o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Former winners Wigan progress to second round of FA Cup",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmkgekz29k2yo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Bates double earns Dover upset win over Wealdstone",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Okafor the difference despite Van Hecke defiance - Leeds v Spurs ratings",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq70p2w3j00jo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Newport cup tie halted by alleged homophobic chants",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6jrwe8v8e3lo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Scotland lose Welsh and call up Porteous",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxyvrdyzrvgro?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Okafor seals Leeds win but Tottenham complain to Pro Ref over Bogle tackle on Tel",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/leeds-tottenham-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "FA Cup roundup: non-league Kidderminster stun Doncaster as Exeter upset Huddersfield",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "NWSL playoffs: Cooper’s extra-time penalty sends Kansas City through as Utah stun San Diego",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/nwsl-playoffs-kansas-city-current-angel-city-utah-royals-san-diego-wave",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Championship roundup: Birmingham go top, Cardiff stun Burnley from 4-1 down",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Emelec en 2026: una temporada de irregularidad, cambios de técnicos y sin clasificación internacional",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-en-2026-una-temporada-de-irregularidad-cambios-de-tecnicos-y-sin-clasificacion-internacional-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Libertad FC: de su ascenso a la serie A a dos clasificaciones consecutivas a la Sudamericana",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/libertad-fc-de-su-ascenso-a-la-serie-a-a-dos-clasificaciones-consecutivas-a-la-sudamericana-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Emelec vence por la mínima a Libertad en el cierre del cuadrangular de la Liga Pro 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-emelec-vs-libertad-por-la-sexta-fecha-del-cuadrangular-de-la-liga-ecuabet-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal, con Piero Hincapié, vence por 1-0 al Hull City y conserva el liderato de la Premier League",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/arsenal-de-piero-hincapie-gana-por-la-minima-0-1-al-hull-city-y-mantiene-su-liderato-en-la-premier-league-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Estos son los futbolistas de la Liga Pro que representarán a sus selecciones en noviembre",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/estos-son-los-futbolistas-de-la-liga-pro-que-representaran-a-sus-selecciones-en-noviembre-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Se cumplen 25 años del día en que la selección de Ecuador clasificó por primera vez a una Copa del Mundo",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/se-cumplen-25-anos-del-dia-en-que-la-seleccion-de-ecuador-clasifico-por-primera-vez-a-una-copa-del-mundo-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Jorge Célico, técnico de Libertad FC: “La afición lojana disfrutará recibir a un equipo grande como Emelec”",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/jorge-celico-tecnico-de-libertad-fc-la-aficion-lojana-disfrutara-recibir-a-un-equipo-grande-como-emelec-nota/",
       "estado": "pendiente"
     }
   ]
