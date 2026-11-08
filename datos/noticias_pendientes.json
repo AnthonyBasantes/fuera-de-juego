@@ -1,177 +1,9 @@
 {
-  "actualizado": "2026-11-08T05:59:02.154669+00:00",
+  "actualizado": "2026-11-08T13:22:42.463001+00:00",
   "total": 200,
   "nuevas": 21,
-  "descartadas": 16,
+  "descartadas": 14,
   "noticias": [
-    {
-      "titulo_original": "What new Kane deal means for England and the Premier League record",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Everton's Grealish unavailable again after 'breach of discipline'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "'A void that is impossible to fill' - tributes paid at De Miguel funeral",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Emery close to agreeing new Aston Villa contract",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Sutton's predictions v Football Manager, the game",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck5ynzry64p2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Ronaldo's most iconic moments as he retires from international football",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "'Clock is ticking' - Gateshead fans fear for future",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvwy7z01jk4zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "English female coach Kaminski reaping rewards in Norway",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwm23qg6qy78o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Good to feel club are committed to me - Jaissle",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "A must pick or unreliable? Tuchel's Palmer dilemma",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Football Daily",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/m003434x?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "FA and WSL launch major study into ACL injuries in women's football",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6e9le7l9m75o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Crystal Palace 1-1 Hoffenheim, Sparta Prague 1-3 Bournemouth: Europa League – live",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/05/crystal-palace-hoffenheim-sparta-prague-bournemouth-sunderland-celtic-europa-league-live",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Champions League review: comebacks, thrashings and a Mauritanian first",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/champions-league-roundup-koita-real-madrid-bayern-psg",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "The international break is almost here: so wave goodbye to your players, and maybe your manager | Max Rushden",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/the-international-break-is-almost-here-so-wave-goodbye-to-your-players-and-maybe-your-manager",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Fifa wants to restrict women’s Olympic football to under-23s in controversial move",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/fifa-wants-womens-olympic-football-under-23s",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Meet Clara Serrajordi: Barcelona’s midfield hope filling the void left by Alexia Putellas | Moving the Goalposts",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/clara-serrajordi-barcelona-midfielder-alexia-putellas-moving-the-goalposts",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Uefa faces political flashpoint over Sevastopol’s ascent in Russian football",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
-    {
-      "titulo_original": "Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/football-daily-email-como-lens",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-05T19:56:03.984256+00:00"
-    },
     {
       "titulo_original": "Referee hands out record 53 red cards after chaos at under-20s game in Brazil",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1435,174 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-08T05:59:02.154669+00:00"
+    },
+    {
+      "titulo_original": "The oldest club in London making FA Cup history",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Is there something missing despite Rangers' impressive form?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Last season difficult with injury and miscarriage - Muniz",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmq8nl4w3e8eo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Why unique Brighton defence is so tricky to unpick",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Watch: Saturday's Scottish Premiership highlights",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/videos/ck3r5g1j97nno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Messi makes history with MLS Golden Boot",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Raya, Pickford and Wales' search for a new keeper",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Liverpool v Arsenal: Women’s Super League – live",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/08/liverpool-v-arsenal-womens-super-league-live",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "John Aloisi’s Chengdu choke to blow title chances on final day of Chinese season",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/john-aloisi-chengdu-choke-chinese-super-league-final-day-of-season",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "¿A qué hora y dónde ver EN VIVO Macará vs. Universidad Católica por la Liga Pro 2026?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-y-donde-ver-en-vivo-macara-vs-universidad-catolica-por-la-liga-pro-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Aucas vs. Independiente del Valle: ¿cómo le fue al equipo oriental ante los rayados en las dos últimas temporadas de la Liga Pro?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/aucas-vs-independiente-del-valle-como-le-fue-al-equipo-oriental-ante-los-rayados-en-las-dos-ultimas-temporadas-de-la-liga-pro-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Alberto Spencer, a los 20 años de su muerte: eterno en la memoria del fútbol mundial",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/columnistas-deportes/alberto-spencer-a-20-anos-de-su-muerte-eterno-en-la-memoria-del-futbol-mundial-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "DT Guillermo Sanguinetti y la notable campaña que cumple Macará en 2026: “Vamos por buen camino, pero aún no se ha logrado el objetivo”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/dt-guillermo-sanguinetti-y-la-notable-campana-que-cumple-macara-en-2026-vamos-por-buen-camino-pero-aun-no-se-ha-logrado-el-objetivo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Independiente del Valle puede ser campeón ante Aucas y extender su dominio en los últimos cinco duelos",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-puede-ser-campeon-ante-aucas-y-extender-su-dominio-en-los-ultimos-cinco-duelos-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "¿Cómo le ha ido a Universidad Católica en sus visitas a Macará durante 2026?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/como-le-ha-ido-a-universidad-catolica-en-sus-visitas-a-macara-durante-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "¿A qué hora y dónde ver EN VIVO Aucas vs. Independiente del Valle por la fecha 6 del primer hexagonal de Liga Pro?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-y-donde-ver-en-vivo-aucas-vs-independiente-del-valle-por-la-fecha-6-del-primer-hexagonal-de-liga-pro-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "Barcelona SC no le gana a Liga de Quito en Guayaquil desde mayo de 2024",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-no-le-gana-a-liga-de-quito-en-guayaquil-desde-mayo-de-2024-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
+    },
+    {
+      "titulo_original": "A qué hora juega hoy Barcelona SC vs. Liga de Quito por la Liga Ecuabet: canales y horarios para ver EN VIVO",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-juega-hoy-barcelona-sc-vs-liga-de-quito-por-la-liga-ecuabet-canales-y-horarios-para-ver-en-vivo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-08T13:22:42.463001+00:00"
     }
   ]
 }
