@@ -1,161 +1,9 @@
 {
-  "actualizado": "2026-11-08T22:03:11.423269+00:00",
+  "actualizado": "2026-11-09T06:24:25.528739+00:00",
   "total": 200,
-  "nuevas": 50,
+  "nuevas": 19,
   "descartadas": 10,
   "noticias": [
-    {
-      "titulo_original": "James out for minimum of five games - Bompastor",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Why managers can learn a lot from leaders like Napoleon - Pulis",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Talking points as Premiership prepares for international break",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq78ppm5ge80o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Wolves legend and ex-England defender Coady retires",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckgj99yjpnqzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "From playing against Messi and Ronaldo to non-league",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Palmer misses too many chances to impress - Tuchel",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Championship preview: Contenders, pretenders and strugglers",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Harborough sign 6ft 9in striker Hudlin before FA Cup tie",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxvgdd7q2dm3o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Everton hold off Newcastle to move into seventh",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "'He's unavailable' - Moyes tight-lipped on Grealish",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Jaissle unhappy with 'clear foul' before Barry goal",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Diamonds are forever - phoenix club seek FA Cup upset",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5rmyyww1749o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Euro Leagues",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0plhlmm?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "'He'll regret it' - the day Ferguson quit Aberdeen for Man Utd",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "How to follow the FA Cup on the BBC this weekend",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c3lyl52j0vg4o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Everton v Coventry City: Premier League – live",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/06/everton-v-coventry-city-premier-league-live-updates",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/06/jude-jobe-bellingham-thomas-tuchel-england-croatia-spain-nations-league",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Premier League news: United’s Baleba out for weeks, Maresca backs Donnarumma",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
-    {
-      "titulo_original": "Matthias Jaissle caught in the storm as Newcastle struggle without European fix",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/06/matthias-jaissle-caught-in-the-storm-as-newcastle-struggle-without-european-fix",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-06T19:23:29.654171+00:00"
-    },
     {
       "titulo_original": "Premier League team news: predicted lineups for the weekend action",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1451,158 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
+    },
+    {
+      "titulo_original": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Four 'huge mistakes' that show Man Utd's defensive problems",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Barcelona fight back to beat Atleti as Fermin scores twice",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "'A horrible place to be' - What's gone wrong for Palace?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Why defenders hate playing against brilliant Brobbey",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Deyverson, delantero de Liga de Quito, pide disculpas a Barcelona SC: “Tengo mucho respeto por el club y sus hinchas”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/deyverson-delantero-de-liga-de-quito-pide-disculpas-a-barcelona-sc-tengo-mucho-respeto-por-el-club-y-sus-hinchas-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Gustavo Álvarez arremete contra el arbitraje tras empate entre Barcelona SC y Liga de Quito: “Estas cosas le hacen mal al fútbol”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/gustavo-alvarez-arremete-contra-el-arbitraje-tras-empate-entre-barcelona-sc-y-liga-de-quito-estas-cosas-le-hacen-mal-al-futbol-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Pablo Trobbiani lamenta el empate de Barcelona SC ante Liga de Quito: “Estamos pagando nuestros propios errores”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/pablo-trobbiani-lamenta-el-empate-de-barcelona-sc-ante-liga-de-quito-estamos-pagando-nuestros-propios-errores-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Macará hace historia: subcampeón de la Liga Ecuabet 2026 y clasificado a Copa Libertadores 2027",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-hace-historia-subcampeon-de-la-liga-pro-2026-y-clasificado-a-copa-libertadores-2027-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Así marcha la tabla de posiciones del primer hexagonal de Liga Ecuabet: Independiente se consagra campeón y Barcelona SC empata con Liga de Quito",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-marcha-la-tabla-de-posiciones-del-primer-hexagonal-de-liga-ecuabet-independiente-se-consagra-campeon-y-barcelona-sc-empata-con-liga-de-quito-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Júnior Sornoza, tras vencer 4-2 a Aucas y lograr el bicampeonato con IDV: “Teníamos que cerrar el campeonato con una victoria”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/junior-sornoza-tras-vencer-4-2-a-aucas-y-lograr-el-bicampeonato-con-idv-teniamos-que-cerrar-el-campeonato-con-una-victoria-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Norberto Araujo, DT de Aucas, tras caer ante IDV: “Tenemos que apuntar a ese cupo de Libertadores”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/norberto-araujo-dt-de-aucas-tras-caer-ante-idv-tenemos-que-apuntar-ese-cupo-de-libertadores-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Liga Ecuabet: así marcha la tabla de posiciones del hexagonal del descenso tras triunfo de Deportivo Cuenca sobre Orense SC",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-pro-asi-marcha-la-tabla-de-posiciones-del-hexagonal-del-descenso-tras-triunfo-de-deportivo-cuenca-sobre-orense-sc-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
+    },
+    {
+      "titulo_original": "Joaquín Papa, DT de Independiente del Valle, y el bicampeonato rayado: “Es un título muy histórico”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/joaquin-papa-dt-de-independiente-del-valle-y-el-bicampeonato-rayado-es-un-titulo-muy-historico-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-09T06:24:25.528739+00:00"
     }
   ]
 }
