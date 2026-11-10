@@ -1,105 +1,9 @@
 {
-  "actualizado": "2026-11-09T22:20:36.273879+00:00",
+  "actualizado": "2026-11-10T07:15:57.583487+00:00",
   "total": 200,
-  "nuevas": 51,
-  "descartadas": 13,
+  "nuevas": 12,
+  "descartadas": 17,
   "noticias": [
-    {
-      "titulo_original": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss",
-      "categoria": "polemicas",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Delightful Delap and outfought Anderson - Forest v Man City player ratings",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8wy9512p2yvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Title race hots up before Chelsea-Man City showdown",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0qkjdx3l9zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Notts County beat Altrincham in incredible fog-filled spectacle",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Highlights: Non-league Kidderminster shock League One Doncaster",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Bowler's extra-time winner for Blackpool sinks 10-man Hornchurch",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqm26j0x2xzlo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "National League Carlisle upset League Two leaders Salford",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm1exw70d49po?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Argentina set to go to Cas after Fifa rejects appeals",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Maresca looking to understand Man City's 'lack of intensity'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmly0d6r6pggo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
-    {
-      "titulo_original": "Powell and Phillips star as Bradford put seven past Marine",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-07T21:49:21.363779+00:00"
-    },
     {
       "titulo_original": "McGeehan hat-trick powers Barnsley to 7-2 win over Aldershot",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1507,102 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-09T22:20:36.273879+00:00"
+    },
+    {
+      "titulo_original": "Man Utd expected to sack head coach Carrick",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Brady ends association with Birmingham City",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Injuries, noise & scalps - Wrexham's season so far",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Ultimate 1-50: the male footballers best associated with each squad number",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Tom Brady ends tenure as investor in Birmingham City after three years",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Cerebral Josh King plots unusual route into Tuchel’s England plans",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "CF Montreal are for sale: What it means, how much it could cost, and what’s next for the MLS club",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/sport/2026/nov/09/cf-montreal-sale-mls-joey-saputo",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Lens were humiliated by Como. The pain continued against Marseille",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
+    },
+    {
+      "titulo_original": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
     }
   ]
 }
