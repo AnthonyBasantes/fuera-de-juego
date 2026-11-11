@@ -7,111 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "Was Leeds' Bogle lucky to escape red card?",
-      "categoria": "polemicas",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Charlie Savage shines for Reading to beat dad Robbie's Peterborough",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqx29ey1m9zpo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Highlights: Exeter shock League One leaders Huddersfield",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/enzo-maresca-nottingham-forest-manchester-city-premier-league",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Scottish roundup: Naderi fires Rangers past St Mirren to keep pressure on Celtic",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/scottish-premiership-roundup-rangers-st-mirren-aberdeen-hibernian-dundee-united-motherwell-st-johnstone",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Miguel Merentiel elogia a Enner Valencia tras darle el título a Boca Juniors: “Sos un genio”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/miguel-merentiel-elogia-a-enner-valencia-tras-darle-el-titulo-a-boca-juniors-sos-un-genio-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Así finaliza el cuadrangular de la Liga Pro por cupo a la Copa Sudamericana 2027: Libertad FC y Guayaquil City consiguen la clasificación",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-finaliza-el-cuadrangular-de-liga-pro-por-cupo-a-copa-sudamericana-2027-libertad-fc-y-guayaquil-city-consiguen-la-clasificacion-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Enner Valencia celebra su consagración con Boca Juniors: “Me quedó una y pudo entrar, ahora podemos festejar”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/enner-valencia-celebra-su-consagracion-con-boca-juniors-me-quedo-una-y-pudo-entrar-ahora-podemos-festejar-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Enner Valencia rompe una sequía de 32 años y se convierte en el segundo ecuatoriano campeón de la Primera División de Argentina",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/enner-valencia-rompe-una-sequia-de-32-anos-y-se-convierte-en-el-segundo-ecuatoriano-campeon-de-la-primera-division-de-argentina-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "(VIDEO) Enner Valencia marca un gol agónico que vale un título y consagra campeón de la Liga Argentina a Boca Juniors",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/enner-valencia-marca-un-gol-agonico-que-vale-un-titulo-y-devuelve-a-boca-juniors-a-la-gloria-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Enner Valencia se convierte en el segundo ecuatoriano campeón con Boca Juniors; le da el título con un gol agónico",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/enner-valencia-se-convierte-en-el-segundo-ecuatoriano-campeon-con-boca-juniors-le-da-el-titulo-con-un-gol-agonico-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "The oldest club in London making FA Cup history",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Is there something missing despite Rangers' impressive form?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6dxw1k2x4kno?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Last season difficult with injury and miscarriage - Muniz",
       "categoria": "mundial",
       "fuente": "BBC Sport - Futbol",
@@ -1404,6 +1299,111 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-presume-talento-la-prensa-internacional-y-la-convocatoria-a-la-sub-20-de-ecuador-de-carlos-mejia-del-royal-amberes-de-belgica-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Pocognoli to lean on Scotland's 'captain group of five'",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Man City thrash Inter to claim first CL win of season",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Chelsea play out goalless draw with Hacken",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Leicester and Brentford U21 into EFL Trophy knockout stages",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "David Squires on … You Can MUFC Everything",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Piero Hincapié destaca el trabajo de Marcelo Gallardo en la Selección de Ecuador: ‘Entiende a cada jugador’",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/piero-hincapie-destaca-el-trabajo-de-marcelo-gallardo-en-la-seleccion-de-ecuador-entiende-a-cada-jugador-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Ecuador celebra un nuevo récord mundial en el levantamiento de potencia: estos son los 3 impactos deportivos",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/otros-deportes/ecuador-celebra-un-nuevo-record-mundial-en-el-levantamiento-de-potencia-estos-son-los-3-impactos-deportivos-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Moisés Caicedo revela cómo llega físicamente a la selección de Ecuador para enfrentarse a Costa Rica",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/moises-caicedo-revela-como-llega-fisicamente-a-la-seleccion-de-ecuador-para-enfrentar-a-costa-rica-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Willian Pacho reconoce que Ecuador no tuvo los resultados esperados en Asia y se enfoca en el partido contra Costa Rica",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/willian-pacho-reconoce-que-ecuador-no-tuvo-los-resultados-esperados-en-asia-y-se-enfoca-en-costa-rica-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Martín Tello, de atravesar una lesión a ser convocado por la Selección de Ecuador: “Los sueños se cumplen”",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/martin-tello-de-atravesar-una-lesion-a-ser-convocado-por-la-seleccion-de-ecuador-los-suenos-se-cumplen-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Deportivo Cuenca debe dos meses a sus jugadores y seis millones de dólares, revela su presidente",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/deportivo-cuenca-debe-dos-meses-a-sus-jugadores-y-seis-millones-de-dolares-revela-su-presidente-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Macará recibe la bienvenida de la Conmebol y confirma su clasificación a la fase de grupos de la Libertadores 2027",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/macara-recibe-la-bienvenida-de-conmebol-y-confirma-su-clasificacion-a-la-fase-de-grupos-de-la-libertadores-2027-nota/",
       "estado": "pendiente"
     }
   ]
