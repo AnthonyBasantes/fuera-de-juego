@@ -1,209 +1,9 @@
 {
-  "actualizado": "2026-11-11T14:27:50.553590+00:00",
+  "actualizado": "2026-11-12T00:42:13.015053+00:00",
   "total": 200,
-  "nuevas": 27,
-  "descartadas": 16,
+  "nuevas": 25,
+  "descartadas": 20,
   "noticias": [
-    {
-      "titulo_original": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Who has made Troy's Premier League team of the week?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Villa's Kamara on Chelsea watchlist - Monday's gossip",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Fan injured after falling through hole in stand",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Man Utd making it 'hard on ourselves' - Carrick",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Bundesliga",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/iplayer/episode/l00591pp?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Leeds condemn racist abuse of Bogle after Tel incident",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Grimsby fight back from two goals down to edge Stafford on penalties",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "London City thump Birmingham to close gap on second",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "'Frustrated and disappointed' - Emery on Man Utd draw",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "10-man Stockport come from behind to survive huge scare at Cray",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Chengdu blow 12-point lead to miss out on Chinese title on final day",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq2d698j5gxgo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Who was back to his best? Player ratings for Crystal Palace v Liverpool",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "England await Guehi scan results after injury concern",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Wirtz provides quality as Liverpool leave Crystal Palace propping up table",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Russo on target again as double fires under-pressure Arsenal to vital WSL win at Liverpool",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/liverpool-arsenal-wsl-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Evanilson ignites eighth straight Bournemouth win at blundering Ipswich",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
-    {
-      "titulo_original": "Dalot’s muddled performances are just another symptom of Old Trafford chaos | Will Unwin",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/diogo-dalot-manchester-united-old-trafford-aston-villa",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-08T22:03:11.423269+00:00"
-    },
     {
       "titulo_original": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1403,206 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-11T14:27:50.553590+00:00"
+    },
+    {
+      "titulo_original": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Legally restrict heading a football in training, says MP",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Arsenal join Scott chase - Thursday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "O'Shea proud of how team-mates handled Israel games",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwg7l9nd0p1zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pmhwp1?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Referee observer banned for discriminatory comments",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckedq15wq0dlo?at_medium=RSS&at_campaign=rss",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Bristol City give Skubala opportunity to improve form",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Euro Leagues",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pmh9w1?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Shrewsbury 'hit all the boxes' for new owners - Friedel",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm894wegv3lno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Thomas Tuchel keeps laser focus on ‘unfinished business’ with England",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/thomas-tuchel-unfinished-business-england-euro-2028-nations-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women’s World Cup",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Estados Unidos se retira del Mundial Sub-17 de Qatar por preocupaciones de seguridad",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/estados-unidos-se-retira-del-mundial-sub-17-de-qatar-por-preocupaciones-de-seguridad-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Francisco Egas anticipa que las eliminatorias al Mundial 2030 no comenzarían en marzo: “Podría ser en junio o septiembre”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/francisco-egas-anticipa-que-las-eliminatorias-al-mundial-2030-no-comenzarian-en-marzo-podria-ser-en-junio-o-septiembre-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Ecuador tendrá amistosos en marzo de 2027 y el cuerpo técnico decidirá las sedes para las próximas eliminatorias",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-tendra-amistosos-en-marzo-de-2027-y-el-cuerpo-tecnico-decidira-las-sedes-para-las-proximas-eliminatorias-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Luis Fragozo despierta interés en Inglaterra y Alemania: Emelec espera concretar una futura venta",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/luis-fragozo-despierta-interes-en-inglaterra-y-alemania-emelec-espera-concretar-una-futura-venta-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Emelec prepara una reestructuración para 2027: 12 jugadores dejarían el club al finalizar la temporada",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-prepara-una-reestructuracion-para-2027-12-jugadores-dejarian-el-club-al-finalizar-la-temporada-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Willian Pacho respalda a Kendry Páez tras su convocatoria: ‘Ahora la gente lo critica, seguro luego lo van a alabar’",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/willian-pacho-respalda-a-kendry-paez-ante-las-criticas-sobre-su-convocatoria-ahora-la-gente-lo-critica-seguro-luego-lo-van-a-alabar-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "Emelec evalúa la continuidad de Ezequiel Medrán: Luis Miguel Escalada anticipa decisiones sobre el DT",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-evalua-la-continuidad-de-ezequiel-medran-luis-miguel-escalada-anticipa-decisiones-sobre-el-dt-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
+    },
+    {
+      "titulo_original": "¿Cuántas veces ha ganado Ecuador a Costa Rica? Este es el historial entre ambas selecciones",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuantas-veces-ha-ganado-ecuador-a-costa-rica-este-es-el-historial-entre-ambas-selecciones-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-12T00:42:13.015053+00:00"
     }
   ]
 }
