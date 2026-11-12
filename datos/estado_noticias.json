@@ -7,167 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "WSL roundup: Crystal Palace deny Charlton first point, London City stay third",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/wsl-roundup-crystal-palace-deny-charlton-first-point-london-city-tottenham-brighton",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Uefa faces political flashpoint over Sevastopol’s ascent in Russian football",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/05/uefa-fifa-ukraine-crimea-sevastopol-promotion-russia-war",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "[EN VIVO - 1T] Barcelona SC 0-0 Liga de Quito, por la fecha 6 del primer hexagonal de Liga Ecuabet",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-barcelona-sc-vs-liga-de-quito-por-la-fecha-6-del-primer-hexagonal-de-liga-pro-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Pichincha alcanza 35 títulos de serie A con Independiente del Valle y amplía su ventaja sobre Guayas",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/pichincha-alcanza-35-titulos-de-serie-a-con-independiente-del-valle-y-amplia-su-ventaja-sobre-guayas-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Independiente del Valle celebra el bicampeonato ante Aucas: recibió un pasillo de honor y ganó 4-1 en el Gonzalo Pozo Ripalda",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-aucas-vs-independiente-del-valle-por-la-fecha-6-del-hexagonal-por-el-titulo-de-la-liga-ecuabet-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Martín Tello, la principal novedad en la convocatoria de Ecuador: Piero Hincapié y Kendry Páez regresan",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/martin-tello-la-principal-novedad-en-la-convocatoria-de-ecuador-piero-hincapie-y-kendry-paez-regresan-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Deportivo Cuenca vence a Orense y da un paso importante hacia la permanencia en la Serie A de Liga Pro",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/deportivo-cuenca-vence-a-orense-y-da-un-paso-importante-hacia-la-permanencia-en-la-serie-a-de-liga-pro-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Junior Sornoza, Richard Schunke y Mateo Carabajal: los tricampeones de Independiente del Valle en la Liga Pro",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/junior-sornoza-richard-schunke-y-mateo-carabajal-los-tricampeones-de-independiente-del-valle-en-la-liga-pro-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Macará no puede con Universidad Católica e Independiente del Valle ya es campeón, en la fecha 6 del hexagonal final de Liga Ecuabet",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-macara-vs-universidad-catolica-por-la-fecha-6-del-hexagonal-final-de-liga-ecuabet-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Independiente del Valle levanta su noveno título oficial y se consolida como el quinto equipo más ganador del fútbol ecuatoriano",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-levanta-su-noveno-titulo-oficial-y-se-consolida-como-el-quinto-equipo-mas-ganador-del-futbol-ecuatoriano-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Independiente del Valle es el sexto equipo que se corona bicampeón en la historia del fútbol ecuatoriano",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-es-el-sexto-equipo-que-se-corona-bicampeon-en-la-historia-del-futbol-ecuatoriano-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¡Independiente del Valle se proclama bicampeón de la Liga Ecuabet!",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-se-proclama-bicampeon-de-la-liga-pro-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Leandro Paredes agradece a Enner Valencia por su aporte en el título de Boca Juniors: “Es la muestra de lo que es el grupo”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/leandro-paredes-agradece-a-enner-valencia-por-su-aporte-en-el-titulo-de-boca-juniors-es-la-muestra-de-lo-que-es-el-grupo-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Nilson Angulo celebra y Moisés Caicedo sufre: Sunderland derrota al Chelsea en la Premier League",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/nilson-angulo-celebra-y-moises-caicedo-sufre-sunderland-derrota-al-chelsea-en-la-premier-league-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Rodolfo Arruabarrena, DT de Boca Juniors, y la actuación de Enner Valencia, que anotó el gol del título: “Su llegada era jerarquía”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/rodolfo-arruabarrena-dt-de-boca-juniors-y-la-actuacion-de-enner-valencia-que-anoto-el-gol-del-titulo-su-llegada-era-jerarquia-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Falkirk add goals and grit to McGlynn's guile on rapid rise",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crwyd4q0k8ddo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Four 'huge mistakes' that show Man Utd's defensive problems",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Barcelona fight back to beat Atleti as Fermin scores twice",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "'A horrible place to be' - What's gone wrong for Palace?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Why defenders hate playing against brilliant Brobbey",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
       "categoria": "mundial",
       "fuente": "The Guardian - Futbol",
@@ -1404,6 +1243,167 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuantas-veces-ha-ganado-ecuador-a-costa-rica-este-es-el-historial-entre-ambas-selecciones-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Crystal Palace sack boss Sage after 16 games",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Six matches that defined Carrick's Man Utd tenure",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Kane's top 10 England moments - which was your favourite?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Robertson set to make history but his hero Dalglish will always be King",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Young duo at heart of Nations League's meanest defence",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "How 'Barca way' continues despite big-name exits",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'Unfinished business' - Tuchel committed to England",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "USA withdraw from U17 World Cup",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Wales' James warns of Norwegian revenge in Oslo",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Spain boss denies Lamine Yamal gets 'special privileges'",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Police investigation into Vigar's death ongoing",
+      "categoria": "polemicas",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Carrick sacked by Manchester United with team in Premier League relegation zone – live",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "‘Pregnancy does not mean game over’: meet the footballers challenging the myths | Moving the Goalposts",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Archive, 1990: Peter Shilton wins 125th cap making him England’s record appearance holder",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy | Jamie Jackson",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Miguel Ángel Loor buscará la reelección de la Liga Pro en el directorio de la World Leagues Association",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/miguel-angel-loor-buscara-la-reeleccion-en-el-directorio-de-la-world-league-association-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "“Responde mucho más con goles que con juego”, la prensa argentina sobre Enner Valencia en el ataque de Boca Juniors",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/responde-mucho-mas-con-goles-que-con-juego-la-prensa-argentina-sobre-enner-valencia-en-el-ataque-de-boca-juniors-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Muere Carlos Babington, gloria de Huracán y mundialista con Argentina",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/muere-carlos-babington-gloria-de-huracan-y-mundialista-con-argentina-nota/",
       "estado": "pendiente"
     }
   ]
