@@ -1,41 +1,9 @@
 {
-  "actualizado": "2026-11-12T23:37:52.947856+00:00",
+  "actualizado": "2026-11-13T06:42:58.764126+00:00",
   "total": 200,
-  "nuevas": 28,
-  "descartadas": 24,
+  "nuevas": 4,
+  "descartadas": 23,
   "noticias": [
-    {
-      "titulo_original": "Every goal from the Women's Super League - matchweek nine",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-09T22:20:36.273879+00:00"
-    },
-    {
-      "titulo_original": "The heavy defeat that ended Robinson's Aberdeen tenure",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-09T22:20:36.273879+00:00"
-    },
-    {
-      "titulo_original": "Dutch match postponed after fans block team bus",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqy0r0lw4l5ro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-09T22:20:36.273879+00:00"
-    },
-    {
-      "titulo_original": "Fishlock retires after record-breaking career",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq98z8401zz8o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-09T22:20:36.273879+00:00"
-    },
     {
       "titulo_original": "BBC Women's Football Weekly",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1571,38 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pmqwrn?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-13T06:42:58.764126+00:00"
+    },
+    {
+      "titulo_original": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-13T06:42:58.764126+00:00"
+    },
+    {
+      "titulo_original": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-13T06:42:58.764126+00:00"
+    },
+    {
+      "titulo_original": "Un nuevo sueño comienza en la cancha: niños y jóvenes reciben sus zapatos para el Interbarrial de Fútbol, que se inaugura este sábado en la Ciudad Deportiva",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/un-nuevo-sueno-comienza-en-la-cancha-ninos-y-jovenes-reciben-sus-zapatos-para-el-interbarrial-de-futbol-que-se-inaugura-este-sabado-en-la-ciudad-deportiva-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-13T06:42:58.764126+00:00"
     }
   ]
 }
