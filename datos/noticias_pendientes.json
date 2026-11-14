@@ -1,129 +1,9 @@
 {
-  "actualizado": "2026-11-13T19:40:14.644430+00:00",
+  "actualizado": "2026-11-14T06:20:03.782169+00:00",
   "total": 200,
-  "nuevas": 34,
-  "descartadas": 26,
+  "nuevas": 15,
+  "descartadas": 30,
   "noticias": [
-    {
-      "titulo_original": "Injuries, noise & scalps - Wrexham's season so far",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8x232yy5494o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "Plymouth Parkway beat Berkhamsted to reach FA Cup second round",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqm24237y5z5o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "Ultimate 1-50: the male footballers best associated with each squad number",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "Tom Brady ends tenure as investor in Birmingham City after three years",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "Cerebral Josh King plots unusual route into Tuchel’s England plans",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/09/cerebral-josh-king-plots-unusual-route-into-tuchels-england-plans",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "CF Montreal are for sale: What it means, how much it could cost, and what’s next for the MLS club",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/sport/2026/nov/09/cf-montreal-sale-mls-joey-saputo",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "Lens were humiliated by Como. The pain continued against Marseille",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/09/lens-como-marseille-pierre-sage-coupe-de-france-ligue-1",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T07:15:57.583487+00:00"
-    },
-    {
-      "titulo_original": "The Monaco summit that will decide the future of Carrick and Man Utd",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T19:42:50.496851+00:00"
-    },
-    {
-      "titulo_original": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T19:42:50.496851+00:00"
-    },
-    {
-      "titulo_original": "McTominay reveals heart treatment at World Cup",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T19:42:50.496851+00:00"
-    },
-    {
-      "titulo_original": "Wales' Johnson says definitely more to come after 50 caps",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T19:42:50.496851+00:00"
-    },
-    {
-      "titulo_original": "Hill gets first England call-up as Konsa cover",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T19:42:50.496851+00:00"
-    },
-    {
-      "titulo_original": "Birthdays and broken lamps - at home with the Charles brothers",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-10T19:42:50.496851+00:00"
-    },
     {
       "titulo_original": "Kompany back at Bayern training after collapse",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1483,126 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-13T19:40:14.644430+00:00"
+    },
+    {
+      "titulo_original": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "'It's a shootout' - Wales out to derail stuttering Norway",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "Ferguson 'made up' with first win as Glentoran boss",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "'If that penalty is given against you, you're furious'",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "John McGinn double saves Scotland’s blushes against North Macedonia",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "Nations League: Germany set up Netherlands clash after beating Serbia",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "La Tri consigue su primera victoria ante su gente en la era de Marcelo Gallardo: Ecuador venció 2-0 a Costa Rica",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-ecuador-vs-costa-rica-por-la-fecha-fifa-de-noviembre-en-el-estadio-olimpico-atahualpa-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "El Olímpico Atahualpa alcanzó cerca del 90 % de ocupación en el regreso de la Tri ante Costa Rica",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/el-olimpico-atahualpa-alcanzo-cerca-del-90-de-ocupacion-en-el-regreso-de-la-tri-ante-costa-rica-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
+    },
+    {
+      "titulo_original": "“No soñaba con ser futbolista”: Willian Pacho revela detalles de su infancia en ‘Tras los pasos de Willian Pacho’, el documental del PSG",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/no-sonaba-con-ser-futbolista-willian-pacho-revela-detalles-de-su-infancia-en-el-documental-del-psg-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
     }
   ]
 }
