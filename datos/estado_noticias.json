@@ -7,125 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "La selección de Ecuador recibe a la sub-20 en la Casa de la Selección en Quito",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-seleccion-de-ecuador-recibe-a-la-sub-20-en-la-casa-de-la-seleccion-en-quito-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "La Tri inicia sus entrenamientos en Quito bajo el mando de Marcelo Gallardo para los amistosos ante Costa Rica y Bolivia",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-inicia-sus-entrenamientos-en-quito-bajo-el-mando-de-marcelo-gallardo-para-los-amistosos-ante-costa-rica-y-bolivia-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Liga Pro recibe respaldo en España para jugar un partido oficial en ese país en 2027",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-pro-recibe-respaldo-en-espana-para-jugar-un-partido-oficial-en-ese-pais-en-2027-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Cristhian Noboa: “Los juveniles tienen que ser prioridad en Emelec, ellos sienten lo que es el club”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/cristhian-noboa-los-juveniles-tienen-que-ser-prioridad-en-emelec-ellos-sienten-lo-que-es-el-club-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "“La Tri presume talento”, la prensa internacional y la convocatoria a la Sub-20 de Ecuador de Carlos Mejía, del Royal Amberes de Bélgica",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-presume-talento-la-prensa-internacional-y-la-convocatoria-a-la-sub-20-de-ecuador-de-carlos-mejia-del-royal-amberes-de-belgica-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Pocognoli to lean on Scotland's 'captain group of five'",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmde8e8wjyzgo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Arsenal eye Real's Endrick - Wednesday's gossip",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Man City thrash Inter to claim first CL win of season",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Chelsea play out goalless draw with Hacken",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c62keklwjpe0o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Leicester and Brentford U21 into EFL Trophy knockout stages",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "McTominay reveals heart treatment two days before Scotland’s World Cup opener",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "David Squires on … You Can MUFC Everything",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Piero Hincapié destaca el trabajo de Marcelo Gallardo en la Selección de Ecuador: ‘Entiende a cada jugador’",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/piero-hincapie-destaca-el-trabajo-de-marcelo-gallardo-en-la-seleccion-de-ecuador-entiende-a-cada-jugador-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Ecuador celebra un nuevo récord mundial en el levantamiento de potencia: estos son los 3 impactos deportivos",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/otros-deportes/ecuador-celebra-un-nuevo-record-mundial-en-el-levantamiento-de-potencia-estos-son-los-3-impactos-deportivos-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Moisés Caicedo revela cómo llega físicamente a la selección de Ecuador para enfrentarse a Costa Rica",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/moises-caicedo-revela-como-llega-fisicamente-a-la-seleccion-de-ecuador-para-enfrentar-a-costa-rica-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Willian Pacho reconoce que Ecuador no tuvo los resultados esperados en Asia y se enfoca en el partido contra Costa Rica",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/willian-pacho-reconoce-que-ecuador-no-tuvo-los-resultados-esperados-en-asia-y-se-enfoca-en-costa-rica-nota/",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Martín Tello, de atravesar una lesión a ser convocado por la Selección de Ecuador: “Los sueños se cumplen”",
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
@@ -1404,6 +1285,125 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/futbol/francisco-egas-presidente-de-la-ecuafutbol-y-el-apoyo-a-la-tricolor-en-su-vuelta-al-atahualpa-fue-lindo-estar-acompanados-de-nuestra-gente-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'No racism in Spain' – De la Fuente message for Tuchel",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Bompastor's risks pay off as Chelsea go top of WSL",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Rice close to signing new Arsenal contract",
+      "categoria": "fichajes",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal target Nusa could cost £66m - Sunday's gossip",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "What Wales need to stay in Nations League top tier",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Haaland helps Norway to win over Wales in Nations League",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Spurs held to a draw by Everton in the WSL",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Ecuador anuncia nómina para el Mundial Sub-17 de Qatar 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-anuncia-nomina-para-el-mundial-sub-17-de-catar-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Interbarrial de Fútbol se estrena con fiesta y pasión",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/interbarrial-de-futbol-se-estrena-con-fiesta-y-pasion-nota/",
       "estado": "pendiente"
     }
   ]
