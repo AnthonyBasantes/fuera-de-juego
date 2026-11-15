@@ -1,57 +1,9 @@
 {
-  "actualizado": "2026-11-14T22:22:39.903054+00:00",
+  "actualizado": "2026-11-15T06:28:57.277413+00:00",
   "total": 200,
-  "nuevas": 17,
-  "descartadas": 28,
+  "nuevas": 6,
+  "descartadas": 27,
   "noticias": [
-    {
-      "titulo_original": "Martín Tello, de atravesar una lesión a ser convocado por la Selección de Ecuador: “Los sueños se cumplen”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/martin-tello-de-atravesar-una-lesion-a-ser-convocado-por-la-seleccion-de-ecuador-los-suenos-se-cumplen-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-11T06:15:15.580835+00:00"
-    },
-    {
-      "titulo_original": "Deportivo Cuenca debe dos meses a sus jugadores y seis millones de dólares, revela su presidente",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/deportivo-cuenca-debe-dos-meses-a-sus-jugadores-y-seis-millones-de-dolares-revela-su-presidente-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-11T06:15:15.580835+00:00"
-    },
-    {
-      "titulo_original": "Macará recibe la bienvenida de la Conmebol y confirma su clasificación a la fase de grupos de la Libertadores 2027",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/macara-recibe-la-bienvenida-de-conmebol-y-confirma-su-clasificacion-a-la-fase-de-grupos-de-la-libertadores-2027-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-11T06:15:15.580835+00:00"
-    },
-    {
-      "titulo_original": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-11T14:27:50.553590+00:00"
-    },
-    {
-      "titulo_original": "Pochettino ready to accept Man Utd offer to replace Carrick",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-11T14:27:50.553590+00:00"
-    },
-    {
-      "titulo_original": "Psychological uncertainty and tactics - assessing the issues at Man City",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-11T14:27:50.553590+00:00"
-    },
     {
       "titulo_original": "Does Pickford finally face serious competition for his England place?",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1555,54 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
+    },
+    {
+      "titulo_original": "Respect? Exposure? Why England's star names are going abroad",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-15T06:28:57.277413+00:00"
+    },
+    {
+      "titulo_original": "The 'manager's dream' who has put NI one game from history",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-15T06:28:57.277413+00:00"
+    },
+    {
+      "titulo_original": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-15T06:28:57.277413+00:00"
+    },
+    {
+      "titulo_original": "Devlin nets winner as NI top Nations League group",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-15T06:28:57.277413+00:00"
+    },
+    {
+      "titulo_original": "Liverpool put three past Brighton to end winless run",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-15T06:28:57.277413+00:00"
+    },
+    {
+      "titulo_original": "Ronaldinho entrena con el Ravena, de la Serie C, en la víspera de su regreso al fútbol",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ronaldinho-entrena-con-el-ravena-de-la-serie-c-en-la-vispera-de-su-regreso-al-futbol-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-15T06:28:57.277413+00:00"
     }
   ]
 }
