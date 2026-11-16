@@ -7,300 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women’s World Cup",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Estados Unidos se retira del Mundial Sub-17 de Qatar por preocupaciones de seguridad",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/estados-unidos-se-retira-del-mundial-sub-17-de-qatar-por-preocupaciones-de-seguridad-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Francisco Egas anticipa que las eliminatorias al Mundial 2030 no comenzarían en marzo: “Podría ser en junio o septiembre”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/francisco-egas-anticipa-que-las-eliminatorias-al-mundial-2030-no-comenzarian-en-marzo-podria-ser-en-junio-o-septiembre-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Ecuador tendrá amistosos en marzo de 2027 y el cuerpo técnico decidirá las sedes para las próximas eliminatorias",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-tendra-amistosos-en-marzo-de-2027-y-el-cuerpo-tecnico-decidira-las-sedes-para-las-proximas-eliminatorias-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Luis Fragozo despierta interés en Inglaterra y Alemania: Emelec espera concretar una futura venta",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/luis-fragozo-despierta-interes-en-inglaterra-y-alemania-emelec-espera-concretar-una-futura-venta-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Emelec prepara una reestructuración para 2027: 12 jugadores dejarían el club al finalizar la temporada",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-prepara-una-reestructuracion-para-2027-12-jugadores-dejarian-el-club-al-finalizar-la-temporada-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Willian Pacho respalda a Kendry Páez tras su convocatoria: ‘Ahora la gente lo critica, seguro luego lo van a alabar’",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/willian-pacho-respalda-a-kendry-paez-ante-las-criticas-sobre-su-convocatoria-ahora-la-gente-lo-critica-seguro-luego-lo-van-a-alabar-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Emelec evalúa la continuidad de Ezequiel Medrán: Luis Miguel Escalada anticipa decisiones sobre el DT",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-evalua-la-continuidad-de-ezequiel-medran-luis-miguel-escalada-anticipa-decisiones-sobre-el-dt-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Cuántas veces ha ganado Ecuador a Costa Rica? Este es el historial entre ambas selecciones",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cuantas-veces-ha-ganado-ecuador-a-costa-rica-este-es-el-historial-entre-ambas-selecciones-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Crystal Palace sack boss Sage after 16 games",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Six matches that defined Carrick's Man Utd tenure",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Kane's top 10 England moments - which was your favourite?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c64g12w5zpjpo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Robertson set to make history but his hero Dalglish will always be King",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "England's Blues brothers - how the Bellinghams helped save Birmingham",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Young duo at heart of Nations League's meanest defence",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "How 'Barca way' continues despite big-name exits",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "'Unfinished business' - Tuchel committed to England",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "USA withdraw from U17 World Cup",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Wales' James warns of Norwegian revenge in Oslo",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Spain boss denies Lamine Yamal gets 'special privileges'",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Police investigation into Vigar's death ongoing",
-      "categoria": "polemicas",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Carrick sacked by Manchester United with team in Premier League relegation zone – live",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "‘Pregnancy does not mean game over’: meet the footballers challenging the myths | Moving the Goalposts",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/pregnancy-womens-football-moving-the-goalposts-newsletter",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "‘Second ball’ may be a Sunday league mantra but Yates showed its top-flight relevance",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/ryan-yates-nottingham-forest-manchester-city-premier-league-second-ball",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Archive, 1990: Peter Shilton wins 125th cap making him England’s record appearance holder",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Michael Carrick was just the latest fall guy for Manchester United’s dysfunctional hierarchy | Jamie Jackson",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Miguel Ángel Loor buscará la reelección de la Liga Pro en el directorio de la World Leagues Association",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/miguel-angel-loor-buscara-la-reeleccion-en-el-directorio-de-la-world-league-association-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "“Responde mucho más con goles que con juego”, la prensa argentina sobre Enner Valencia en el ataque de Boca Juniors",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/responde-mucho-mas-con-goles-que-con-juego-la-prensa-argentina-sobre-enner-valencia-en-el-ataque-de-boca-juniors-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Muere Carlos Babington, gloria de Huracán y mundialista con Argentina",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/muere-carlos-babington-gloria-de-huracan-y-mundialista-con-argentina-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Where does Kane rank among all-time England greats?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Gritty Arsenal show different side in Barcelona draw",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Kane scores winner but who else made an impression? England player ratings",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Grealish apologises for absence after breach of discipline",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Man Utd & Man City in Gusto battle - Friday's gossip",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Football Daily",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/m0034dz1?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "SFA in talks with Boston officials over biennial friendly match",
       "categoria": "mundial",
       "fuente": "BBC Sport - Futbol",
@@ -1404,6 +1110,300 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/futbol/con-victoria-ronaldinho-concreto-su-retorno-al-futbol-profesional-a-los-46-anos-de-edad-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "How Frank can restore reputation and save Crystal Palace",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Robertson eclipses Dalglish to become Scotland's most capped man",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Has Trafford replaced Pickford as England No 1?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Klopp says Infantino worse than Blatter",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Belgium's Lukaku retires from internationals",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Burnham urges caution on scrapping 3pm TV blackout",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Portugal boss responds to criticism from Ronaldo's mum",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Vote for the best men's European striker this century",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Swansea in fight to keep Matos amid Strasbourg interest",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Homophobia on the rise in football - what is your club doing about it?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Cameroon, Senegal and Benin close in on Afcon 2027 qualification",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Lye, Peterborough and the never-ending Women's FA Cup tie",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp3vz1kgpvqo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Every goal from the Women's Super League - matchweek 10",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "More than F1 - Monza's captivating football story",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Vinicius says transfer interest affected Real form",
+      "categoria": "fichajes",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "What's at the top of Frick's Aberdeen to-do list?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "How promotion, relegation and knockouts work in Nations League",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Republic of Ireland captain Collins to miss Kosovo game",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "BBC Women's Football Weekly",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pnb81q?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'It's been horrific' - Evatt says sickness bug decimated Blackpool",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Germany 5-0 Netherlands, Switzerland 4-0 Scotland and more: Nations League – live",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/16/switzerland-v-scotland-germany-v-netherlands-and-more-nations-league-live",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage’s sacking",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Mauricio Pochettino sends coaches to Manchester to help prepare for United job",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-assistants-manchester-united-usmnt",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Tuchel and England must learn lessons of history, Seville and Southgateism | Barney Ronay",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "French football head Philippe Diallo to fight Infantino for Fifa presidency",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/philippe-diallo-fifa-gianni-infantino-president-french-football-federation",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Union of European Clubs escalates fight for football influence with formal complaint",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/union-of-european-clubs-complaint-european-commission-uefa-european-football-clubs",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Spain in pain as historic run ends but De la Fuente feels best is yet to come",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Beckham firm sues after fragrance found for sale in discount store",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Do good club managers necessarily make good international managers? | Jonathan Wilson",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "WSL talking points: Chelsea’s gamble pays off and have Arsenal lost fear factor?",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/wsl-talking-points-chelseas-gamble-pays-off-and-have-arsenal-lost-fear-factor",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "A long wait, some magic and that smile: Ronaldinho savours Ravenna debut at 46",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/ronaldinho-ravenna-debut-serie-c-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "‘Inexcusable’ stadium sagas provide NWSL with unwelcome reality check",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/nwsl-playoffs-gotham-icahn-stadium-controversy",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "European football body’s plan to go global leaves Fifa on tenterhooks",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Republic of Ireland have plenty of promise, but are unable to shake self-sabotage",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/republic-of-ireland-heimir-hallgrimsson-nations-league-kosovo",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "England hang on to end Spain’s unbeaten reign | Football Weekly – video",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/16/england-hang-on-to-end-spains-unbeaten-reign-football-weekly-video",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Adrián Gabbarini minimiza el triunfo de Barcelona SC que terminó con el invicto de Liga de Quito en el Rodrigo Paz Delgado: ‘No fue tan importante’",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/adrian-gabbarini-minimiza-el-triunfo-de-barcelona-sc-que-termino-con-el-invicto-de-liga-de-quito-en-el-rodrigo-paz-delgado-no-fue-tan-importante-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Byron Castillo recuerda el doloroso momento cuando quedó fuera del Mundial 2022: “Toda la Selección se fue a Qatar y me quedé solo”",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/byron-castillo-recuerda-el-doloroso-momento-cuando-quedo-fuera-del-mundial-2022-toda-la-seleccion-se-fue-a-qatar-y-me-quede-solo-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "“Oré, trabajé mucho en silencio y nunca dejé de creer para que este momento llegara”, la alegría de Óscar Zambrano tras debutar con la Tri",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ore-trabaje-mucho-en-silencio-y-nunca-deje-de-creer-para-que-este-momento-llegara-la-alegria-de-oscar-zambrano-tras-debutar-con-la-tri-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Nike reemplazará a Adidas como proveedor del balón de la Champions League desde 2027",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/nike-reemplazara-a-adidas-como-proveedor-del-balon-de-la-champions-league-desde-2027-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿Retorna a Ecuador?: esta sería la decisión de Universidad de Chile sobre la continuidad de Octavio Rivero, exdelantero de Barcelona SC",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/retorna-a-ecuador-esta-seria-la-decision-de-universidad-de-chile-sobre-la-continuidad-de-octavio-rivero-exdelantero-de-barcelona-sc-nota/",
       "estado": "pendiente"
     }
   ]
