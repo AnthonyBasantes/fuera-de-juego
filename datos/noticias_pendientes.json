@@ -1,137 +1,9 @@
 {
-  "actualizado": "2026-11-16T21:59:59.165855+00:00",
+  "actualizado": "2026-11-17T07:53:19.694497+00:00",
   "total": 200,
-  "nuevas": 42,
-  "descartadas": 27,
+  "nuevas": 16,
+  "descartadas": 26,
   "noticias": [
-    {
-      "titulo_original": "SFA in talks with Boston officials over biennial friendly match",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Owono undecided over future following De Miguel death",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Pierre Sage’s failure to fix defensive flaws leaves Crystal Palace seeking new solution",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-manager-crystal-palace-steve-parish-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Robertson pays tribute to Dalglish as he matches Scotland cap record",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Football Daily | ‘The club would like to thank …’: Manchester United dust off the heartfelt exit message",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/football-daily-manchester-united-michael-carrick",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Pochettino expected to lead US in Nations League games before Manchester United move",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Denil Castillo es baja, Kevin Rodríguez está en evaluación y Snayder Porozo se suma a la convocatoria de la selección de Ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/marcelo-gallardo-convoca-a-snayder-porozo-para-reemplazar-al-lesionado-denil-castillo-en-ecuador-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "“No puede haber falta de respeto ni falta de compromiso”: Marcelo Gallardo habla de los valores de la Tri",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/no-puede-haber-falta-de-respeto-ni-falta-de-compromiso-marcelo-gallardo-habla-de-los-valores-de-la-tri-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Marcelo Gallardo destaca a Martín Tello en su primera convocatoria con Ecuador: ‘Es un futbolista versátil que puede jugar por dentro, puede jugar por fuera’",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/marcelo-gallardo-destaca-a-martin-tello-en-su-primera-convocatoria-con-ecuador-es-un-futbolista-versatil-que-puede-jugar-por-dentro-puede-jugar-por-fuera-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "Lionel Scaloni seguirá al frente de Argentina hasta el Mundial 2030 y prepara la era sin Lionel Messi",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/lionel-scaloni-seguira-al-frente-de-argentina-hasta-el-mundial-2030-y-prepara-la-era-sin-lionel-messi-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
-    {
-      "titulo_original": "El Nacional podría tener nuevo presidente y directorio en enero de 2027: este es el cronograma electoral",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/el-nacional-podria-tener-nuevo-presidente-y-directorio-en-enero-de-2027-este-es-el-cronograma-electoral-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-12T23:37:52.947856+00:00"
-    },
     {
       "titulo_original": "Partidos amistosos de las selecciones sudamericanas que se jugarán mañana, 13 de noviembre, con Ecuador vs. Costa Rica",
       "fuente": "El Universo - Ecuador",
@@ -1603,6 +1475,134 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
+    },
+    {
+      "titulo_original": "What's the story with Scotland boss Pocognoli - is it time to go?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Why always him? The rise and fall of Balotelli",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvgxvg4v981o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Life after Ronaldo - Portugal face post-Bale Wales",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckvg29vler1no?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Man Utd to resurrect Hall interest - Tuesday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Football Daily",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Fifa accused of climate ‘record of failure’ due to Aramco deal and tournament expansion",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Switzerland roll over sorry Scotland to increase the pressure on Pocognoli",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/switzerland-scotland-nations-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Swansea braced to lose Vítor Matos as Strasbourg seek to replace Hugo Oliveira",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/swansea-city-head-coach-vitor-matos-strasbourg-chelsea-sister-club-ligue-1",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "‘We want to win it’: Tuchel says Nations League can set up England for Euro 2028 glory",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Listener mailbag: Manchester City, media coverage and making gravy | Football Weekly – video",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/17/listener-mailbag-manchester-city-media-coverage-and-making-gravy-football-weekly-video",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
+    },
+    {
+      "titulo_original": "Independiente del Valle festejará su bicampeonato de Liga Ecuabet con un ‘fan fest’, el partido ante Macará y música en Chillo Jijón",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-festejara-su-bicampeonato-de-liga-pro-con-un-fan-fest-el-partido-ante-macara-y-musica-en-sangolqui-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-17T07:53:19.694497+00:00"
     }
   ]
 }
