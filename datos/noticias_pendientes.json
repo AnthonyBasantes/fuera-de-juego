@@ -1,137 +1,9 @@
 {
-  "actualizado": "2026-11-17T20:53:59.857544+00:00",
+  "actualizado": "2026-11-18T07:26:32.939627+00:00",
   "total": 200,
-  "nuevas": 40,
-  "descartadas": 26,
+  "nuevas": 16,
+  "descartadas": 27,
   "noticias": [
-    {
-      "titulo_original": "A qué hora juega Ecuador vs. Costa Rica: canales para ver EN VIVO y gratis el partido de la Tri este viernes, 13 de noviembre",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-ecuador-vs-costa-rica-canales-para-ver-en-vivo-y-gratis-el-partido-de-la-tri-este-viernes-13-de-noviembre-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-13T19:40:14.644430+00:00"
-    },
-    {
-      "titulo_original": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "'It's a shootout' - Wales out to derail stuttering Norway",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "Ferguson 'made up' with first win as Glentoran boss",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c95y10z6rpj8o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "'If that penalty is given against you, you're furious'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "John McGinn double saves Scotland’s blushes against North Macedonia",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "Jesús Owono given 12-match ban for tackle that resulted in Jesús de Miguel’s death",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "Nations League: Germany set up Netherlands clash after beating Serbia",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/13/nations-league-germany-set-up-netherlands-clash-serbia-greece",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "La Tri consigue su primera victoria ante su gente en la era de Marcelo Gallardo: Ecuador venció 2-0 a Costa Rica",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/en-vivo-ecuador-vs-costa-rica-por-la-fecha-fifa-de-noviembre-en-el-estadio-olimpico-atahualpa-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "El Olímpico Atahualpa alcanzó cerca del 90 % de ocupación en el regreso de la Tri ante Costa Rica",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/el-olimpico-atahualpa-alcanzo-cerca-del-90-de-ocupacion-en-el-regreso-de-la-tri-ante-costa-rica-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
-    {
-      "titulo_original": "“No soñaba con ser futbolista”: Willian Pacho revela detalles de su infancia en ‘Tras los pasos de Willian Pacho’, el documental del PSG",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/no-sonaba-con-ser-futbolista-willian-pacho-revela-detalles-de-su-infancia-en-el-documental-del-psg-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T06:20:03.782169+00:00"
-    },
     {
       "titulo_original": "Tuchel to remind England of anti-racism protocols before Spain game",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1475,134 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
+    },
+    {
+      "titulo_original": "The 3pm football blackout: outdated or still relevant in 2026?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Belief and bench steer Northern Ireland into Nations League top tier",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "From one of Ajax's future stars to quitting football for music",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Rangers great Brand dies aged 89",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Highlights: Ten-man Portugal beat Wales to top group",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "A 2-0 win over Haiti ends Pochettino’s USMNT tenure with confident hope",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Pocognoli’s aspiration for how Scotland must play is in danger of becoming unworkable",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/17/sebastien-pocognoli-scotland-nations-league-switzerland",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "“Estoy feliz por ganar”, dice Willian Pacho, defensor de Ecuador sobre la victoria ante Bolivia",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/estoy-feliz-por-ganar-dice-willian-pacho-defensor-de-ecuador-sobre-bolivia-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "“Es muy lindo volver a ganar”, dice Piero Hincapié sobre el triunfo de Ecuador ante Bolivia",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/es-muy-lindo-volver-a-ganar-dice-piero-hincapie-sobre-el-triunfo-de-ecuador-ante-bolivia-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "“Ecuador es una selección de altísimo nivel”, admite Óscar Villegas, DT de Bolivia, tras caer ante la tricolor",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-es-una-seleccion-de-altisimo-nivel-admite-oscar-villegas-dt-de-bolivia-tras-caer-ante-la-tricolor-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "Prensa inglesa afirma que Piero Hincapié amplía contrato con Arsenal hasta 2032",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/prensa-inglesa-afirma-que-piero-hincapie-amplia-contrato-con-arsenal-hasta-2032-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
     }
   ]
 }
