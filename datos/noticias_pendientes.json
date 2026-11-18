@@ -1,313 +1,9 @@
 {
-  "actualizado": "2026-11-18T07:26:32.939627+00:00",
+  "actualizado": "2026-11-18T20:29:39.252565+00:00",
   "total": 200,
-  "nuevas": 16,
-  "descartadas": 27,
+  "nuevas": 38,
+  "descartadas": 21,
   "noticias": [
-    {
-      "titulo_original": "Tuchel to remind England of anti-racism protocols before Spain game",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Tenerife boss says Owono's 12-match ban 'feels light'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Six goals to go - will McGinn catch Dalglish & Law?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Former Stoke City manager Thordarson dies aged 71",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Who would make your England-Spain combined XI?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw77p0v78exlo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Clough's longevity: landmark achievement or indictment on football?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "'Exciting' Moylan flourishing for club and country",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmlydwy2zg10o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "How a reunion with scout Bompastor solved Chelsea's striker issue",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Chelsea go top with 1-0 win against Man City",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "'I just play where the manager tells me to play!' - Walsh",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Cast your vote for BBC Women's Footballer of the Year 2026",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "NI target challenge of Nations League promotion",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Historic winners & 50-yard screamers - best goals from FA Cup first round",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq5yny8g5g2ro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Norway v Wales: Nations League – live",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Chelsea go top of WSL as Sandy Baltimore bullet sees off Manchester City",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Ultimate 1-50: the male footballers best associated with each squad number",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Transfer window verdict: how every Premier League club fared",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Azeez to Andrés: seven smart-looking Premier League deadline day deals",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Hernán Galíndez, arquero de Ecuador, y el retorno de la Tricolor al Atahualpa: “Extrañaba venir acá”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/hernan-galindez-arquero-de-ecuador-y-el-retorno-de-la-tricolor-al-atahualpa-extranaba-venir-aca-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "Francisco Egas, presidente de la Ecuafútbol, y el apoyo a la Tricolor en su vuelta al Atahualpa: “Fue lindo estar acompañados de nuestra gente”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/francisco-egas-presidente-de-la-ecuafutbol-y-el-apoyo-a-la-tricolor-en-su-vuelta-al-atahualpa-fue-lindo-estar-acompanados-de-nuestra-gente-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T17:59:31.625706+00:00"
-    },
-    {
-      "titulo_original": "'No racism in Spain' – De la Fuente message for Tuchel",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Bompastor's risks pay off as Chelsea go top of WSL",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Rice close to signing new Arsenal contract",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "What Wales need to stay in Nations League top tier",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Haaland helps Norway to win over Wales in Nations League",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Spurs held to a draw by Everton in the WSL",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
-    {
-      "titulo_original": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-14T22:22:39.903054+00:00"
-    },
     {
       "titulo_original": "Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1299,310 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-18T07:26:32.939627+00:00"
+    },
+    {
+      "titulo_original": "The tightest survival scrap for years? Why it's not too early to worry",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Joint-record six referee errors in last Premier League weekend",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Manchester won't always be blue - Pochettino",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Ward close to new Republic of Ireland deal as Noonan returns",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6782xedd985o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Toney loses bid to avoid Euro 2028 court clash",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/news/articles/ckm2m1899mqyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Record crowds, legends - Bordeaux bid to escape amateur game",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c63rgqrz9jgqo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Former Spain midfielder Mata retires aged 38",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Israel row a 'defining moment for us' - Hallgrimsson",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "From kit boy to manager at 28 - Dumbarton appoint Fellowes",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c61k9mz9vvkyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "NI will carry momentum into Euro 2028 qualifiers",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck9q8jg1l45do?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Williams to join temporary Swansea coaching team",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "From Dunfermline to Dubai - McPake on new life in Middle East",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6j9m1ygw427o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Rooney revelations important - Bradford boss Duff",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvrlgke13e9go?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Chelsea v Paris Saint-Germain: Women’s Champions League – live",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/18/chelsea-v-paris-saint-germain-psg-womens-champions-league-live-score-updates",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "‘An honour’: Pochettino up for challenge of leading Manchester United revival",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Leicester part ways with BC Game after sponsor’s partnership with porn actor",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "USWNT squad: Emma Hayes names veteran group for Concacaf championship and World Cup qualifier",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/uswnt-squad-concacaf-w-championship-world-cup-qualifier",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Fifa’s World Cup TV rights documents indicate hydration breaks to stay in 2030",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/fifa-hydration-breaks-2030-world-cup-tv-right-documents",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Swing when you’re winning? Biggest leaps across Fifa’s football rankings | The Knowledge",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/biggest-leaps-across-fifa-football-rankings-the-knowledge",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
+      "categoria": "fichajes",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Ecuador debuta mañana en el Mundial Sub-17 de Qatar: este es su calendario de partidos",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-debuta-manana-en-el-mundial-sub-17-de-qatar-este-es-su-calendario-de-partidos-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Rafael Verduga quiere ser presidente de Barcelona SC y pretende convertirlo en sociedad anónima",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/rafael-verduga-quiere-ser-presidente-de-barcelona-sc-y-pretende-convertirlo-en-sociedad-anonima-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "¿Está en duda la continuidad del técnico Ezequiel Medrán?: esto dice José David Jiménez, presidente de Emelec",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/esta-en-duda-la-continuidad-del-tecnico-ezequiel-medran-esto-dice-jose-david-jimenez-presidente-de-emelec-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Deinner Ordóñez, capitán de Ecuador, es baja para el Mundial Sub-17: Marvin Vásquez, de Emelec, lo reemplazará",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/deinner-ordonez-capitan-de-ecuador-es-baja-para-el-mundial-sub-17-marvin-vasquez-de-emelec-lo-reemplazara-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Final de la Sudamericana tendrá presencia ecuatoriana: Boca convoca a Enner Valencia y Atlético Mineiro a Alan Franco, Ángelo Preciado y Alan Minda",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/final-de-la-sudamericana-tendra-presencia-ecuatoriana-boca-convoca-a-enner-valencia-y-atletico-mineiro-a-alan-franco-angelo-preciado-y-alan-minda-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Dónde queda Nueva Caledonia, rival de Ecuador en el Mundial Sub-17",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/donde-queda-nueva-caledonia-rival-de-ecuador-en-el-mundial-sub-17-cuando-juegan-canales-y-horarios-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Canales para ver EN VIVO los partidos de Ecuador en el Mundial Sub-17 de Qatar 2026",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/canales-para-ver-en-vivo-los-partidos-de-ecuador-en-el-mundial-sub-17-de-qatar-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Moisés Caicedo explica las razones por las que tuvo que ser cambiado ante Bolivia: “No me sentía bien”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/moises-caicedo-explica-las-razones-por-las-que-tuvo-que-ser-cambiado-ante-bolivia-no-me-sentia-bien-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "¿Está preparado el fútbol para atender emergencias médicas? Dos muertes de futbolistas en menos de un mes reabren el debate en España y Argentina",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/esta-preparado-el-futbol-para-atender-emergencias-medicas-dos-muertes-de-futbolistas-en-menos-de-un-mes-reabren-el-debate-en-espana-y-argentina-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
+    },
+    {
+      "titulo_original": "Emelec convoca a asamblea extraordinaria de socios para tratar conversión del club a sociedad anónima deportiva",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-convoca-a-asamblea-extraordinaria-de-socios-para-tratar-conversion-del-club-a-sociedad-anonima-deportiva-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-18T20:29:39.252565+00:00"
     }
   ]
 }
