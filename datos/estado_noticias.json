@@ -7,258 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "Children's tournament abandoned for parents' behaviour",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Pitch perimeters under review after Vigar death",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Bristol Rovers being let down by poor players - Evans",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Spain v England: Nations League – live",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Arsenal 1-1 London City Lionesses: Women’s Super League – live",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Record-breaking Andy Robertson is Scotland’s finest captain",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Damián Díaz quiere ser el goleador histórico de Barcelona SC?: “Si digo que no, mentiría”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/damian-diaz-quiere-ser-el-goleador-historico-de-barcelona-sc-si-digo-que-no-mentiria-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Independiente de Avellaneda tendría acercamientos con Aucas por Jhonny Quiñónez: esto dice la prensa argentina del volante de Barcelona SC",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-de-avellaneda-tendria-acercamientos-con-aucas-por-jhonny-quinonez-esto-dice-la-prensa-argentina-del-volante-de-barcelona-sc-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Boca Juniors de Enner Valencia golea a Banfield y es finalista de Copa Argentina",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/boca-juniors-de-enner-valencia-golea-a-banfield-y-es-finalista-de-copa-argentina-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Gustavo Álvarez, DT de Liga de Quito, candidato para dirigir a la Roja?: “Ya lo sabe, será parte de una terna”, dice prensa de Chile",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/gustavo-alvarez-dt-de-liga-de-quito-candidato-para-dirigir-a-la-roja-ya-lo-sabe-sera-parte-de-una-terna-dice-prensa-de-chile-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "How did England cling on against Spain and what did Tuchel do differently?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Who swaggered around like he owned the place? Spain v England ratings",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "London City's 'bravery' paying off in top three pursuit",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Man Utd target Fulham's Bassey - Monday's gossip",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "London City earn point in thrilling draw against Arsenal",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cqy7rd2e400jo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Struggling Charlton make WSL history after defeat at West Ham",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Aston Villa beat Birmingham in WSL derby",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Football Daily",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Ronaldinho makes debut for Italian side Ravenna after 11-year hiatus in playing career",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/ronaldinho-debut-italian-side-ravenna-after-11-year-hiatus-playing-career",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
-      "categoria": "polemicas",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Hopkins’ late stunner sends Kansas City past Gotham and into NWSL final",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/15/kansas-city-current-gotham-fc-nwsl-semi-final-haley-hopkins",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Raúl Becerra presentó su renuncia irrevocable como director deportivo de Deportivo Cuenca",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/raul-becerra-presento-su-renuncia-irrevocable-como-director-deportivo-de-deportivo-cuenca-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¡Con victoria! Ronaldinho concretó su retorno al fútbol profesional a los 46 años de edad",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/con-victoria-ronaldinho-concreto-su-retorno-al-futbol-profesional-a-los-46-anos-de-edad-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "How Frank can restore reputation and save Crystal Palace",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Robertson eclipses Dalglish to become Scotland's most capped man",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjp3v5r9enp1o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Has Trafford replaced Pickford as England No 1?",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Klopp says Infantino worse than Blatter",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Belgium's Lukaku retires from internationals",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwlymxr0ge8zo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Burnham urges caution on scrapping 3pm TV blackout",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6jre22p3941o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Portugal boss responds to criticism from Ronaldo's mum",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck87984g3x1po?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
       "categoria": "mundial",
       "fuente": "BBC Sport - Futbol",
@@ -1404,6 +1152,258 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/acerte-al-venir-a-barcelona-sc-apunta-dario-benedetto-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Frank happy to be 'back in the circus' at Palace",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "How Premier League's big six keep getting richer",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Premier League clubs to cover legal costs if Man City sponsors sue",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "The best European strikers this century - ranked by you",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Pochettino's first Man Utd training session filmed by drone operator",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "England fined for fans' anti-Catholic chants in Spain",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Sutton's predictions v world champion boxer Lauren Price",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Struggling Blackpool sack Evatt on his birthday",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "New manager Frick to take Aberdeen back to basics",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Will this be the tightest Championship promotion race ever?",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'I'm very healthy' - Kompany to return to dugout after health scare",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "We'll only sell if offer makes club blink - McInnes",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Five return for Wales' World Cup play-off final",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Football Daily",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Eight-year ban for player who threw rock that hit assistant referee",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Crawley keep Blackwell as boss until end of season",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Magill returns to NI squad for Greece friendlies",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal v OL Lyonnes: Women’s Champions League – live",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Premier League clubs vote through new rules to increase legal protection for board",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Danny Kelly loved football and never forgot the absurdity of earning a living talking about it | Max Rushden",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/danny-kelly-death-football-radio",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
+      "categoria": "fichajes",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Washington Spirit v Kansas City Current: where the NWSL Championship will be won and lost",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/nwsl-championship-washington-spirit-kc-current-moving-the-goalposts",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Maine Road offer non-league haven to fans of scandal-hit Manchester City",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/manchester-city-guilty-verdict-premier-league-charges-maine-road-non-league",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Scotland smashed by the Swiss and Mauricio Pochettino takes charge | Football Weekly – video",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/19/scotland-smashed-by-the-swiss-and-mauricio-pochettino-takes-charge-football-weekly-video",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Emelec anuncia que incorporará 11 jugadores para la temporada 2027",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-anuncia-que-incorporara-11-jugadores-para-la-temporada-2027-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿Barcelona SC con directiva en el limbo?: esto dice viceministro Roberto Ibáñez sobre el presidente Miguel Montalvo",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-con-directiva-en-el-limbo-esto-dice-viceministro-roberto-ibanez-sobre-el-presidente-miguel-montalvo-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Liga de Quito vs. Aucas: precios, localidades y dónde comprar las entradas para el Superclásico capitalino",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-de-quito-vs-aucas-precios-localidades-y-donde-comprar-las-entradas-para-el-superclasico-capitalino-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Ecuador sub-17 debuta con triunfo ante Nueva Caledonia en el Mundial de Qatar 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-sub-17-debuta-con-triunfo-ante-nueva-caledonia-en-el-mundial-de-catar-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Ecuador debuta hoy en el Mundial Sub-17 de Qatar: estos son sus partidos",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-debuta-hoy-en-el-mundial-sub-17-de-qatar-estos-son-sus-partidos-nota/",
       "estado": "pendiente"
     }
   ]
