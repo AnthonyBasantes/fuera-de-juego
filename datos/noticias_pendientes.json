@@ -1,129 +1,9 @@
 {
-  "actualizado": "2026-11-19T20:34:52.194114+00:00",
+  "actualizado": "2026-11-20T07:12:31.331494+00:00",
   "total": 200,
-  "nuevas": 36,
-  "descartadas": 19,
+  "nuevas": 15,
+  "descartadas": 20,
   "noticias": [
-    {
-      "titulo_original": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Vote for the best men's European striker this century",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmpw45kx90npo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Swansea in fight to keep Matos amid Strasbourg interest",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqly47zn8xlgo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Homophobia on the rise in football - what is your club doing about it?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c617ked5wn9po?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Cameroon, Senegal and Benin close in on Afcon 2027 qualification",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Lye, Peterborough and the never-ending Women's FA Cup tie",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmp3vz1kgpvqo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Every goal from the Women's Super League - matchweek 10",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm1j6r3gj4r0o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "More than F1 - Monza's captivating football story",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6wy4y3pgpx9o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Vinicius says transfer interest affected Real form",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmqx584jwwpvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "What's at the top of Frick's Aberdeen to-do list?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "How promotion, relegation and knockouts work in Nations League",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "Republic of Ireland captain Collins to miss Kosovo game",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "BBC Women's Football Weekly",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pnb81q?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
-    {
-      "titulo_original": "'It's been horrific' - Evatt says sickness bug decimated Blackpool",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck205w918pz7o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-16T21:59:59.165855+00:00"
-    },
     {
       "titulo_original": "Germany 5-0 Netherlands, Switzerland 4-0 Scotland and more: Nations League – live",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1483,126 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
+    },
+    {
+      "titulo_original": "Loneliness & mood swings - what's it like to miss a season through injury?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Shevchenko accuses Mudryk camp of 'baseless slander'",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmgqx908lk44o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Barcelona target Man Utd's Martinez - Friday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Lyon outclass Arsenal for Champions League win",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Premier League: 10 things to look out for this weekend",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "The male footballers best associated with each shirt number – the readers’ edition",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "OL Lyonnes show their class to hit Arsenal’s ambitions for a top-four WCL finish",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Macará retiene los puntos pese a victoria parcial en la apelación del Manta FC",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/macara-retiene-los-puntos-pese-a-victoria-parcial-en-la-apelacion-del-manta-fc-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Fan Fest de Independiente del Valle: precios de las entradas, horarios y programación para celebrar el título de la Liga Pro 2026",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/fan-fest-de-independiente-del-valle-precios-de-las-entradas-horarios-y-programacion-para-celebrar-el-titulo-de-la-liga-pro-2026-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
+    },
+    {
+      "titulo_original": "Pablo Trobbiani, DT de Barcelona SC: “Tenemos cinco finales por delante, hay que buscar los resultados tanto afuera como adentro”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/pablo-trobbiani-dt-de-barcelona-sc-tenemos-cinco-finales-por-delante-hay-que-buscar-los-resultados-tanto-afuera-como-adentro-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-20T07:12:31.331494+00:00"
     }
   ]
 }
