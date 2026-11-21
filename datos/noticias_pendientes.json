@@ -1,113 +1,9 @@
 {
-  "actualizado": "2026-11-20T20:16:02.902786+00:00",
+  "actualizado": "2026-11-21T07:04:20.498256+00:00",
   "total": 200,
-  "nuevas": 42,
+  "nuevas": 13,
   "descartadas": 18,
   "noticias": [
-    {
-      "titulo_original": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Almost impossible for Scotland to not qualify for Euro 2028... or is it?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm62p7eg7nqvo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Millwall open disciplinary proceedings against Baker",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Romario demands Ancelotti sacking as war of words continues",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c63rgq02pz9qo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Hincapie in advanced talks over new Arsenal deal",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "'Why not have a go?' - the halfway line goal phenomenon",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw24041nqlygo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Senegal become first side to book Afcon 2027 spot",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Watch: Can Northern Ireland hit the right notes in Budapest?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cxyvd3z52dq5o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "'Switzerland didn't have better players but were better team'",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c8vg265dnzqeo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Owono did not deserve 12-match ban - Pique",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "York City player pleads not guilty over alleged punch of Rochdale fan",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/c60mdvd4vpy4o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Man convicted for racist abuse of Real Madrid's Mbappe",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjn504vweneyo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
-    {
-      "titulo_original": "Are Scotland still too reliant on 'old guard'?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6zxvd1p4pr0o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-17T20:53:59.857544+00:00"
-    },
     {
       "titulo_original": "Pochettino says he would tell Guardiola to take USA job",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1499,110 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
+    },
+    {
+      "titulo_original": "Cost of Man Utd hiring and firing managers nears £100m",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "NFL great Brady could buy Chelsea stake",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Jeers, injuries and doubters - White's journey back to the top",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Shevchenko lying about drugs test claims - Mudryk",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Lampard calls for fairness after Coventry penalty row",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "First defeat and first red for Ferguson as Glentoran falter",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/articles/c3zxvnz5x7g1o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Watch: Inverness and Ayr play out goalless draw",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Washington Spirit provide hope and joy in a city that badly needs it",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Independiente del Valle levantó la copa de la Liga Pro 2026 y celebró su primer bicampeonato nacional",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-levanto-la-copa-de-la-liga-pro-2026-y-celebro-su-primer-bicampeonato-nacional-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "Carlos González apunta a la Copa Libertadores con Independiente del Valle: “No vamos a parar hasta lograrlo”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/carlos-gonzalez-apunta-a-la-copa-libertadores-con-independiente-del-valle-no-vamos-a-parar-hasta-lograrlo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "¡A la pileta! Los jugadores de Independiente del Valle festejaron el bicampeonato en la plaza Central de Sangolquí",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-la-pileta-los-jugadores-de-independiente-del-valle-festejaron-el-bicampeonato-en-la-plaza-central-de-sangolqui-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
+    },
+    {
+      "titulo_original": "“Hicimos un año espectacular y somos los merecidos campeones”, dice Júnior Sornoza, capitán de Independiente del Valle",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/hicimos-un-ano-espectacular-y-somos-los-merecidos-campeones-dice-junior-sornoza-capitan-de-independiente-del-valle-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
     }
   ]
 }
