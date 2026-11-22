@@ -7,237 +7,6 @@
   },
   "noticias": [
     {
-      "titulo": "¿Está en duda la continuidad del técnico Ezequiel Medrán?: esto dice José David Jiménez, presidente de Emelec",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/esta-en-duda-la-continuidad-del-tecnico-ezequiel-medran-esto-dice-jose-david-jimenez-presidente-de-emelec-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Deinner Ordóñez, capitán de Ecuador, es baja para el Mundial Sub-17: Marvin Vásquez, de Emelec, lo reemplazará",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/deinner-ordonez-capitan-de-ecuador-es-baja-para-el-mundial-sub-17-marvin-vasquez-de-emelec-lo-reemplazara-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Final de la Sudamericana tendrá presencia ecuatoriana: Boca convoca a Enner Valencia y Atlético Mineiro a Alan Franco, Ángelo Preciado y Alan Minda",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/final-de-la-sudamericana-tendra-presencia-ecuatoriana-boca-convoca-a-enner-valencia-y-atletico-mineiro-a-alan-franco-angelo-preciado-y-alan-minda-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Dónde queda Nueva Caledonia, rival de Ecuador en el Mundial Sub-17",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/donde-queda-nueva-caledonia-rival-de-ecuador-en-el-mundial-sub-17-cuando-juegan-canales-y-horarios-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Canales para ver EN VIVO los partidos de Ecuador en el Mundial Sub-17 de Qatar 2026",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/canales-para-ver-en-vivo-los-partidos-de-ecuador-en-el-mundial-sub-17-de-qatar-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Moisés Caicedo explica las razones por las que tuvo que ser cambiado ante Bolivia: “No me sentía bien”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/moises-caicedo-explica-las-razones-por-las-que-tuvo-que-ser-cambiado-ante-bolivia-no-me-sentia-bien-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿Está preparado el fútbol para atender emergencias médicas? Dos muertes de futbolistas en menos de un mes reabren el debate en España y Argentina",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/esta-preparado-el-futbol-para-atender-emergencias-medicas-dos-muertes-de-futbolistas-en-menos-de-un-mes-reabren-el-debate-en-espana-y-argentina-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Emelec convoca a asamblea extraordinaria de socios para tratar conversión del club a sociedad anónima deportiva",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-convoca-a-asamblea-extraordinaria-de-socios-para-tratar-conversion-del-club-a-sociedad-anonima-deportiva-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Vote for the first BBC Men's Footballer of the Year",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Ukrainian FA to blame for failed drugs test - Mudryk",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "FA explored legal challenge to Infantino staying on",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Man Utd pursuing Como's Paz - Thursday's gossip",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxnv4q2qnvjvo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Strasbourg appoint Swansea boss Matos",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Leicester split with sponsor after porn actress row",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Euro Leagues",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pnqxmx?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Buurman rescues late Chelsea win against PSG",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "'Best I've seen live': Watch as player scores ‘special’ goal",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "England defender Carter joins Bay FC after Gotham exit",
-      "categoria": "fichajes",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Manchester United’s infamous 1974 relegation is a warning from history",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
-      "categoria": "mundial",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Transfer window verdict: how every Premier League club fared",
-      "categoria": "fichajes",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿A qué hora juega Ecuador vs. Nueva Caledonia por el Mundial Sub-17 de Qatar 2026? Canales para ver EN VIVO",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-juega-ecuador-vs-nueva-caledonia-por-el-mundial-sub-17-de-qatar-2026-canales-para-ver-en-vivo-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Ecuador vs. Nueva Caledonia en el Mundial Sub-17: Dónde verlo gratis y EN VIVO",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-vs-nueva-caledonia-en-el-mundial-sub-17-donde-verlo-gratis-y-en-vivo-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Norberto Araujo, DT de Aucas, antes del Superclásico capitalino: “Queremos ir con personalidad para enfrentar a Liga de Quito y conseguir el cupo a Libertadores”",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/norberto-araujo-dt-de-aucas-previo-al-superclasico-capitalino-queremos-ir-con-personalidad-para-enfrentar-a-liga-de-quito-y-conseguir-el-cupo-a-libertadores-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "¿A qué hora empieza el partido de Ecuador vs. Nueva Caledonia por el Mundial Sub-17 de Qatar 2026?",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-empieza-el-partido-de-ecuador-vs-nueva-caledonia-por-el-mundial-sub-17-de-qatar-2026-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "“Acerté al venir a Barcelona SC”, apunta Darío Benedetto",
-      "categoria": "ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/acerte-al-venir-a-barcelona-sc-apunta-dario-benedetto-nota/",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Frank happy to be 'back in the circus' at Palace",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxlylzyg38l8o?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "How Premier League's big six keep getting richer",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Premier League clubs to cover legal costs if Man City sponsors sue",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "The best European strikers this century - ranked by you",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
-      "titulo": "Pochettino's first Man Utd training session filmed by drone operator",
-      "categoria": "mundial",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
-      "estado": "pendiente"
-    },
-    {
       "titulo": "England fined for fans' anti-Catholic chants in Spain",
       "categoria": "mundial",
       "fuente": "BBC Sport - Futbol",
@@ -1404,6 +1173,237 @@
       "categoria": "ecuador",
       "fuente": "El Universo - Ecuador",
       "enlace_fuente": "https://eluniverso.com/deportes/futbol/arsenal-sin-piero-hincapie-empata-2-2-ante-newcastle-y-deja-escapar-puntos-en-la-premier-league-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "The red card that changed Liverpool-Man Utd: correct call?",
+      "categoria": "polemicas",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Watford seek sixth manager in 18 months after sacking Dionisi",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "PSG's Doue to have surgery on ruptured ACL",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Pochettino on 'painful' defeat in first game as Man Utd boss",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Arsenal frustrations grow as winless home run continues",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Iraola 'enjoyed' big win over Man Utd",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Spurs deny Man City top spot with statement win",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Man Utd score dramatic late winner to extend record run",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Frick delivers on 'heavy metal football' promise",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Big wins as Celtic, Rangers, City & Hearts progress",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8zx91z9xe9yo?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Argentina midfielder Paredes collapses during TV interview",
+      "categoria": "mundial",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "European football: Barcelona roar back from two goals down to sink Villarreal",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "categoria": "polemicas",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "The footballer-turned-BookTuber who made an obscure Tolstoy novella a belated bestseller",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/world/2026/nov/22/the-football-superstar-turned-booktuber-who-made-an-obscure-tolstoy-novella-a-belated-bestseller",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "‘When I walked for Burberry I met Kanye West’: the two lives of Bromley footballer Omar Sowunmi",
+      "categoria": "mundial",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/18/omar-sowunmi-bromley-footballer-model-kanye-west",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿Cómo nació el Superclásico capitalino entre Liga de Quito y Aucas?",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/como-nacio-el-superclasico-capitalino-entre-liga-de-quito-y-aucas-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "[EN VIVO] Liga de Quito vs. Aucas: el superclásico capitalino por la fecha 7 del hexagonal de la Liga Ecuabet 2026",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/en-vivo-liga-de-quito-vs-aucas-el-superclasico-capitalino-por-la-fecha-7-del-hexagonal-de-la-liga-ecuabet-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Delfín rescata un empate agónico ante Manta FC y ambos siguen comprometidos con el descenso de Liga Pro",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/delfin-rescata-un-empate-agonico-ante-manta-fc-y-ambos-siguen-comprometidos-con-el-descenso-de-liga-pro-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "¿A qué hora y dónde ver EN VIVO Liga de Quito vs. Aucas por la Liga Ecuabet 2026?",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/a-que-hora-y-donde-ver-en-vivo-liga-de-quito-vs-aucas-por-la-liga-ecuabet-2026-nota/",
+      "estado": "pendiente"
+    },
+    {
+      "titulo": "Mundial Sub-17: Ecuador deja escapar la victoria ante Uganda y se jugará la clasificación frente a Corea del Sur",
+      "categoria": "ecuador",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-sub-17-deja-escapar-la-victoria-ante-uganda-y-se-jugara-la-clasificacion-frente-a-corea-del-sur-nota/",
       "estado": "pendiente"
     }
   ]
