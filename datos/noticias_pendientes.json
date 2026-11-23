@@ -1,177 +1,9 @@
 {
-  "actualizado": "2026-11-22T19:38:19.565765+00:00",
+  "actualizado": "2026-11-23T07:35:42.347371+00:00",
   "total": 200,
-  "nuevas": 33,
-  "descartadas": 24,
+  "nuevas": 21,
+  "descartadas": 22,
   "noticias": [
-    {
-      "titulo_original": "England fined for fans' anti-Catholic chants in Spain",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Sutton's predictions v world champion boxer Lauren Price",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Struggling Blackpool sack Evatt on his birthday",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "New manager Frick to take Aberdeen back to basics",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Will this be the tightest Championship promotion race ever?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c63ele354444o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "'I'm very healthy' - Kompany to return to dugout after health scare",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "We'll only sell if offer makes club blink - McInnes",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Five return for Wales' World Cup play-off final",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Football Daily",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Eight-year ban for player who threw rock that hit assistant referee",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Crawley keep Blackwell as boss until end of season",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Magill returns to NI squad for Greece friendlies",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Arsenal v OL Lyonnes: Women’s Champions League – live",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Football Daily | Football’s political gamers face off at Fifa with the real-life final boss",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/football-daily-fifa-presidential-election",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Premier League clubs vote through new rules to increase legal protection for board",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Danny Kelly loved football and never forgot the absurdity of earning a living talking about it | Max Rushden",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/danny-kelly-death-football-radio",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
-    {
-      "titulo_original": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-19T20:34:52.194114+00:00"
-    },
     {
       "titulo_original": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1435,174 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-22T19:38:19.565765+00:00"
+    },
+    {
+      "titulo_original": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Fifa to confirm UK as host for 2035 Women's World Cup",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Man Utd plotting Toney move - Monday's gossip",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Did Liverpool 'get lucky' with red card decision?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Pepe did not injure eyes staring at sun, say Villarreal",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "'We feel the pain': Pochettino on 4-0 defeat at  Liverpool to start Manchester United era – video",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Gustavo Álvarez, DT de Liga de Quito, tras perder ante Aucas: “El primer responsable soy yo”",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/gustavo-alvarez-dt-de-liga-de-quito-tras-perder-ante-aucas-el-primer-responsable-soy-yo-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "“El objetivo es el tercer cupo a la Libertadores”: Norberto Araujo, DT de Aucas, tras vencer a Liga de Quito",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/el-objetivo-es-el-tercer-cupo-a-la-libertadores-norberto-araujo-dt-de-aucas-tras-vencer-a-liga-de-quito-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "¡Oficial! Liga de Quito anuncia la salida de José Carabalí",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/oficial-liga-de-quito-anuncia-la-salida-de-jose-carabali-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Así queda la tabla de posiciones de la Liga Ecuabet 2026 tras la victoria de Aucas ante Liga de Quito en la fecha 7 del hexagonal",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-queda-la-tabla-de-posiciones-de-la-liga-ecuabet-2026-tras-la-victoria-de-aucas-ante-liga-de-quito-en-la-fecha-7-del-hexagonal-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Así marcha la tabla del hexagonal del descenso de Liga Ecuabet tras el triunfo de Mushuc Runa y el empate en el clásico mantense en la fecha 7",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asi-marcha-la-tabla-del-hexagonal-del-descenso-de-liga-pro-tras-el-triunfo-de-mushuc-runa-y-el-empate-en-el-clasico-mantense-en-la-fecha-7-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
+    },
+    {
+      "titulo_original": "Mushuc Runa derrota a Orense en Machala y da un paso importante hacia la permanencia en la serie A de Liga Ecuabet",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/mushuc-runa-derrota-a-orense-en-machala-y-da-un-paso-importante-hacia-la-permanencia-en-la-serie-a-de-liga-ecuabet-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-23T07:35:42.347371+00:00"
     }
   ]
 }
