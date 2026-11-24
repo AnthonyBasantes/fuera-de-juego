@@ -1,97 +1,9 @@
 {
-  "actualizado": "2026-11-23T23:52:24.801672+00:00",
+  "actualizado": "2026-11-24T09:52:17.273482+00:00",
   "total": 200,
-  "nuevas": 58,
-  "descartadas": 12,
+  "nuevas": 11,
+  "descartadas": 15,
   "noticias": [
-    {
-      "titulo_original": "La hinchada de Independiente del Valle responde: el estadio Banco Guayaquil luce casi lleno ante Macará",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/la-hinchada-de-independiente-del-valle-responde-el-estadio-banco-guayaquil-luce-casi-lleno-ante-macara-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "Exdirectivo de Emelec explota contra José David Jiménez, actual presidente: “No tienes capacidad ética ni moral para convertirnos en sociedad anónima”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/exdirectivo-de-emelec-explota-contra-jose-david-jimenez-actual-presidente-no-tienes-capacidad-etica-ni-moral-para-convertirnos-en-sociedad-anonima-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "Miller Salazar explica los motivos por los que no se lanzó por tercer periodo consecutivo a la presidencia de Macará",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/miller-salazar-explica-los-motivos-por-los-que-no-se-lanzo-por-tercer-periodo-consecutivo-a-la-presidencia-de-macara-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "Zinedine Zidane, técnico de Francia y el duelo ante España por Liga de Naciones de la UEFA: “no es una revancha de la semifinal del Mundial”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/zinedine-zidane-tecnico-de-francia-y-el-duelo-ante-espana-por-liga-de-naciones-de-la-uefa-no-es-una-revancha-de-la-semifinal-del-mundial-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "Barcelona SC vs. Independiente del Valle: fecha y hora del compromiso reprogramado de la fecha 1 de Liga Ecuabet",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-vs-independiente-del-valle-fecha-y-hora-del-compromiso-reprogramado-de-la-fecha-1-de-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "¿Barcelona SC tendrá elecciones anticipadas en diciembre próximo?",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-tendra-elecciones-anticipadas-en-diciembre-proximo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "¿Diego Martínez continuará como DT de Universidad Católica en 2027?: esto revela Pablo Ortiz, presidente del club universitario",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/diego-martinez-continuara-como-dt-de-universidad-catolica-en-2027-esto-revela-pablo-ortiz-presidente-del-club-universitario-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "Dónde ver Independiente del Valle vs. Macará EN VIVO por la Liga Ecuabet: a qué hora es la premiación del campeón",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/independiente-del-valle-vs-macara-conoce-el-horario-donde-ver-en-vivo-por-zapping-y-a-que-hora-sera-la-premiacion-del-bicampeon-de-liga-ecuabet-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-20T20:16:02.902786+00:00"
-    },
-    {
-      "titulo_original": "Cost of Man Utd hiring and firing managers nears £100m",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
-    },
-    {
-      "titulo_original": "NFL great Brady could buy Chelsea stake",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
-    },
-    {
-      "titulo_original": "Jeers, injuries and doubters - White's journey back to the top",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-21T07:04:20.498256+00:00"
-    },
     {
       "titulo_original": "Shevchenko lying about drugs test claims - Mudryk",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1515,94 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
+    },
+    {
+      "titulo_original": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "Two goals in 15 games - what's going on with Gyokeres?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "MLS side to honour deceased hippo with tifo",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6n90jrvxrzpo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "The youngest Premier League goalscorers this season",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "Why Potts swapped West Ham for Club Brugge after 16 years",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxe89j8gj96jo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "Barnet forward Noel-Williams charged with rape",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/kevin-de-bruyne-napoli-manchester-city-champions-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "Nwaneri at risk of becoming Arsenal’s forgotten teenager on return with Dortmund",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/ethan-nwaneri-arsenal-dortmund-mikel-arteta-champions-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "Training hard and biding his time, Dele Alli has not given up on football yet",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
+    },
+    {
+      "titulo_original": "Oficial: Barcelona SC convoca a elecciones anticipadas para el 26 de diciembre",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/oficial-barcelona-sc-convoca-a-elecciones-anticipadas-para-el-26-de-diciembre-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-24T09:52:17.273482+00:00"
     }
   ]
 }
