@@ -1,113 +1,9 @@
 {
-  "actualizado": "2026-11-24T22:24:57.721398+00:00",
+  "actualizado": "2026-11-25T08:30:48.104834+00:00",
   "total": 200,
-  "nuevas": 41,
-  "descartadas": 16,
+  "nuevas": 13,
+  "descartadas": 17,
   "noticias": [
-    {
-      "titulo_original": "Qué se juega hoy Barcelona SC ante Universidad Católica: ¿tiene chance de entrar a Copa Libertadores 2027?",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/que-se-juega-hoy-barcelona-sc-ante-universidad-catolica-tiene-chance-de-entrar-a-copa-libertadores-2027-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-21T19:14:13.021866+00:00"
-    },
-    {
-      "titulo_original": "“Ecuador cerrará 2026 con una afición entusiasmada”, dice la prensa internacional sobre las victorias de la Tricolor en los amistosos",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/ecuador-cerrara-el-2026-con-una-aficion-entusiasmada-dice-la-prensa-de-internacional-sobre-las-victorias-de-la-tricolor-en-los-amistosos-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-21T19:14:13.021866+00:00"
-    },
-    {
-      "titulo_original": "¿Cesár Farías, extécnico de Barcelona SC, está cerca de volver a dirigir?: esto dice la prensa de Venezuela",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/cesar-farias-extecnico-de-barcelona-sc-esta-cerca-de-volver-a-dirigir-esto-dice-la-prensa-de-venezuela-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-21T19:14:13.021866+00:00"
-    },
-    {
-      "titulo_original": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "Arsenal go six points clear after lively draw at Newcastle",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "Coventry beat Palace in Frank's first game after late own goal",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "Man City drop points to Fulham despite superb Anderson volley",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "Evanilson strikes again as Bournemouth beat Forest",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "Villa's home woes continue as Sunderland earn point",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "Raya set to have scan on injury - how much would Arsenal miss him?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
-    {
-      "titulo_original": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-22T06:44:56.711047+00:00"
-    },
     {
       "titulo_original": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
       "fuente": "BBC Sport - Futbol",
@@ -1603,6 +1499,110 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-24T22:24:57.721398+00:00"
+    },
+    {
+      "titulo_original": "Are Manchester United this season's Tottenham?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "How to unearth young stars, the Bayern Munich way",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Arteta says Arsenal need more luck to kill off games",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Bellingham plays down Zidane comparison after wonder goal",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "The story of how Pelé and Maradona went from friends to bitter rivals",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/dynamic-pricing-tickets-womens-world-cup-2031",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Matildas keeper reveals head trauma-induced neurological disorder almost ended career",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/matildas-goalkeeper-teagan-micah-neurological-disorder-head-trauma",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Philippe Diallo learns harsh reality of mounting global challenge to Infantino",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/philippe-diallo-gianni-infantino-fifa-president-confederation-african-football",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Canales para ver EN VIVO al PSG de Willian Pacho vs. Roma por la Champions League",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/canales-para-ver-en-vivo-al-psg-de-willian-pacho-vs-roma-por-la-champions-league-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
+    },
+    {
+      "titulo_original": "Liga de Quito planifica cambios para 2027: posibles salidas, renovaciones y negociaciones",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-de-quito-planifica-cambios-para-2027-posibles-salidas-renovaciones-y-negociaciones-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
     }
   ]
 }
