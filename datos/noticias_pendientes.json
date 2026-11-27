@@ -1,177 +1,9 @@
 {
-  "actualizado": "2026-11-26T21:29:41.896043+00:00",
+  "actualizado": "2026-11-27T08:28:46.265350+00:00",
   "total": 200,
-  "nuevas": 31,
-  "descartadas": 17,
+  "nuevas": 21,
+  "descartadas": 20,
   "noticias": [
-    {
-      "titulo_original": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
-      "categoria": "polemicas",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Madness erupts as Sevilla deny Betis in wild end to Spain’s ‘derby of derbies’",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/23/sevilla-real-betis-seville-derby-la-liga-kike-salas",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "PSG had the best attack in Europe but Doué and Kvaratskhelia injuries will test Luis Enrique",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/23/psg-best-attack-europe-desire-doue-acl-khvicha-kvaratskhelia-luis-enrique",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "WSL talking points: captain Spence inspires Spurs’ shock win at City and Lionesses impress",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/23/wsl-talking-points-tottenham-london-city-lionesses-chelsea-arsenal",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "‘Haaland must be worried’: Thierno Barry’s rise has David Moyes purring",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/23/thierno-barry-rise-david-moyes-purring-everton",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Welcome to Manchester United, Mauricio | Football Weekly – video",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/video/2026/nov/23/welcome-to-manchester-united-mauricio-football-weekly-video",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Women’s transfer window summer 2026: all deals from world’s top six leagues",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Transfer window verdict: how every Premier League club fared",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
-      "categoria": "fichajes",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Willian Pacho agradece el apoyo de Ecuador tras la última fecha FIFA: “Siempre es un honor vestir nuestra camiseta”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/willian-pacho-agradece-el-apoyo-de-ecuador-tras-la-ultima-fecha-fifa-siempre-es-un-honor-vestir-nuestra-camiseta-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Asamblea aprueba elecciones anticipadas en Barcelona SC para diciembre",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/asamblea-ratifica-elecciones-anticipadas-en-barcelona-sc-para-diciembre-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "La Tri femenina quiere mantener vivo el sueño de llegar al Mundial 2027: estos son los 3 impactos deportivos",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-tri-femenina-quiere-mantener-vivo-el-sueno-de-llegar-al-mundial-2027-estos-son-los-3-impactos-deportivos-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Un balón con cascabeles y una tribuna en silencio: así se juega el fútbol para no videntes en Ecuador",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/un-balon-con-cascabeles-y-una-tribuna-en-silencio-asi-se-juega-el-futbol-para-no-videntes-en-ecuador-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "David Saya, de Emelec, es el jugador sub-22 con mayores ocasiones de gol creadas en Sudamérica",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/david-saya-de-emelec-es-el-jugador-sub-22-con-mayor-ocasiones-de-gol-creadas-en-sudamerica-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Inglaterra, Escocia, Gales e Irlanda del Norte organizarán el Mundial Femenino 2035",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/inglaterra-escocia-gales-e-irlanda-del-norte-organizaran-el-mundial-femenino-2035-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Jonatan Álvez recuerda su expulsión en los cuartos de final de la Copa Libertadores con Barcelona SC: “Otro loco hará historia”",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/jonatan-alvez-recuerda-su-expulsion-en-los-cuartos-de-final-de-la-copa-libertadores-con-barcelona-sc-otro-loco-hara-historia-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "¿Cuándo, a qué hora y dónde ver EN VIVO Barcelona SC vs. Independiente del Valle?: el partido pendiente de la Liga Pro",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/cuando-a-que-hora-y-donde-ver-en-vivo-barcelona-sc-vs-independiente-del-valle-el-partido-pendiente-de-la-liga-pro-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
-    {
-      "titulo_original": "Emelec mantiene prohibición para inscribir jugadores por deuda con Ismael Rescalvo",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/emelec-mantiene-prohibicion-para-inscribir-jugadores-por-deuda-con-ismael-rescalvo-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-23T23:52:24.801672+00:00"
-    },
     {
       "titulo_original": "“Yo confío mucho en que el socio va a votar favorablemente por esto”: ¿qué necesita Emelec para aprobar la transformación a SAD?",
       "fuente": "El Universo - Ecuador",
@@ -1603,6 +1435,174 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-26T21:29:41.896043+00:00"
+    },
+    {
+      "titulo_original": "Man City owners should be forced to sell, say rival club chiefs",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "What happens now for Bayern Munich and Musiala?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmly5j49ypzqo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "What makes or breaks a high press?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/crgqxn1k283zo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Hearts' European hopes hang by a thread but Vrancken proud",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Is it time to sell Erling Haaland? - FPL gameweek 12 dilemmas",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Euro Leagues",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Moyes questions Tarkowski red in Brentford loss",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Andrews praises 'versatile' Lewis-Potter",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c6z0kdgz39p3o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "What will returning Magill bring to Northern Ireland?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Premier League: 10 things to look out for this weekend",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Liam Delap’s struggles are symbolic of damaging Chelsea churn",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/27/liam-delap-struggles-damaging-chelsea-churn",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Thomas Frank earns first Crystal Palace win as McNeil cuts down Real Sociedad",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "Barcelona SC exige justicia arbitral tras la polémica jugada ante Independiente del Valle",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-exige-justicia-arbitral-tras-la-polemica-jugada-ante-independiente-del-valle-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "¡Oficial! La final de la Copa Ecuador 2026 se jugará el 10 de diciembre entre Independiente del Valle y Universidad Católica en Cuenca",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/oficial-la-final-de-la-copa-ecuador-2026-se-jugara-el-10-de-diciembre-entre-independiente-del-valle-y-universidad-catolica-en-cuenca-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
+    },
+    {
+      "titulo_original": "La mini-Tri clasificó a los dieciseisavos de final del Mundial Sub-17: estos son los 3 impactos deportivos",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/la-mini-tri-clasifico-a-los-dieciseisavos-de-final-del-mundial-sub-17-estos-son-los-3-impactos-deportivos-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-27T08:28:46.265350+00:00"
     }
   ]
 }
