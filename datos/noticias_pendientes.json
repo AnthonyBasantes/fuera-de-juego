@@ -1,257 +1,9 @@
 {
-  "actualizado": "2026-11-28T07:46:16.150939+00:00",
+  "actualizado": "2026-11-28T19:59:58.784777+00:00",
   "total": 200,
-  "nuevas": 22,
+  "nuevas": 31,
   "descartadas": 17,
   "noticias": [
-    {
-      "titulo_original": "Arteta says Arsenal need more luck to kill off games",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Bellingham plays down Zidane comparison after wonder goal",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "The story of how Pelé and Maradona went from friends to bitter rivals",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/pele-diego-maradona-brazil-argentina-world-cup",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Has a footballer had a longer career hiatus than Ronaldinho’s 11 year-gap? | The Knowledge",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/has-a-footballer-had-a-longer-career-hiatus-than-ronaldinhos-11-year-gap",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/dynamic-pricing-tickets-womens-world-cup-2031",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Matildas keeper reveals head trauma-induced neurological disorder almost ended career",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/matildas-goalkeeper-teagan-micah-neurological-disorder-head-trauma",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Philippe Diallo learns harsh reality of mounting global challenge to Infantino",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/24/philippe-diallo-gianni-infantino-fifa-president-confederation-african-football",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Canales para ver EN VIVO al PSG de Willian Pacho vs. Roma por la Champions League",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/futbol/canales-para-ver-en-vivo-al-psg-de-willian-pacho-vs-roma-por-la-champions-league-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Liga de Quito planifica cambios para 2027: posibles salidas, renovaciones y negociaciones",
-      "fuente": "El Universo - Ecuador",
-      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/liga-de-quito-planifica-cambios-para-2027-posibles-salidas-renovaciones-y-negociaciones-nota/",
-      "categoria": "ecuador",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T08:30:48.104834+00:00"
-    },
-    {
-      "titulo_original": "Regulator chief 'has stomach' to face Man City",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "'Best midfielder in the world' - where does Bellingham rank?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Glasner criticises Forest players yet to learn English",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Confusion and anger - Yoro red card rescinded, but row goes on",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-      "categoria": "polemicas",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Raheem Sterling - from national icon to suspended jail sentence",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
-      "categoria": "polemicas",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Lincoln sack head coach duo Cohen and Shaw after only six months",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Watford appoint Iordanescu as head coach",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Liverpool mull Quansah return - Thursday's gossip",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Leicester no longer for sale as owner looks to future",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ck1l0j77j43eo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "'Justice for sport' - Afcon reaction as Senegal reinstated as winners",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6vg2e32e7vno?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "EA adds AI-generated John Motson to FC 27 video game",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "EFL Trophy holders Luton face Palace U21s in last 32",
-      "fuente": "BBC Sport - Futbol",
-      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/ckzd9vqed5d7o?at_medium=RSS&at_campaign=rss",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Sporting v Manchester United: Champions League – live",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Champions League: Gordon twice on target in Barcelona’s cruise at Sabah",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Oliver Glasner criticises Nottingham Forest for not making players learn English",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
-    {
-      "titulo_original": "‘He’s more elegant’: Bellingham downplays Zidane comparisons after wondergoal",
-      "fuente": "The Guardian - Futbol",
-      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/25/jude-bellingham-downplays-comparisons-to-zidane-after-wondergoal",
-      "categoria": "mundial",
-      "estado": "pendiente",
-      "fecha_detectada": "2026-11-25T21:40:20.441516+00:00"
-    },
     {
       "titulo_original": "Senegal regaining Afcon title is the right end to fiasco but issues do not stop there | Osasu Obayiuwana",
       "fuente": "The Guardian - Futbol",
@@ -1603,6 +1355,254 @@
       "categoria": "ecuador",
       "estado": "pendiente",
       "fecha_detectada": "2026-11-28T07:46:16.150939+00:00"
+    },
+    {
+      "titulo_original": "A defence with relegation written all over it - no Man Utd honeymoon for Pochettino",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cq62pz0ew2kno?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "From jeers to European dreams - how Farke transformed Leeds",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c60rk07wp22vo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Brentford aim for 'special things' after ending 89-year Old Trafford wait",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cm782446d9n6o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Whose Man Utd days look numbered? Player ratings",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6x2wjegj9nko?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Lens striker Sima scores five goals in 38 minutes",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cw05399rqzqvo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Difficult to be positive after Brentford loss - Pochettino",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cmlyd70nd775o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Europe-chasing Leeds can 'dream big' - Farke",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cwdr1k85kgexo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "4-0 win over Man Utd a 'surreal' feeling - Andrews",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cq36gj9x0kn9o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Lampard credits high-flying Leeds after 3-0 loss",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/videos/cm36gj95y3kgo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Work in progress but Liverpool find belief again with Iraola",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cmn4k7vdqx4vo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "England call up Wubben-Moy for World Cup play-off",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Ranking the Premier League's ultimate free-kick specialists",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Swansea close in on Alexandersson as next boss",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cwj0579d8jvpo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "How Cardiff are changing Swansea derby narrative",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/c6174nyvq2evo?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Are Manchester United this season's Tottenham?",
+      "fuente": "BBC Sport - Futbol",
+      "enlace_fuente": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Ipswich Town 2-2 Aston Villa: Premier League – live",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Manchester United mauled by Brentford in Pochettino’s ugly Old Trafford debut",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/manchester-united-brentford-premier-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Sean Longstaff double fires Leeds past overwhelmed Coventry",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/leeds-coventry-premier-league-match-report",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Championship roundup: West Ham end winless run but lose Bowen to injury",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/championship-roundup-norwichs-clement-sent-off-in-bad-tempered-preston-draw",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "European football: Kimmich red card for hair pull in goalless draw caps Bayern’s bad week",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/european-football-hamburg-bayern-munich-lazio-inter-real-madrid-psg",
+      "categoria": "polemicas",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Basque to the future: Andoni Iraola fired up for first Merseyside derby",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Ashley Cole holds talks with Bristol Rovers for first management job in England",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/ashley-cole-bristol-rovers-manager-steve-evans-league-two",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Jørgen Strand Larsen: ‘Dad and I have been best mates since I was a kid – that’s not going to change’",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/jorgen-strand-larsen-cancer-crystal-place-father-norway",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "The Renéessance is over but Arsenal’s chaotic cycle will go on without further change | Suzanne Wrack",
+      "fuente": "The Guardian - Futbol",
+      "enlace_fuente": "https://www.theguardian.com/football/2026/nov/28/renee-slegers-arsenal-womens-super-league",
+      "categoria": "mundial",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Universidad Católica no puede con Independiente del Valle y empata en la fecha 8 del hexagonal final de la Liga Ecuabet",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/universidad-catolica-no-puede-con-independiente-del-valle-y-empata-en-la-fecha-8-del-hexagonal-final-de-liga-ecuabet-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "“El comunicado de Barcelona SC es una vergüenza”, apunta Carlos Alfaro Moreno, expresidente de la institución",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/el-comunicado-de-barcelona-sc-es-una-verguenza-apunta-carlos-alfaro-moreno-expresidente-de-la-institucion-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Jhegson Méndez fue sancionado con cuatro partidos tras su expulsión ante Barcelona SC",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/jhegson-mendez-fue-sancionado-con-cuatro-partidos-tras-su-expulsion-ante-barcelona-sc-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "Barcelona SC vs. Aucas: dónde y a qué hora ver el partido por la fecha 8 de la Liga Ecuabet",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/campeonato-ecuatoriano/barcelona-sc-vs-aucas-donde-y-a-que-hora-ver-el-partido-por-la-fecha-8-de-la-liga-ecuabet-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "“El objetivo es consolidar a Ecuador como un referente de la región”, dice Eva Espejo, directora técnica de la selección femenina",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/el-objetivo-es-consolidar-a-ecuador-como-un-referente-de-la-region-dice-eva-espejo-directora-tecnica-de-la-seleccion-femenina-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
+    },
+    {
+      "titulo_original": "¿A qué hora y dónde ver en vivo el duelo Ecuador vs. Ghana por el repechaje al Mundial Femenino 2027?",
+      "fuente": "El Universo - Ecuador",
+      "enlace_fuente": "https://eluniverso.com/deportes/futbol/a-que-hora-y-donde-ver-en-vivo-a-ecuador-vs-ghana-por-el-repechaje-al-mundial-femenino-2027-nota/",
+      "categoria": "ecuador",
+      "estado": "pendiente",
+      "fecha_detectada": "2026-11-28T19:59:58.784777+00:00"
     }
   ]
 }
